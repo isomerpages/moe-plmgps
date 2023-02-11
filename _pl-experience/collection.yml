@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - Curriculum/.keep
       - Co Curriculum.md
       - Physical Sports/Badminton.md
       - Physical Sports/Rhythmic Gymnastics.md
