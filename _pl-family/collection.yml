@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Management Team.md
+      - Teaching Staff/Primary 4.md
       - Teaching Staff/Primary 5.md
       - Teaching Staff/Primary 6.md
       - Teaching Staff/.keep
