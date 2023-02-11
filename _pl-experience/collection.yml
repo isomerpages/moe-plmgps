@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - CCE/MOE Sexuality Education in Schools.md
       - CCE/PAL@PL.md
       - CCE/Pastoral Care and Counselling @PL.md
       - CCE/Values in Action@PL.md
