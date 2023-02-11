@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - Events/Guidelines for Home School Partnership.md
       - Events/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
