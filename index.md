@@ -9,13 +9,10 @@ sections:
   - hero:
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Latest News
+          description: Click here
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Quick Links
+          description: Click here
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
 ---
