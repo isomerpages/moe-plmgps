@@ -2,4 +2,5 @@ collections:
   pl-partners:
     output: true
     order:
+      - Alumni.md
       - Service Operators.md
