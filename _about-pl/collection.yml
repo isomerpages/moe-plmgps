@@ -1,4 +1,5 @@
 collections:
   about-pl:
     output: true
-    order: []
+    order:
+      - Consent for Photography and Videos.md
