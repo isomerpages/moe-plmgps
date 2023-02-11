@@ -2,4 +2,5 @@ collections:
   pl-experience:
     output: true
     order:
+      - Co Curriculum ICT.md
       - Learning for Life Programme (LLP).md
