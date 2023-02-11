@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - CCA Clubs and Uniform Group/Media Club.md
       - CCA Clubs and Uniform Group/Science Environment Club.md
       - CCA Clubs and Uniform Group/.keep
       - CCA ICT.md
