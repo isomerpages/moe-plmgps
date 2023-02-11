@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - CCE/Character and Citizenship Education.md
       - CCE/Cyber Wellness (CW) Education @PL.md
       - CCE/Education and Career Guidance@PL.md
       - CCE/MOE Sexuality Education in Schools.md
