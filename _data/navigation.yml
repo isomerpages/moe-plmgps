@@ -1,2 +1,14 @@
 logo: /images/isomer-logo.svg
-links: []
+links:
+  - title: About PL
+    collection: about-pl
+  - title: PL Experience
+    collection: pl-experience
+  - title: PL Family
+    collection: pl-family
+  - title: PL Partners
+    collection: pl-partners
+  - title: PL Parents' Portal
+    collection: pl-parents-portal
+  - title: Links
+    collection: links
