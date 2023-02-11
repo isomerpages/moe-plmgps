@@ -2,6 +2,7 @@ collections:
   pl-partners:
     output: true
     order:
+      - PLMGS (Sec).md
       - Parents School Support Group (PSSG).md
       - Alumni.md
       - Service Operators.md
