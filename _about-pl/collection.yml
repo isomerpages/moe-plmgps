@@ -2,6 +2,7 @@ collections:
   about-pl:
     output: true
     order:
+      - Our Achievements/CCA Awards.md
       - Our Achievements/School Awards.md
       - Our Achievements/.keep
       - Consent for Photography and Videos.md
