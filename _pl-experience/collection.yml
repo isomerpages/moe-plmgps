@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - Events/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md
