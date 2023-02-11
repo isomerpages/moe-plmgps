@@ -2,6 +2,7 @@ collections:
   pl-parents-portal:
     output: true
     order:
+      - PL Year Book 2022.md
       - Parents' Briefing 2023.md
       - Calendar.md
       - Forms.md
