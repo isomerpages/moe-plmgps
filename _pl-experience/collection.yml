@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - Physical Sports/Rhythmic Gymnastics.md
       - Physical Sports/Rope Skipping.md
       - Physical Sports/Table Tennis.md
       - Physical Sports/Track and Field.md
