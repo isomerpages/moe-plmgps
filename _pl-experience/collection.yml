@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - CCA Performing Arts/International Dance.md
       - CCA Performing Arts/String Ensemble.md
       - CCA Performing Arts/.keep
       - CCA Clubs and Uniform Group/Arts.md
