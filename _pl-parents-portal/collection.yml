@@ -1,4 +1,5 @@
 collections:
   pl-parents-portal:
     output: true
-    order: []
+    order:
+      - Resource for Parents.md
