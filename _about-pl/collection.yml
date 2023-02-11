@@ -2,6 +2,7 @@ collections:
   about-pl:
     output: true
     order:
+      - Non Financial Information.md
       - School Rules.md
       - Contact Us.md
       - Our Achievements/CCA Awards.md
