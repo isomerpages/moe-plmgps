@@ -2,6 +2,7 @@ collections:
   about-pl:
     output: true
     order:
+      - Contact Us.md
       - Our Achievements/CCA Awards.md
       - Our Achievements/School Awards.md
       - Our Achievements/.keep
