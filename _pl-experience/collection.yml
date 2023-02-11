@@ -2,7 +2,6 @@ collections:
   pl-experience:
     output: true
     order:
-      - PL Experience/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/Cyber Wellness (CW) Education @PL.md
       - CCE/Education and Career Guidance@PL.md
