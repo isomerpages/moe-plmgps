@@ -2,4 +2,5 @@ collections:
   pl-parents-portal:
     output: true
     order:
+      - Termly Notification.md
       - Resource for Parents.md
