@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - Curriculum/Physical Education.md
       - Curriculum/.keep
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
