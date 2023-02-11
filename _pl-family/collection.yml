@@ -2,6 +2,6 @@ collections:
   pl-family:
     output: true
     order:
-      - Teaching Staff/.keep
       - School Management Team.md
+      - Teaching Staff/.keep
       - Non Teaching Staff.md
