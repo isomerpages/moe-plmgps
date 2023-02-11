@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - CCA Clubs and Uniform Group/.keep
-      - Co Curriculum ICT.md
+      - CCA ICT.md
       - Learning for Life Programme (LLP).md
