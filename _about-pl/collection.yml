@@ -2,6 +2,7 @@ collections:
   about-pl:
     output: true
     order:
+      - School Information/Creed & Anthem.md
       - School Information/.keep
       - Non Financial Information.md
       - School Rules.md
