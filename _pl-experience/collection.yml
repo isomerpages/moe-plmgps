@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - CCE/Values in Action@PL.md
       - CCE/.keep
       - Curriculum/.keep
       - Co Curriculum.md
