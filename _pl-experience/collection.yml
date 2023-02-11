@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - Curriculum/Mathematics.md
       - Curriculum/Science.md
       - Curriculum/Mother Tongue.md
       - Curriculum/Aesthetics.md
