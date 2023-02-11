@@ -1,4 +1,5 @@
 collections:
   pl-partners:
     output: true
-    order: []
+    order:
+      - Service Operators.md
