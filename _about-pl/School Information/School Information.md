@@ -36,3 +36,60 @@ Due to safe management measures, recess will be staggered by levels as follows:
   
 
 ##### **Opening hours of School Gates**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Day</th>
+    <th class="tg-dgl5">Main Gate<br>(Lor Ah Soo)</th>
+    <th class="tg-dgl5">Side Gate 5<br>(Blk 137 Hougang Ave 1)</th>
+    <th class="tg-dgl5">Jalan Lokam Gate</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig" rowspan="3">Mon - Fri</td>
+    <td class="tg-ktyi">6.30am – 7.30am</td>
+    <td class="tg-ktyi">6.45am – 7.30am</td>
+    <td class="tg-ktyi">6.45am – 7.30am</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">1.50pm* – 2.20pm</td>
+    <td class="tg-ktyi" rowspan="2">1.00pm** – 1.50pm</td>
+    <td class="tg-ktyi" rowspan="2">1.00**pm – 1.50pm</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">5.00pm – 5.30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Monday <br>(HMTL Lessons)</td>
+    <td class="tg-ktyi">4.00pm – 4.30pm</td>
+    <td class="tg-f4yw">3.10pm - 3.30pm</td>
+    <td class="tg-f4yw">---</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Wednesday &amp; Friday<br>(CCA)</td>
+    <td class="tg-ktyi">4.00pm – 4.30pm</td>
+    <td class="tg-f4yw">---</td>
+    <td class="tg-f4yw">---</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Tue &amp; Thur<br>(Enrichment/Remedial Days)</td>
+    <td class="tg-ktyi">4.00pm - 4.30pm</td>
+    <td class="tg-ktyi">3.45pm – 4.05pm</td>
+    <td class="tg-ktyi">3.45pm – 4.05pm</td>
+  </tr>
+</tbody>
+</table>
