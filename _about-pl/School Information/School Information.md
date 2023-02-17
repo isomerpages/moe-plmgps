@@ -28,3 +28,11 @@ Due to safe management measures, recess will be staggered by levels as follows:
 | P4 | 10.05am – 10.35am* |
 | P5 | 10.35am – 11.05am** |
 | P6 | 11.05am – 11.35am** |
+
+**Note** :  
+*P1 to P4 will have their 5 minutes Snack Break between 11:35am to 12:05pm following their respective class timetable.  
+  
+**P5 and P6 students will have their Snack Break at 8:35am. We highly encourage parents to pack a light snack for your daughters due to the late recess timing  
+  
+
+##### **Opening hours of School Gates**
