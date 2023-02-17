@@ -4,3 +4,27 @@ permalink: /about-pl/School-Information/School-Information/
 description: ""
 third_nav_title: School Information
 ---
+##### **School Address**
+
+298 Lorong Ah Soo, Singapore 536741
+
+**Tel** : 6286 2795
+
+**Fax** : 6280 3915
+
+**Email Address** : [plmgps@moe.edu.sg](mailto:plmgps@moe.edu.sg)  
+
+  
+
+##### **Recess Timings** 
+
+Due to safe management measures, recess will be staggered by levels as follows:
+
+| Level | Recess |
+|---|---|
+| P1 | 8.35am – 9.05am* |
+| P2 | 9.05am – 9.35am* |
+| P3 | 9.35am – 10.05am* |
+| P4 | 10.05am – 10.35am* |
+| P5 | 10.35am – 11.05am** |
+| P6 | 11.05am – 11.35am** |
