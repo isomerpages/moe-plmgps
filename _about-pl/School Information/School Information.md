@@ -93,3 +93,9 @@ Due to safe management measures, recess will be staggered by levels as follows:
   </tr>
 </tbody>
 </table>
+
+\* Parents who are driving in via main gate are allowed entry after the school buses have left the school compound.   
+
+  
+
+\*\* The opening hours of Side Gate and Lokam Gate are extended due to safe management measures and may be adjusted as the COVID-19 situation evolves. Parents will be informed if there are any changes.
