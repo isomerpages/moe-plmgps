@@ -3,8 +3,6 @@ title: School Rules
 permalink: /about-pl/School-Rules/
 description: ""
 ---
-
-
 ##### 1.  LOVE YOUR COUNTRY  
 
  All students are to attend and participate in the flag-raising/lowering ceremony. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart. They are to assemble in an orderly manner and there should be no talking during assembly.
@@ -187,13 +185,13 @@ Students who take the school buses are to abide by the following rules:
 
   
 
-[Click here to see the dress code for the school](https://payalebarmethodistgirlspri-moe-edu-sg-admin.cwp.sg/qql/slot/u208/About%20Us/School%20Rules/Dress_Code.pdf).
+[Click here to see the dress code for the school](/files/About%20PL/School%20Rules/Dress_Code.pdf).
 
   
 
   
 
-### Examination Rules
+##### Examination Rules
 
   
 
@@ -207,7 +205,7 @@ Students are to:
 
 4. bring only stationery e.g. pens, pencils, erasers and rulers into the examination rooms. No unauthorised devices (e.g. mobile phone, smart watch)  or unauthorised materials (e.g. notes, formulae sheet) are allowed. Primary 4 – 6 students are allowed to have their mathematical instruments with them. Primary 5 & 6 students are allowed to have with them approved dictionaries and calculators. (Refer to www.seab.gov.sg for the list of approved calculators and dictionaries.) Pieces of papers are not to be brought in.
 
-5.  listen carefully to the instructions given by the invigilators.
+5. listen carefully to the instructions given by the invigilators.
 
 6. check the examination scripts for missing questions and pages with the invigilator at the start of the examination.
 
@@ -227,8 +225,9 @@ Students are to:
 
   
 
-### Student Offences
+##### Student Offences
 
   
 All students are to adhere to the school rules. Students who do not adhere to school rules and commit any offence listed in the table below will face consequences imposed by the school. These consequences range from detention class or community work involvement to suspension from school.
-	
+
+![](/images/About%20PL/School%20Rules/S1.png)
