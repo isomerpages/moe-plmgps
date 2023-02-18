@@ -34,3 +34,27 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">Charity Status</th>
+    <th class="tg-dgl5">IPC Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Paya Lebar Methodist Girls' School (Primary) is an Exempt Charity    <br>Date of Establishment : 1916<br>UEN No: T07GS5635H</td>
+    <td class="tg-ktyi">Effective Date : 2 December 2021 - 1 December 2026<br>A Member of Education Fund </td>
+  </tr>
+</tbody>
+</table>
