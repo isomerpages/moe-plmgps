@@ -3,7 +3,6 @@ title: School Management Team
 permalink: /pl-family/School-Management-Team/
 description: ""
 ---
-  
 ### **School Leaders**
 
 <style type="text/css">
@@ -35,5 +34,70 @@ description: ""
 </table>
 
 ### **Heads of Department & Year Heads**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a7kh{background-color:#EAEAEA;color:#0857AE;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ii8k">English</th>
+    <th class="tg-ii8k"><a href="mailto:huang_xueyi@moe.edu.sg">Ms Gerlynn Huang</a><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">Mathematics </td>
+    <td class="tg-ii8k"><a href="mailto:teo_mei_ling_linda@moe.edu.sg">Ms Linda Teo</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Science</td>
+    <td class="tg-ii8k"><a href="mailto:siti_adibah_karim@moe.edu.sg">Ms Siti Adibah</a><a href="mailto:ong_shir_ling@moe.edu.sg"> </a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">PE &amp; CCA</td>
+    <td class="tg-ii8k"><a href="mailto:lim_wei_sheng@moe.edu.sg">Mr Lim Wei Sheng</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">ICT</td>
+    <td class="tg-ii8k"><a href="mailto:tan_ying_ying_amanda@moe.edu.sg">Ms Amanda Tan</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Student Management</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  </span><a href="mailto:goh_jee_lwee_audrey@moe.edu.sg">Mrs Audrey Yeoh</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">CCE</span><br><br></td>
+    <td class="tg-a7kh"><a href="mailto:yeo_hsu-er_charmaine@moe.edu.sg">Mrs Charmaine Tan</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">School Staff Developer</span><br><br></td>
+    <td class="tg-a7kh"><a href="mailto:lim_chor_koon@moe.edu.sg">Mrs Tay Chor Koon</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Year Head (P1 and P2)</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:tan_pei_kee@moe.edu.sg">Ms Tan Pei Kee</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Year Head (P3 and P4) </span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:siew_yoke_yin_serene@moe.edu.sg">Mrs Serene Ho</a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Year Head (P5 and P6) </span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  </span><a href="mailto:wong_lie_peng_josephine@moe.edu.sg">Mrs Josephine Wang</a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">LT EL</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:sarasvethy_anne_marimuthu@moe.edu.sg">Mrs Raymond</a><span style="color:#222;background-color:#EAEAEA">  </span></td>
+  </tr>
+</tbody>
+</table>
 
 ### **AYH, Level Heads and Subject Heads**
