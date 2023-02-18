@@ -10,3 +10,5 @@ description: ""
 **Fax :** 6280 3915  
   
 **Email Address :** [plmgps@moe.edu.sg](mailto:plmgps@moe.edu.sg)
+
+![](/images/About%20PL/Contact%20Us/C1.png)
