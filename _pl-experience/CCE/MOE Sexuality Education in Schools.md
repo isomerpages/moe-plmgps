@@ -61,27 +61,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 **PRIMARY 5**
 
-![P5.PNG](https://payalebarmethodistgirlspri-moe-edu-sg-admin.cwp.sg/qql/slot/u208/2023/SED%20(2023)/P5.PNG)  
-
-  
+![](/images/PL%20Experience/Curriculum/CCE/Sexuality%20Education/S1.png)
 
 **PRIMARY 6**  
 
-![P6.PNG](https://payalebarmethodistgirlspri-moe-edu-sg-admin.cwp.sg/qql/slot/u208/2023/SED%20(2023)/P6.PNG)
+![](/images/PL%20Experience/Curriculum/CCE/Sexuality%20Education/S2.png)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 **INFORMATION FOR PARENTS**  
 
