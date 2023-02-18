@@ -16,7 +16,7 @@ When PL-Lites apply what they learn, they make responsible choices and become in
 
   
 
-Three ways PL-Lites can make a difference to a community concern:
+**Three ways PL-Lites can make a difference to a community concern:**
 
 1.  Action – Can we do something to improve the situation?
 2.  Awareness – Can we help others learn about this community concern?
@@ -24,7 +24,7 @@ Three ways PL-Lites can make a difference to a community concern:
 
   
 
-Six Steps PL-Lites adopt as they put values into action:
+**Six Steps PL-Lites adopt as they put values into action:**
 
 1.  Empathise - Discover what matters in our community and share observations, thoughts and feelings
 2.  Define - Set goals for the project
@@ -35,7 +35,7 @@ Six Steps PL-Lites adopt as they put values into action:
 
   
 
-Our 6-year Values in Action Learning Experience@PL
+**Our 6-year Values in Action Learning Experience@PL**
 
 P1 to P6 - ‘We Love Our School’ \[Classrooms, Canteen, Toilets\]
 
