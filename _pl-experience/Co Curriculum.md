@@ -44,3 +44,40 @@ The Primary 3 (Semester 2 only), 4, 5 and 6 (Semester 1 only) PL-Lites will part
   </tr>
 </tbody>
 </table>
+*Aesthetics Sports such as Rope Skipping and Performing Arts are the Life-Long Learning Programmes of PLMGS(Primary)_
+
+**FAQs - CCA PROGRAMME for Upper Primary pupils**
+
+1.    **My child would like to participate in a Competitive Sports or Performing Arts Group. What should she consider before she signs up?**
+
+·         Interest and potential aside, it is very important to consider the amount of time your child can commit to her chosen CCA. Training is rigorous. Competitive Sports teams and Performing Arts Groups train or practise the whole year round taking only 2-week breaks during the June and December holidays.  During the school terms, training and practice sessions are at least twice weekly.
+
+·         Every PL-Lite, when making the choice, should seek to have sustained participation.  She must act responsibly, persevere and continue honing her skill to excel rather than change CCA when there are challenges.
+
+·         If you do not want your child to commit her three years to one competitive sport / performing arts group, we would strongly advise you to choose other clubs and recreational sport.
+
+2.    **My child shows a keen interest in sports but not at a competitive level.  What options are there for her?**
+
+·         We would encourage her to opt for the Recreational CCA -‘Sports Club’. Pupils in the Sports Club play 2 sports /games per year. She will get to learn games such as Frisbee, Netball, Floorball, Soccer, Touch Rugby and Basketball.  The sports / games for each cohort may vary each year pending the availability of resources.
+
+3.    **My child wants to participate in 2 CCAs in the school. Does the school allow for such a choice?**
+
+·         Due to time and commitment, it will not be possible for PL-Lites to take part in 2 CCAs.  Moreover, the additional training sessions carried out after school are only for select groups of pupils with the potential to hone skills to a higher level in preparation for competitions.
+
+4.    **My child takes weekly enrichment lessons outside school. Can she be exempted from the school’s CCA Programme?**
+
+·           Every PL-Lite participates in one CCA.  There is no exemption as CCA is conducted within curriculum time. 
+
+5.    **Will my child be allocated her first choice of CCA?** 
+
+·         The school does try to allocate as many pupils as possible to their first choices.
+
+·         We try to deploy as much manpower and other resources as we can to manage the more popular CCAs. However, there is a certain tipping point for each CCA when it gets too big to be effective; hence some measures of control such as quotas are imposed to prevent this from happening.
+
+·         Your child may not get a CCA which is her 1st choice but she would be given one within the choices made.
+
+6.    **Can my child have a change of CCA?** 
+
+·         CCA Option forms are given to all pupils annually in the month of May.  
+
+·         After the option period, we do not accede to requests for change of CCA unless on medical grounds.
