@@ -4,6 +4,6 @@ permalink: /pl-experience/Events/Guidelines-for-Home-School-Partnership/
 description: ""
 third_nav_title: Events
 ---
-Download :  [Guidelines for Home-School Partnership.pdf](https://payalebarmethodistgirlspri-moe-edu-sg-admin.cwp.sg/qql/slot/u763/Guidelines%20for%20Home-School%20Partnership.pdf)
+Download :  [Guidelines for Home-School Partnership.pdf](/files/PL%20Experience/Guidelines%20for%20Home%20School/Guidelines%20for%20Home-School%20Partnership.pdf)
 
 ![](/images/PL%20Experience/Events/G1.jpg)
