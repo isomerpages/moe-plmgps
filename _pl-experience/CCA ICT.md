@@ -65,3 +65,33 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Cyber Wellness Programme**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xwen"><span style="color:#222">Area</span></th>
+    <th class="tg-xwen"><span style="color:#222">Skills and Values</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">Ethical and Legal Use</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Handle inappropriate content</span><br><span style="color:#222">Prevent cyber abuse</span><br><span style="color:#222">Display internet etiquette</span><br><span style="color:#222">Respect intellectual property</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">Safe and Responsible Use</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Protect private information</span><br><span style="color:#222">Avoid computer addiction</span><br><span style="color:#222">Manage security risks</span><br><span style="color:#222">Verify information sources</span></td>
+  </tr>
+</tbody>
+</table>
