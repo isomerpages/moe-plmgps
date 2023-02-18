@@ -29,3 +29,5 @@ A PL-Lite is a woman after God's H.E.A.R.T
 Click&nbsp;[PL Aesthetics Online](https://sites.google.com/plmgps.edu.sg/pl-aesthetics-online)
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiyOySYD4BbeSLeCjdUpAFwtZ-PHYh0bkkonhodyFHx4_9LtuxDFBwFlzim5Q1fxiYlJdOOeB-DzUF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+**For more information on the Aesthetics Co-curricular Activities (CCA), please go to CCA page.**
