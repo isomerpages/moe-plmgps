@@ -308,6 +308,121 @@ third_nav_title: Our Achievements
 
 #### **Year 2016**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-wzxj{background-color:#FFF;font-style:italic;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">CCA GROUP</th>
+    <th class="tg-9hzb">COMPETITION</th>
+    <th class="tg-9hzb">RESULTS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">BADMINTON</td>
+    <td class="tg-7yig">National School Games East Zone Badminton Championships</td>
+    <td class="tg-7yig">Senior Girls - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig" rowspan="8">RHYTHMIC GYMNASTICS</td>
+    <td class="tg-7yig" rowspan="8">National School Games Rhythmic Gymnastics Championships</td>
+    <td class="tg-7yig">B Division:  Group Freehand - 1st</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">B Division Developmental: Clubs - 2nd, Individual All-Around - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">B Division Elite: Rope - 1st, Hoop - 2nd, Ribbon - 2nd, Individual All-Around - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">C Division: Group Freehand Level 1 - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">C Division: Group Freehand Level 2 - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">C Division Developmental: Rope - 1st, Individual All-Around - 2nd, Team - 2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">C Division Elite: Ball - 1st, Ribbon - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-wzxj">National C Division Championship: 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig" rowspan="2">ROPE SKIPPING</td>
+    <td class="tg-7yig">National School Games East Zone Rope Skipping Championships</td>
+    <td class="tg-7yig">Senior Girls - 1st, Junior Girls - 1st</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">National School Games Rope Skipping Championships</td>
+    <td class="tg-wzxj">National Senior Girls - 1st,<br>National Junior Girls - 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">TABLE TENNIS</td>
+    <td class="tg-7yig">National School Games East Zone Table Tennis Championships</td>
+    <td class="tg-7yig">Senior Girls - 2nd, Junior Girls - 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig" rowspan="4">TRACK &amp; FIELD</td>
+    <td class="tg-7yig" rowspan="4">National School Games Track &amp; Field Championships</td>
+    <td class="tg-7yig">B Division: Shot Put - 6th, High Jump - 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">C Division:  100m - 5th, 300m - 7th,  600m - 8th, 80m Hurdles - 6th &amp; 8th, 4 × 100m Relay - 5th, High Jump - 3rd &amp; 6th, Long Jump - 5th, Shot Put - 7th</td>
+  </tr>
+  <tr>
+    <td class="tg-wzxj">National C Division Championship: 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">D Division:  300m - 8th</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig" rowspan="2">GIRLS' BRIGADE</td>
+    <td class="tg-7yig">Drill Competition</td>
+    <td class="tg-7yig">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Company Awards</td>
+    <td class="tg-7yig">Gold, Sustained Achievement Award</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">ANGKLUNG ENSEMBLE</td>
+    <td class="tg-7yig">SYF Arts Presentation</td>
+    <td class="tg-7yig">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">CHOIR</td>
+    <td class="tg-7yig">SYF Arts Presentation</td>
+    <td class="tg-7yig">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">HANDBELL ENSEMBLE</td>
+    <td class="tg-7yig">SYF Arts Presentation</td>
+    <td class="tg-7yig">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">INTERNATIONAL DANCE</td>
+    <td class="tg-7yig">SYF Arts Presentation</td>
+    <td class="tg-7yig">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">STRING ENSEMBLE</td>
+    <td class="tg-7yig">SYF Arts Presentation</td>
+    <td class="tg-7yig">Certificate of Accomplishment</td>
+  </tr>
+</tbody>
+</table>
+
 #### **Year 2015**
 
 #### **Year 2014**
