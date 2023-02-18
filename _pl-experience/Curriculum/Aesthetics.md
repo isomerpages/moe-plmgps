@@ -21,8 +21,9 @@ A PL-Lite is a woman after God's H.E.A.R.T
 **R**espect self and others during presentations/performances of the art  
 **T**hankful for opportunities to learn and share through the different art forms2
 
-### PL Aesthetics Online
+##### PL Aesthetics Online
 
 ·         Showcase of Music Performances and Artworks by our PL-Lites   
 ·         For PL Family Only  
-·         To access the link, please log in using your child's PLMGPS google account.      Click [PL Aesthetics Online](https://sites.google.com/plmgps.edu.sg/pl-aesthetics-online)
+·         To access the link, please log in using your child's PLMGPS google account.       
+Click [PL Aesthetics Online](https://sites.google.com/plmgps.edu.sg/pl-aesthetics-online)
