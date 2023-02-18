@@ -84,4 +84,67 @@ description: ""
     <td class="tg-dgl5">Activities/programmes to be carried out in year 2020<br>LLP - Music Harmonises @PL<br>Co-Curricular Activities (CCA)<br>Values in Action Programme (VIA)</td>
   </tr>
 </tbody>
+</table><br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Patrons : NA</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Trustees/Board Members :</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Chairman - Prof Hum Sin Hoon</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Vice Chairman - Dr Tan Chor Hiang</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Secretary – Ms Amy Ng</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Asst Secretary – Mrs Joyce Ang</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Mr Guan Yeow Kwang</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Mrs Lee Boon Siew</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Rev Dr Kow Shih Ming</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Dr Daniel Fung</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Mrs Annie Teo</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Rev David Koh</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Key Employees :</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mrs Joyce Ang (Principal)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Auditor</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">SH Tang &amp; Associates LLP</td>
+  </tr>
+</tbody>
 </table>
