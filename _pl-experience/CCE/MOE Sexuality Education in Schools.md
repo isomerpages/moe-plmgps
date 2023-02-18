@@ -72,7 +72,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
   
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.payalebarmethodistgirlspri.moe.edu.sg/qql/slot/u208/2023/SED%20(2023)/2023%20Opt-Out%20Form.pdf). The completed opt-out form is to be submitted to your child’s Form Teachers by 25/01/2023.  
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form wille distributed to parents at the start of the year and is also downloadable [here](/files/PL%20Experience/Sexual%20Education/2023%20Opt-Out%20Form.pdf). The completed opt-out form is to be submitted to your child’s Form Teachers by 25/01/2023.  
     
   
 10.  Parents can contact the school at 62862795 or email [plmgps@moe.edu.sg](mailto:plmgps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
