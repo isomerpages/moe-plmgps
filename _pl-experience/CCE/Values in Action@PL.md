@@ -37,18 +37,11 @@ When PL-Lites apply what they learn, they make responsible choices and become in
 
 **Our 6-year Values in Action Learning Experience@PL**
 
-P1 to P6 - ‘We Love Our School’ \[Classrooms, Canteen, Toilets\]
-
-P1 to P6 – ‘We Love Our Home’ \[Activities are in alignment with CCE (MTL) Curriculum\]
-
-P1 to P6 – ‘We Love Our Community’ \[Being a part of various donation drives\]
-
-P3 – ‘Our Shoe Box Ministry’
-
-P4 – ‘Buddy Programme’ & ‘For Earth’s Sake’
-
-P5 – ‘Outreach Programme’
-
-P6 – ‘P6 Fair’
-
+P1 to P6 - ‘We Love Our School’ \[Classrooms, Canteen, Toilets\]  
+P1 to P6 – ‘We Love Our Home’ \[Activities are in alignment with CCE (MTL) Curriculum\]  
+P1 to P6 – ‘We Love Our Community’ \[Being a part of various donation drives\]  
+P3 – ‘Our Shoe Box Ministry’  
+P4 – ‘Buddy Programme’ & ‘For Earth’s Sake’  
+P5 – ‘Outreach Programme’  
+P6 – ‘P6 Fair’  
 P4 to P6 – Pupil-initiated VIA Projects
