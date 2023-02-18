@@ -425,4 +425,120 @@ third_nav_title: Our Achievements
 
 #### **Year 2015**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">CCA GROUP</th>
+    <th class="tg-dgl5">COMPETITION</th>
+    <th class="tg-dgl5">RESULTS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Badminton</td>
+    <td class="tg-ktyi">National School Games East Zone Badminton Championships</td>
+    <td class="tg-ktyi">Junior Girls - 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="3">Gymnastics</td>
+    <td class="tg-ktyi" rowspan="3">National School Games Rhythmic Gymnastics Championships</td>
+    <td class="tg-ktyi">A Division Elite : Freehand - 3rd, Rope - 3rd, Hoop - 3rd, Ribbon - 3rd, All-Around - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">C Division:  Group Freehand - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Group Freehand Level 1 : 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2">Rope Skipping</td>
+    <td class="tg-ktyi">National School Games East Zone Rope Skipping Championships</td>
+    <td class="tg-ktyi">Senior Girls - 2nd, Junior Girls - 1st</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">National School Games Rope Skipping Championships</td>
+    <td class="tg-ktyi">Senior Girls - 4th, Junior Girls - 1st</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Table Tennis</td>
+    <td class="tg-ktyi">National School Games East Zone Table Tennis Championships</td>
+    <td class="tg-ktyi">Senior Girls - 4th, Junior Girls - 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="5">Track &amp; Field</td>
+    <td class="tg-ktyi" rowspan="5">National School Games Track &amp; Field Championships</td>
+    <td class="tg-ktyi" rowspan="2">B Division: 100m - 5th, 4×100m - 4th</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">C Division:  300m - 8th, Shot Put - 6th, High Jump - 6th</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">D Division- 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">100m - 2nd, 200m - 5th, 300m - 5th, 600m - 1st &amp; 3rd, 4×100m - 3rd,  High Jump - 1st</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="2">Girls' Brigade</td>
+    <td class="tg-ktyi">Low Guat Tin Challenge</td>
+    <td class="tg-ktyi">3 Golds &amp; 1 Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Company Awards</td>
+    <td class="tg-ktyi">Gold, Sustained Achievement Award</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"></td>
+    <td class="tg-ktyi">Melody of Hope 2015 Songwriting Competition<br>(Singapore Kindness Movement)</td>
+    <td class="tg-ktyi">Top 3 Finalists:<br>Young Musician Award 2015<br>Finalists’ Choice Award 2015</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">East Zone Music Competition 2015</td>
+    <td class="tg-ktyi">Solo Classical Violin Performance – 3rd<br>Rebekah Tan Zhao Ann (Primary 5 Faith)<br>Solo Pop Voice Performance (SG50 Local Favourites) – 2nd<br>Dawn Yap (Primary 5 Kindenss)</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Handbells</td>
+    <td class="tg-ktyi">Handbells Masterclass conducted by Mr Toshikazu Yoshida</td>
+    <td class="tg-ktyi">Performance at Handbell Solid Gold Concert at the Esplanade</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Choir</td>
+    <td class="tg-ktyi">Choir Exchange Programme cum United Concert  at Victoria Theatre</td>
+    <td class="tg-ktyi">Performance at Victoria Theatre.</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-ktyi">SG 50 Concert by Children for Children by all Performing Arts Groups</td>
+    <td class="tg-ktyi">Performance for EZ Primary Schools and Children from 3 Student Care Centres<br>Performance for School National Day Concert</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi" rowspan="4">Art Club</td>
+    <td class="tg-ktyi" rowspan="4">Singapore Youth Festival 2015 Art Exhibition</td>
+    <td class="tg-ktyi">Category A: “Our Tree, Our Stories”<br>Certificate of Recognition </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Category C: “Connectring Us”<br>Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Category B: “Glimpses into Vanda”<br>Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Syf 2015 Fringe Activities Artists’ Talk</td>
+  </tr>
+</tbody>
+</table>
+
 #### **Year 2014**
