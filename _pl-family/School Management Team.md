@@ -101,3 +101,56 @@ description: ""
 </table>
 
 ### **AYH, Level Heads and Subject Heads**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a7kh{background-color:#EAEAEA;color:#0857AE;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ii8k">Level Head- Mother Tongue  </th>
+    <th class="tg-ii8k"><a href="mailto:li_jiazhen@moe.edu.sg">Ms Li Jiazhen</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">Level Head - Science</td>
+    <td class="tg-ii8k"><a href="mailto:chua_ruo_bing_clair@moe.edu.sg">Ms Clair Chua</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Level Head - ICT</td>
+    <td class="tg-ii8k"><a href="mailto:carine_yap_pei_yen@moe.edu.sg">Mrs Carine Sing</a> </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Subject Head - Art</td>
+    <td class="tg-ii8k"><a href="mailto:yong_sok_cheng@moe.edu.sg">Ms Yong Sok Cheng</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Subject Head - PE &amp; CCA</td>
+    <td class="tg-ii8k"><a href="mailto:yeo_wei_san_karine@moe.edu.sg">Ms Karine Yeo</a> </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Subject Head - NE &amp; SS</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:fauzia_jailani@moe.edu.sg">Ms Fauzia</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Assistant Year Head (Lower Pri)</td>
+    <td class="tg-ii8k"><a href="mailto:tan_su_zhen_jasmine@moe.edu.sg">Mrs Jasmine Tan</a> </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Assistant Year Head (Middle Pri)</td>
+    <td class="tg-ii8k"><a href="mailto:tok_sock_hoon@moe.edu.sg">Ms Tok Sock Hoon</a> <br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Assistant Year Head (Upper Pri)</td>
+    <td class="tg-a7kh"><a href="mailto:dilys_jiang_sihui@moe.edu.sg">Mrs Dilys Wong</a>  </td>
+  </tr>
+</tbody>
+</table>
