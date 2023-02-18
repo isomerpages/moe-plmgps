@@ -32,18 +32,17 @@ third_nav_title: CCE
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.  
   
-**OVERVIEW OF PAYA LEBAR METHODIST GIRLS’ SCHOOL (PRIMARY)’s SEXUALITY EDUCATION PROGRAMME FOR 2023  
-**  
+**OVERVIEW OF PAYA LEBAR METHODIST GIRLS’ SCHOOL (PRIMARY)’s SEXUALITY EDUCATION PROGRAMME FOR 2023**  
 
-1.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.  
+4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.  
     
 
   
 
-1.  The subjects that incorporate topics on sexuality include:
+5.  The subjects that incorporate topics on sexuality include:
 
-1.  Science
-2.  Character and Citizenship Education (CCE)
+>a. Science  
+>b. Character and Citizenship Education (CCE)
 
   
 
