@@ -13,6 +13,6 @@ sections:
           url: /Latest-News/
         - title: Quick Links
           description: Click here
-          url: https://gmail.com
+          url: /Quick-Links/
       background: /images/PLMGSHomepage.gif
 ---
