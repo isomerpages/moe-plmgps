@@ -3,7 +3,7 @@ title: Principal's Message 2023
 permalink: /about-pl/Principals-Message-2023/
 description: ""
 ---
-![](/images/About%20PL/Principal's%20Message%202023/P1.jpg)
+<img style="width:50%;height:50%" src="/images/About%20PL/Principal's%20Message%202023/P1.jpg">
 
 Dear Parents                                                                         
 
