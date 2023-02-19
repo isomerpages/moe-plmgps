@@ -14,3 +14,4 @@ Please click [here](https://www.facebook.com/PLMGSAlumni/) to access PLMGS Alu
 
 </figure>
 
+<img style="width:30%;height:50%" src="/images/PL%20Partners/Alumni/A2.png">
