@@ -3,7 +3,7 @@ title: Our Heritage
 permalink: /about-pl/Our-Heritage/
 description: ""
 ---
-![](/images/About%20PL/Our%20Heritage/H1.jpg)
+<img style="width:50%;height:50%" src="/images/About%20PL/Our%20Heritage/H1.jpg">
 
 On 31 October 1916, the Secretary of the Methodist Episcopal Building & Location Board purchased a piece of land with an area of 93 000 square feet in the district of Amokiah for the expressed purpose of building a school. It was to be the beginning of Paya Lebar MGS.
 
@@ -11,7 +11,7 @@ On 31 October 1916, the Secretary of the Methodist Episcopal Building & Location
 
 The school was started as a branch of the Anglo-Chinese School and was known then as Paya Lebar English School. The first headmaster was Mr Robert Hanam. When it started functioning in 1917 it had a staff of 3 and a pupil enrolment of 24 boys. In 1918, it began taking in girls. It was an elementary school providing education up to Primary 4.
 
-![](/images/About%20PL/Our%20Heritage/H2.jpg)
+<img style="width:30%;height:50%" src="/images/About%20PL/Our%20Heritage/H2.jpg">
 
 In 1935, Mrs Chew Hock Hin (wife of Rev Chew Hock Hin, lady seated in family portrait) became the Principal of the school. She remained in that capacity until she retired in 1957. She is regarded as the founder of the Paya Lebar  MGS because she re-organised the school with the help of the American Crusade Fund after the school building was razed to the ground during the World War II. She established the Girls' School. The school was co-ed with the girls in the morning session and the boys in the afternoon session.
 
