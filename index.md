@@ -9,10 +9,10 @@ sections:
   - hero:
       key_highlights:
         - title: Latest News
-          description: Click here
+          description: ""
           url: /Latest-News/
         - title: Quick Links
-          description: Click here
+          description: ""
           url: /Quick-Links/
       background: /images/PLMGSHomepage.gif
 ---
