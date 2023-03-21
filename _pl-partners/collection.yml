@@ -1,0 +1,9 @@
+collections:
+  pl-partners:
+    output: true
+    order:
+      - Board of Management.md
+      - PLMGS (Sec).md
+      - Parents School Support Group (PSSG).md
+      - Alumni.md
+      - Service Operators.md
