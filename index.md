@@ -14,5 +14,5 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links/
-      background: /images/PLMGSHomepage.gif
+      background: /images/MISSION & VISION.jpg
 ---
