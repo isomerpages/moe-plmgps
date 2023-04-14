@@ -83,9 +83,9 @@ Due to safe management measures, recess will be staggered by levels as follows:
   </tr>
   <tr>
     <td class="tg-7yig">Wednesday &amp; Friday<br>(CCA)</td>
-    <td class="tg-ktyi">3.15pm – 6.00pm</td>
-			<td class="tg-f4yw">---</td>
-			<td class="tg-f4yw">---</td>
+ <td class="tg-ktyi">3.15pm – 6.00pm</td>
+<td class="tg-f4yw">---</td>
+<td class="tg-f4yw">---</td>
   </tr>
   <tr>
     <td class="tg-7yig">Tue &amp; Thur<br>(Enrichment/Remedial Days)</td>
