@@ -66,11 +66,11 @@ Due to safe management measures, recess will be staggered by levels as follows:
     <td class="tg-ktyi">6.45am – 7.30am</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">1.50pm* – 2.30pm</td>
+    <td class="tg-ktyi">1.50pm*  – 2.30pm</td>
     <td class="tg-ktyi" rowspan="2">
-			1.20pm**– 1.50pm</td>
+			1.20pm** – 1.50pm</td>
     <td class="tg-ktyi" rowspan="2">
-			1.20**pm– 1.50pm</td>
+			1.20**pm – 1.50pm</td>
   </tr>
   <tr>
 		
