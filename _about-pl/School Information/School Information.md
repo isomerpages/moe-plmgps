@@ -67,8 +67,10 @@ Due to safe management measures, recess will be staggered by levels as follows:
   </tr>
   <tr>
     <td class="tg-ktyi">1.50pm* – 2.30pm</td>
-    <td class="tg-ktyi" rowspan="2">1.20pm** – 1.50pm</td>
-    <td class="tg-ktyi" rowspan="2">1.20**pm – 1.50pm</td>
+    <td class="tg-ktyi" rowspan="2">
+			1.20pm**– 1.50pm</td>
+    <td class="tg-ktyi" rowspan="2">
+			1.20**pm– 1.50pm</td>
   </tr>
   <tr>
 		
@@ -76,7 +78,7 @@ Due to safe management measures, recess will be staggered by levels as follows:
   <tr>
     <td class="tg-7yig">Monday <br>(HMTL Lessons)</td>
     <td class="tg-ktyi">3.15pm – 6.00pm</td>
-    <td class="tg-f4yw">3.10pm -3.30pm</td>
+    <td class="tg-f4y">3.10pm – 3.30pm</td>
     <td class="tg-f4yw">---</td>
   </tr>
   <tr>
