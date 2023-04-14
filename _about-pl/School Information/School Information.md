@@ -8,15 +8,15 @@ third_nav_title: School Information
 
 298 Lorong Ah Soo, Singapore 536741
 
-**Tel** : 6286 2795
+**Tel**&nbsp;: 6286 2795
 
-**Fax** : 6280 3915
+**Fax**&nbsp;: 6280 3915
 
-**Email Address** : [plmgps@moe.edu.sg](mailto:plmgps@moe.edu.sg)  
+**Email Address**&nbsp;:&nbsp;[plmgps@moe.edu.sg](mailto:plmgps@moe.edu.sg)  
 
   
 
-##### **Recess Timings** 
+##### **Recess Timings**&nbsp;
 
 Due to safe management measures, recess will be staggered by levels as follows:
 
@@ -29,7 +29,7 @@ Due to safe management measures, recess will be staggered by levels as follows:
 | P5 | 10.35am – 11.05am** |
 | P6 | 11.05am – 11.35am** |
 
-**Note** :  
+**Note**&nbsp;:  
 *P1 to P4 will have their 5 minutes Snack Break between 11:35am to 12:05pm following their respective class timetable.  
   
 **P5 and P6 students will have their Snack Break at 8:35am. We highly encourage parents to pack a light snack for your daughters due to the late recess timing  
@@ -66,35 +66,37 @@ Due to safe management measures, recess will be staggered by levels as follows:
     <td class="tg-ktyi">6.45am – 7.30am</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">1.50pm* – 2.20pm</td>
-    <td class="tg-ktyi" rowspan="2">1.00pm** – 1.50pm</td>
-    <td class="tg-ktyi" rowspan="2">1.00**pm – 1.50pm</td>
+    <td class="tg-ktyi">1.50pm*  – 2.30pm</td>
+    <td class="tg-ktyi" rowspan="2">
+			1.20pm** – 1.50pm</td>
+    <td class="tg-ktyi" rowspan="2">
+			1.20**pm – 1.50pm</td>
   </tr>
   <tr>
-    <td class="tg-ktyi">5.00pm – 5.30pm</td>
+		
   </tr>
   <tr>
     <td class="tg-7yig">Monday <br>(HMTL Lessons)</td>
-    <td class="tg-ktyi">4.00pm – 4.30pm</td>
-    <td class="tg-f4yw">3.10pm - 3.30pm</td>
-    <td class="tg-f4yw">---</td>
+ <td class="tg-ktyi">3.15pm – 6.00pm</td>
+<td class="tg-ktyi">3.10pm – 3.30pm</td>
+<td class="tg-f4yw">---</td>
   </tr>
   <tr>
     <td class="tg-7yig">Wednesday &amp; Friday<br>(CCA)</td>
-    <td class="tg-ktyi">4.00pm – 4.30pm</td>
-    <td class="tg-f4yw">---</td>
-    <td class="tg-f4yw">---</td>
+ <td class="tg-ktyi">3.15pm – 6.00pm</td>
+<td class="tg-f4yw">---</td>
+<td class="tg-f4yw">---</td>
   </tr>
   <tr>
     <td class="tg-7yig">Tue &amp; Thur<br>(Enrichment/Remedial Days)</td>
-    <td class="tg-ktyi">4.00pm - 4.30pm</td>
+    <td class="tg-ktyi">3.15pm – 6.00pm</td>
     <td class="tg-ktyi">3.45pm – 4.05pm</td>
     <td class="tg-ktyi">3.45pm – 4.05pm</td>
   </tr>
 </tbody>
 </table>
 
-\* Parents who are driving in via main gate are allowed entry after the school buses have left the school compound.   
+\* Parents who are driving in via main gate are allowed entry after the school buses have left the school compound.&nbsp;  
 
   
 
