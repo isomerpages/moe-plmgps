@@ -28,7 +28,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-rj1p">ICT Manager</td>
-    <td class="tg-ii8k"></td>
+    <td class="tg-ii8k">Ms Aneesha Parvin</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Administrative Executive</td>
@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-rj1p">Administrative Executive</td>
-    <td class="tg-ii8k">Ms Tan Yen Ling</td>
+    <td class="tg-ii8k">Ms Tay Suan Zee</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Corporate Support Officer</td>
