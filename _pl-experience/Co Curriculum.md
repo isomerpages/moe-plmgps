@@ -46,7 +46,7 @@ The Primary 3 (Semester 2 only), 4, 5 and 6 (Semester 1 only) PL-Lites will part
   </tr>
 </tbody>
 </table>
-To find out about the CCA Schedule for 2023, *[Click here]*(https://acrobat.adobe.com/id/urn:aaid:sc:AP:65020912-f5c7-42fa-a169-fb709a3bd4d9)
+**To find out about the CCA Schedule for 2023**, *[Click here]*(https://acrobat.adobe.com/id/urn:aaid:sc:AP:65020912-f5c7-42fa-a169-fb709a3bd4d9)
 
 *Aesthetics Sports such as Rope Skipping and Performing Arts are the Life-Long Learning Programmes of PLMGS(Primary)_
 
