@@ -36,7 +36,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-rj1p">Administrative Executive</td>
-    <td class="tg-ii8k">Ms Tay Suan Zee</td>
+    <td class="tg-ii8k">Mdm Tay Suan Zee</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Corporate Support Officer</td>
@@ -89,7 +89,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-n4qt">Christian Ministry Support</td>
-    <td class="tg-ii8k">Mrs Irene Phua<br>Mrs Rosalind Chua</td>
+    <td class="tg-ii8k">Mrs Irene Phua<br>Mrs Rosalind Chua<br>Ms Shanti Merry</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Receptionist</td>
@@ -113,7 +113,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-n4qt">Science Lab TA</td>
-    <td class="tg-ii8k"></td>
+    <td class="tg-ii8k">Ms Valliiammai Subramanian</td>
   </tr>
 </tbody>
 </table>
