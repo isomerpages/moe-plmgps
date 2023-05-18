@@ -2,7 +2,6 @@ collections:
   about-pl:
     output: true
     order:
-      - School Bus.md
       - Principal's Message 2023.md
       - Our Heritage.md
       - School Information/.keep
@@ -18,3 +17,4 @@ collections:
       - Our Achievements/School Awards.md
       - Consent for Photography and Videos.md
       - School Canteen.md
+      - School Bus.md
