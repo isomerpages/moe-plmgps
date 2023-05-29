@@ -1,20 +1,20 @@
 title: Paya Lebar Methodist Girls' School (Primary)
-url: https://www.open.gov.sg
+url: https://payalebarmethodistgirlspri.moe.edu.sg
 favicon: /images/Logo.png
 colors:
   primary-color: "#f2bb16"
-  secondary-color: "#25064d"
+  secondary-color: "#004aad"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#2a0859"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#f29e38"
     - title: media-color-three
-      color: "#00838f"
+      color: "#8b572a"
     - title: media-color-four
-      color: "#00838f"
+      color: "#bd10e0"
     - title: media-color-five
-      color: "#00838f"
+      color: "#d9043d"
 description: ""
 permalink: none
 baseurl: ""

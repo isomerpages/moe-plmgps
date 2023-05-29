@@ -5,4 +5,4 @@ description: ""
 ---
 #### School Bus Service
 ###### School Bus Operator and Bus Fare
-###### [School Bus Service](https://acrobat.adobe.com/id/urn:aaid:sc:AP:d1f9dea6-4abc-441f-bf85-bfd32fc90784)
+##### [School Bus Service](/files/bus%20fare.pdf)
