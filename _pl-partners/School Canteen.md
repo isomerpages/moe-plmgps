@@ -12,7 +12,7 @@ description: ""
 
 **Application Procedure**
 1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-   [Application Form](https://www.geylangmethodistpri.moe.edu.sg/files/application%20form.pdf)
+[Application Form](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2260d9bd-74c3-4fdb-a1b1-587058c866ab)
 	 
 2.  Attach the following documents together with the application form:
     *   Photocopy of the NRIC (front and back)
