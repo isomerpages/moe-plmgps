@@ -10,12 +10,13 @@ description: ""
 
 **Application Procedure**
 1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-    *   [Application Form](https://www.geylangmethodistpri.moe.edu.sg/files/application%20form.pdf)
-2.  Attach the following documents together with the application form:
+   [Application Form](https://www.geylangmethodistpri.moe.edu.sg/files/application%20form.pdf)
+	 
+4.  Attach the following documents together with the application form:
     *   Photocopy of the NRIC (front and back)
     *   List of proposed menu and pricing for all items
     *   Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-3.  Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+5.  Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
 *   Address: 298 Lorong Ah Soo, Singapore 536741
 *   Contact No: 6286 2795
