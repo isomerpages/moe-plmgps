@@ -2,10 +2,10 @@ collections:
   pl-partners:
     output: true
     order:
-      - School Bus.md
-      - School Canteen.md
       - Board of Management.md
       - PLMGS (Sec).md
       - Parents School Support Group (PSSG).md
       - Alumni.md
       - Service Operators.md
+      - School Canteen.md
+      - School Bus.md
