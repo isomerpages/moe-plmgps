@@ -19,10 +19,9 @@ description: ""
 
 <img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B7.png">
 
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B8.png">
+<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/dr amy quek b8.PNG">
 
 <img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B9.png">
 
 
 <img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B10.png">
-
