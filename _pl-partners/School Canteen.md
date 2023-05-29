@@ -23,7 +23,7 @@ description: ""
 *   Address: 298 Lorong Ah Soo, Singapore 536741
 *   Contact No: 6286 2795
 *   Email: loh_wan_leng@schools.gov.sg
-*   Contact Person: Ms Low Wan Leng
+*   Contact Person: Ms Loh Wan Leng
 
 **How to get there?**
 
