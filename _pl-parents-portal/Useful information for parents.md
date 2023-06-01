@@ -1,6 +1,6 @@
 ---
-title: PL Year Book 2022
-permalink: /pl-parents-portal/PL-Year-Book-2022/
+title: Useful information for parents
+permalink: /pl-parents-portal/useful-information-for-parents/
 description: ""
 ---
 #### What is Full Subject-Based Banding (Full-SBB)?
