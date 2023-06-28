@@ -27,7 +27,7 @@ description: ""
     <td class="tg-ii8k">Mr Michael Chua</td>
   </tr>
   <tr>
-    <td class="tg-rj1p">ICT Manager</td>
+    <td class="tg-rj1p">ICT Associate</td>
     <td class="tg-ii8k">Ms Aneesha Parvin</td>
   </tr>
   <tr>
