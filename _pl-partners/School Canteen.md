@@ -7,7 +7,8 @@ description: ""
 
 | Type of Stall | Closing Date 
 | -------- | -------- | 
-| Western Halal    | 21 June 2023     | 
+|   Mixed Rice | 11 August 2023     | 
+|  Western Stall Halal  |11 August 2023  | 
 
 
 **Application Procedure**
