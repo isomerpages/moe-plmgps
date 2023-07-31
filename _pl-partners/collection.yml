@@ -2,6 +2,7 @@ collections:
   pl-partners:
     output: true
     order:
+      - School Bus Advertisement.md
       - Board of Management.md
       - PLMGS (Sec).md
       - Parents School Support Group (PSSG).md
