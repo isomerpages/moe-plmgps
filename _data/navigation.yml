@@ -12,3 +12,8 @@ links:
     collection: pl-parents-portal
   - title: Links
     collection: links
+  - title: advertisement
+    url: https://www.payalebarmethodistgirlspri.moe.edu.sg/advertisement/permalink/schoolbusadvertisement/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
