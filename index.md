@@ -7,14 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Latest News
-          description: ""
-          url: /Latest-News/
-        - title: Quick Links
-          description: ""
-          url: /Quick-Links/
       background: /images/PLMGSHomepage.gif
+      dropdown:
+        title: Paya Lebar Methodist Girls' School (Primary)
+        options: []
   - infobar:
       title: School Bus Advertisement
       subtitle: ADVERTISEMENT
