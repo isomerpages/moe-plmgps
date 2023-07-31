@@ -7,4 +7,3 @@ To apply, please refer to the Service requirements and the Application Procedure
 
 **Service Requirements**
 1. Call for Proposal
-
