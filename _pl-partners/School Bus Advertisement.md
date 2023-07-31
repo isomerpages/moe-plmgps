@@ -17,7 +17,7 @@ To apply, please refer to the Service requirements and the Application Procedure
 
 * Address: 298 Lorong Ah Soo, Singapore 536741
 * Contact No: 6286 2795
-* Email: loh\_wan\_leng@schools.gov.sg
+* Email: loh_wan_leng@schools.gov.sg
 * Contact Person: Ms Loh Wan Leng
 
 **How to get there?**
