@@ -77,11 +77,11 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-dgl5">Vision : <br>An outstanding school of choice producing women of fine character with a passion for life and learning.</td>
-    <td class="tg-dgl5">Activities/programmes to be carried out in year 2021<br>LLP - Music Harmonises @PL<br>ALP - "MoveIT"<br>Co-Curricular Activities (CCA)<br>Values in Action Programme (VIA)</td>
+    <td class="tg-dgl5">Activities/programmes to be carried out in year 2023<br>LLP - Aesthetics Expressions @PL<br>ALP - "MoveIT"<br>Co-Curricular Activities (CCA)<br>Values in Action Programme (VIA)</td>
   </tr>
   <tr>
     <td class="tg-dgl5">Mission : <br><br>To nurture every PL-Lite into a whole person who lives in favour with God and Man.</td>
-    <td class="tg-dgl5">Activities/programmes to be carried out in year 2020<br>LLP - Music Harmonises @PL<br>Co-Curricular Activities (CCA)<br>Values in Action Programme (VIA)</td>
+    <td class="tg-dgl5">Activities/programmes to be carried out in year 2023<br>LLP - Aesthetics Expressions @PL<br>Co-Curricular Activities (CCA)<br>Values in Action Programme (VIA)</td>
   </tr>
 </tbody>
 </table><br>

@@ -7,6 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
+      background: /images/PLMGSHomepage.gif
       key_highlights:
         - title: Latest News
           description: ""
@@ -14,5 +15,10 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links/
-      background: /images/PLMGSHomepage.gif
+  - infobar:
+      title: School Bus Advertisement
+      subtitle: ADVERTISEMENT
+      description: For more information
+      button: Click here
+      url: /pl-partners/permalink/schoolbusadvertisement/
 ---
