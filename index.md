@@ -20,5 +20,5 @@ sections:
       subtitle: ADVERTISEMENT
       description: For more information
       button: Click here
-      url: https://www.payalebarmethodistgirlspri.moe.edu.sg/
+      url: https://cms.isomer.gov.sg/sites/moe-plmgps/folders/pl-partners/editPage/School%20Bus%20Advertisement.md
 ---
