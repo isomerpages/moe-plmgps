@@ -20,5 +20,5 @@ sections:
       subtitle: ADVERTISEMENT
       description: For more information
       button: Click here
-      url: www.payalebarmethodistgirlspri.moe.edu.sg/advertisement/permalink/schoolbusadvertisement/
+      url: https://www.payalebarmethodistgirlspri.moe.edu.sg/advertisement/permalink/schoolbusadvertisement/
 ---
