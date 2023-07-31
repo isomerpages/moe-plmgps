@@ -15,4 +15,10 @@ sections:
           description: ""
           url: /Quick-Links/
       background: /images/PLMGSHomepage.gif
+  - infobar:
+      title: School Bus Advertisement
+      subtitle: ADVERTISEMENT
+      description: For more information
+      button: Click here
+      url: https://www.payalebarmethodistgirlspri.moe.edu.sg/
 ---
