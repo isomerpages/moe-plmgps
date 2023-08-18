@@ -15,6 +15,8 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links/
+  - resources:
+      title: Announcements
   - infobar:
       title: School Bus Advertisement
       subtitle: ADVERTISEMENT
