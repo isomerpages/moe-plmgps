@@ -2,13 +2,14 @@
 title: School Canteen
 permalink: /about-pl/school-canteen/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date 
 | -------- | -------- | 
-|   Mixed Rice | 11 August 2023     | 
-|  Western Stall Halal  |11 August 2023  | 
+|   Mixed Rice | 05 December 2023     | 
+|  Western Stall Halal  |05 December 2023  | 
 
 
 **Application Procedure**
