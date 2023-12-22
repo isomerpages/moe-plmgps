@@ -1,0 +1,5 @@
+collections:
+  learning-for-life-programme:
+    output: true
+    order:
+      - Learning for Life Programme (LLP).md

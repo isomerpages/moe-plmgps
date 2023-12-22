@@ -3,31 +3,6 @@ title: Aesthetics
 permalink: /pl-experience/Curriculum/Aesthetics/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
-##### **Vision**
-
-To instill passion for the arts and learning the different forms of the arts
-
-##### **Mission**
-
-To nurture every PL-Lite into a whole person (through holistic education) who lives in favour with God and man
-
-##### **Values**
-
-A PL-Lite is a woman after God's H.E.A.R.T  
-**H**onour God through the arts  
-**E**xcellence Mindset in learning the arts  
-**A**daptable when creating the arts  
-**R**espect self and others during presentations/performances of the art  
-**T**hankful for opportunities to learn and share through the different art forms2
-
-##### PL Aesthetics Online
-
-·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Showcase of Music Performances and Artworks by our PL-Lites&nbsp;  
-·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;For PL Family Only  
-·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;To access the link, please log in using your child's PLMGPS google account.   
-Click [PL Aesthetics Online](https://sites.google.com/plmgps.edu.sg/pl-aesthetics-online)
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiyOySYD4BbeSLeCjdUpAFwtZ-PHYh0bkkonhodyFHx4_9LtuxDFBwFlzim5Q1fxiYlJdOOeB-DzUF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-**For more information on the Aesthetics Co-curricular Activities (CCA), please go to CCA page.**
+<h5><strong>Vision</strong></h5><p>Producing PL-lites of fine character with a passion for life and learning through joyful aesthetics expressions@PL.</p><h5><strong>Mission</strong></h5><p>To equip and engage PL-lites to excel through ‘Art Create’s &amp; ‘Music Harmonises’ @ PL.</p><h5><strong>Values</strong></h5><p>A PL-Lite is a woman after God’s H.E.A.R.T<br><strong>H</strong>onour God through the arts<br><strong>E</strong>xcellence Mindset in learning the arts<br><strong>A</strong>daptable when creating the arts<br><strong>R</strong>espect self and others during presentations/performances of the art<br><strong>T</strong>hankful for opportunities to learn and share through the different art forms</p><h5>PL Aesthetics Online</h5><p>·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Showcase of Music Performances and Artworks by our PL-Lites&nbsp;<br>·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;For PL Family Only<br>·&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;To access the link, please log in using your child's PLMGPS google account.<br>Click <a href="https://sites.google.com/plmgps.edu.sg/pl-aesthetics-online" rel="noopener noreferrer nofollow" target="_blank">PL Aesthetics Online</a></p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiyOySYD4BbeSLeCjdUpAFwtZ-PHYh0bkkonhodyFHx4_9LtuxDFBwFlzim5Q1fxiYlJdOOeB-DzUF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div><p><strong>For more information on the Aesthetics Co-curricular Activities (CCA), please go to CCA page.</strong></p>
