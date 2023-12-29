@@ -3,6 +3,7 @@ title: Primary 5
 permalink: /pl-family/Teaching-Staff/Primary-5/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -39,7 +40,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-a7kh"><a href="mailto:catherine_cheong@moe.edu.sg">Ms Catherine Cheong</a></td>
+    <td class="tg-a7kh"><a href="mailto:cheong_wan_yi_catherine@moe.edu.sg">Ms Catherine Cheong</a></td>
     <td class="tg-a7kh"><a href="mailto:dilys_jiang_sihui@moe.edu.sg">Mrs Dilys Wong</a></td>
   </tr>
   <tr>
