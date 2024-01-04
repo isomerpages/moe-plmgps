@@ -12,7 +12,7 @@ Participation in CCA is strongly encouraged. Students with valid reasons can be 
 
 Primary 3 PL-Lites will select their CCAs in Term 2 and commence CCA officially in Term 3. Prior to the CCA selection, they are encouraged to attend the CCA Fair, an afternoon event, that they understand the CCAs offered and make a more informed decision in their selection.
 
-Co-Curricular Activities offered by the school:
+**Co-Curricular Activities offered by the school:**
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.85pt"><td style="width:149.85pt;border:solid windowtext 1.0pt;
@@ -92,7 +92,7 @@ Co-Curricular Activities offered by the school:
 
 \*Primary 1 and 2 PL-Lites with aptitude and interest in Rhythmic Gymnastics may be invited to the CCA’s junior programme.&nbsp; During the P3 CCA Selection, the students can choose to remain in the CCA or select a new CCA.
 
-CCA Schedule 2024
+**CCA Schedule 2024**
 
 Click [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:69b45b2c-83b4-45f2-8a06-d4e6a3a635fe) to view the updated CCA schedule.
 
