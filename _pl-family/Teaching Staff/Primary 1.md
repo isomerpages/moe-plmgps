@@ -25,13 +25,13 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:Teo_Qian_Ni_Ashley@moe.edu.sg">Ms Ashley Shimshona Teo Qian Ni (Mrs Teng)</a></td>
+    <td class="tg-a7kh"><a href="mailto:Teo_Qian_Ni_Ashley@moe.edu.sg">Ms Ashley Shimshona Teo Qian Ni</a></td>
     <td class="tg-a7kh"><a href="mailto:ang_xiao_li@moe.edu.sg">Ms Ang Xiao Li</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
     <td class="tg-a7kh"><a href="mailto:lee_weng_hun@moe.edu.sg">Mrs Lee Weng Hun</a></td>
-    <td class="tg-a7kh"><a href="mailto:Ng_Gui_Mei@moe.edu.sg">Ms Ng Gui Mei (Mrs Emily Han)</a></td>
+    <td class="tg-a7kh"><a href="mailto:Ng_Gui_Mei@moe.edu.sg">Ms Ng Gui Mei</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
@@ -45,7 +45,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:Tang_Wock_Lian@moe.edu.sg">Mdm Tang Wock Lian (Mrs Caryn Chew) </a></td>
+    <td class="tg-a7kh"><a href="mailto:Tang_Wock_Lian@moe.edu.sg">Mdm Tang Wock Lian</a></td>
     <td class="tg-a7kh"><a href="mailto:Tan_Chin_Lam@moe.edu.sg">Ms Tan Chin Lam</a></td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Purity</td>
-    <td class="tg-a7kh"><a href="mailto:Teo_Wan_Lee@moe.edu.sg">Mdm Teo Wan Lee (Mrs Lim)  </a></td>
+    <td class="tg-a7kh"><a href="mailto:Teo_Wan_Lee@moe.edu.sg">Mdm Teo Wan Lee</a></td>
     <td class="tg-a7kh"><a href="mailto:Tan_Shimin@moe.edu.sg">Ms Tan Shimin </a></td>
   </tr>
 </tbody>
