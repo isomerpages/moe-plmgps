@@ -2,6 +2,7 @@
 title: Non Teaching Staff
 permalink: /pl-family/Non-Teaching-Staff/
 description: ""
+variant: markdown
 ---
 #### **Administrative Staff**
 
@@ -24,7 +25,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-rj1p">Operations Manager</td>
-    <td class="tg-ii8k">Mr Michael Chua</td>
+    <td class="tg-ii8k"></td>
   </tr>
   <tr>
     <td class="tg-rj1p">ICT Associate</td>
@@ -105,7 +106,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-n4qt">Desktop Engineer</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Soh Wan Hao</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">IT Media Support Specialist</td>
