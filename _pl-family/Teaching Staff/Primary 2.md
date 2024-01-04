@@ -3,6 +3,7 @@ title: Primary 2
 permalink: /pl-family/Teaching-Staff/Primary-2/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -24,48 +25,48 @@ third_nav_title: Teaching Staff
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:tan_chin_lam@moe.edu.sg">Ms Tan Chin Lam</a></td>
-    <td class="tg-a7kh"><a href="mailto:sim_kim_wee_keefe@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mr Keefe Sim</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:Seaw_Cheng_Cheng@moe.edu.sg">Mdm Seaw Cheng Cheng</a></td>
+    <td class="tg-a7kh"><a href="mailto:Fu_Jinhui@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Fu Jinhui </span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:liao_sze_yuen@moe.edu.sg">Mrs Jacqueline Low</a></td>
-    <td class="tg-a7kh"><a href="mailto:jamunarani_samiappan@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Logan</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:koh_su_may_lydia@moe.edu.sg">Ms Koh Su May Lydia </a></td>
+    <td class="tg-a7kh"><a href="mailto:Tok_Yen_Ling@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mdm Tok Yen Ling</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:tang_wock_lian@moe.edu.sg">Mrs Caryn Chew</a></td>
-    <td class="tg-a7kh"><a href="mailto:pereira_michele_madeline@moe.edu.sg">Ms Pereira Michele Madeline</a></td>
+    <td class="tg-a7kh"><a href="mailto:Dawn_Lee_Mei_Fong@moe.edu.sg">Mdm Dawn Lee Mei Fong</a></td>
+    <td class="tg-a7kh"><a href="mailto:Chua_Yu_Han@moe.edu.sg">Mdm Chua Yu Han</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-a7kh"><a href="mailto:bahjah_mohamed_nawawi@moe.edu.sg">Mdm Bahjah </a></td>
-    <td class="tg-a7kh"><a href="mailto:li_qinning_lydia@moe.edu.sg">Mrs Lydia Wong</a></td>
+    <td class="tg-a7kh"><a href="mailto:Ho_Mei_Ting_Cheryl@moe.edu.sg">Ms Ho Mei Ting Cheryl</a></td>
+    <td class="tg-a7kh"><a href="mailto:Tay_Bee_Lian_Esther@moe.edu.sg">Mdm Tay Bee Lian Esther</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:fu_jinhui@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Fu Jinhui</span></a></td>
-    <td class="tg-a7kh"><a href="mailto:goh_foong_meng@moe.edu.sg">Mrs Lee Weng Hun</a></td>
+    <td class="tg-a7kh"><a href="mailto:Cindy_Lim@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Cindy Lim</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:Tan_Su_Zhen_Jasmine@moe.edu.sg">Ms Tan Su Zhen Jasmine</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
-    <td class="tg-a7kh"><a href="mailto:lee_soue_sien_jimlim@moe.edu.sg">Mdm Lee Soue Sien Jimlim</a></td>
-    <td class="tg-a7kh"><a href="mailto:fauzia_jailani@moe.edu.sg">Ms Fauzia</a></td>
+    <td class="tg-a7kh"><a href="mailto:Lee_Bee_Har_Amilyn@moe.edu.sg">Mdm Lee Bee Har Amilyn</a></td>
+    <td class="tg-a7kh"><a href="mailto:Koh_Wei_Ying@moe.edu.sg">Ms Koh Wei Ying</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
-    <td class="tg-a7kh"><a href="mailto:teo_wan_lee@moe.edu.sg">Mdm Teo Wan Lee</a></td>
-    <td class="tg-a7kh"><a href="mailto:lee_tiew_eng@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mdm Lee Tiew Eng</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:Yeong_Swee_Gee_Karen@moe.edu.sg">Mdm Yeong Swee Gee Karen</a></td>
+    <td class="tg-a7kh"><a href="mailto:Ng_Jun_Qi@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mr Ng Jun Qi</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Patience</td>
-    <td class="tg-a7kh"><a href="mailto:carine_yap_pei_yen@moe.edu.sg">Mrs Carine Sing</a></td>
-    <td class="tg-a7kh"><a href="mailto:wu_jiao@moe.edu.sg">Mdm Wu Jiao</a></td>
+    <td class="tg-a7kh"><a href="mailto:Leong_Wei_Ling_Jessica_Rebekah@moe.edu.sg">Mdm Leong Wei Ling Jessica Rebekah</a></td>
+    <td class="tg-a7kh"><a href="mailto:Li_Qinning_Lydia@moe.edu.sg">Mdm Li Qinning Lydia</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Purity</td>
-    <td class="tg-a7kh"><a href="mailto:zeng_cuiyue_stephanie@moe.edu.sg">Ms Stephanie Zeng</a></td>
-    <td class="tg-a7kh"><a href="mailto:faith_lim_mei_ting@moe.edu.sg">Ms Faith Lim</a></td>
+    <td class="tg-a7kh"><a href="mailto:P_Kunasekaran_@moe.edu.sg">Mrs P Kunasekaran </a></td>
+    <td class="tg-a7kh"><a href="mailto:Lee_Boon_Kwee@moe.edu.sg">Mr Lee Boon Kwee</a></td>
   </tr>
 </tbody>
 </table>
