@@ -3,6 +3,7 @@ title: Science Environment Club
 permalink: /pl-experience/CCA-Clubs-and-Uniform-Group/Science-Environment-Club/
 description: ""
 third_nav_title: CCA Clubs and Uniform Group
+variant: markdown
 ---
 We would like every PL-Lite to have a HEART for the environment. In the Science-Environment Club, we nurture every PL-lite to care, lead and influence the community to build a greener future. Pupils are equipped with knowledge and skills on environmental conservation. 
 
