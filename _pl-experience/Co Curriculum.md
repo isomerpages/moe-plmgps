@@ -94,7 +94,7 @@ Primary 3 PL-Lites will select their CCAs in Term 2 and commence CCA officially 
 
 **CCA Schedule 2024**
 
-Click [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:69b45b2c-83b4-45f2-8a06-d4e6a3a635fe) to view the updated CCA schedule.
+Click [here](/files/CCA_Schedule_2024.pdf) to view the updated CCA schedule.
 
 **FAQs**
 
