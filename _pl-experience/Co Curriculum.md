@@ -94,7 +94,7 @@ Co-Curricular Activities offered by the school:
 
 CCA Schedule 2024
 
-Click here to view the updated CCA schedule.
+Click [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:69b45b2c-83b4-45f2-8a06-d4e6a3a635fe) to view the updated CCA schedule.
 
 **FAQs**
 
