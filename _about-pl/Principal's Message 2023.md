@@ -2,31 +2,6 @@
 title: Principal's Message 2023
 permalink: /about-pl/Principals-Message-2023/
 description: ""
+variant: tiptap
 ---
-<img style="width:50%;height:50%" src="/images/About%20PL/Principal's%20Message%202023/P1.jpg">
-
-Dear Parents                                                                         
-
-We look forward to 2023 with anticipation and hope as we have planned exciting learning processes and programmes for our PL-Lites.
-
-The theme for 2023 “Glory to God we give and pray” is inspired by our School Song in Stanza 4:
-
->Now let us pray and learn and trust and obey  
-To serve Him in every way  
-Glory to God we give and pray  
-For Paya Lebar MGS (2\*)_
-
-2023 brings new joy as we uplift the school to God and trust that He will help all PL-Lites thrive and grow into women of fine character with a passion for life and learning, anchored on our H.E.A.R.T values (**H**onour God, **E**xcellence, **A**daptability, **R**espect, **T**hankfulness).
-
-The theme verse from Matthew 5:16, “Let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.” and our theme song “Shine Jesus Shine” sum up aptly how we want all our girls to shine for Jesus through their 6 years with us.
-
-The enriching at PL is captured by our holistic approach to character development which focuses on the girls’ flourishing from Joyful Discovery (P1&2), to Joyful Growth (P3&4) and culminates in Joyful Service (P5&6). We are confident that our girls will learn life-skills and grow into a whole person who lives in favour with God and man.
-
-As one PL family, we will continue to ‘Look Up and Lift Up’ in our endeavour to co-create precious memories and deepen Togetherness and Joyfulness@PL.
-
-Our team of dedicated staff will be always there for the girls and we aspire to partner parents to help each PL-Lite discover her gifts and attain her personal best. With the **HEART** work and smiling eyes of the teachers as well as the support from parents, the girls cannot but flourish at PL.
-
-In Partnership                                                                                                                                                                        
-
-Mrs Joyce Ang  
-Principal
+<div class="isomer-image-wrapper"><img style="width:50%;height:50%" height="auto" width="100%" src="/images/About%20PL/Principal's%20Message%202023/P1.jpg"></div><p>Dear Parents</p><p>We start 2024 with thankfulness for a wonderful journey in 2023, where our PL-Lites had lived out joyfulness, learnt to shine by blessing people around them and embraced the passion for learning.</p><p>2024 will be an exciting year as we consolidate and gear our practices and processes towards the Future of Learning. We continue to uplift the school to God and trust that He will help all PL-Lites thrive and grow into women of fine character with a passion for life and learning, anchored on our H.E.A.R.T values (Honour God, Excellence, Adaptability, Respect, Thankfulness).</p><p>The school theme for 2024 is “Be True, Pure, Strong and Brave”, which is adapted from Stanza 1 of the School Creed:</p><p>I would be true for there are those who trust me</p><p>I would be pure for there are those who care</p><p>I would be strong for there is much to suffer</p><p>I would be brave for there is much to dare</p><p>The theme reiterates the school’s mission “To nurture every PL-Lite into a whole person who lives in favour with God and man”. Character development takes centre-stage in PL and our programmes are customised and designed to help our girls experience Joyful Discovery (P1&amp;2), Joyful Growth (P3&amp;4) and Joyful Service (P5&amp;6) in their 6 years with us.</p><p>Guided by our theme verse “Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things” in Philippians 4:8 (NIV), we are confident that all our PL-Lites will generate good stories of blessings, love and excellence. We look forward to celebrating many testimonies of encouragement, growth and uplifting in PL, trusting that our work will bring glory to God.</p><p>We are grateful for the support of the PSSG and parents who work alongside us. As one PL family, we continue to ‘Look Up and Lift Up’ in our endeavour to co-create precious memories that will deepen Togetherness and Joyfulness in PL.</p><p>Our team of dedicated staff will be always there for the girls, and we aspire to help each PL-Lite discover her gifts and attain her personal best. With the HEART work and smiling eyes of the teachers as well as the support from parents, the girls cannot but flourish in PL.</p><p>In Partnership</p><p>Mrs Joyce Ang</p><p>Principal</p><p>Principal</p>
