@@ -2,7 +2,7 @@ collections:
   about-pl:
     output: true
     order:
-      - Principal's Message 2023.md
+      - Principal's Message 2024.md
       - Our Heritage.md
       - School Information/.keep
       - School Information/School Information.md
