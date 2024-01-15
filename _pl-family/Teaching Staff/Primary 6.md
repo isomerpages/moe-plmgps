@@ -36,7 +36,7 @@ variant: markdown
   <tr>
     <td class="tg-n4qt">Gentleness</td>
     <td class="tg-a7kh"><a href="mailto:low_kah_eng_aileen@moe.edu.sg">Mrs Aileen Kwek</a></td>
-    <td class="tg-a7kh"><a href="mailto:chua_yi_qian_jasmine@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Jasmine Ng</span></a><br></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
@@ -46,17 +46,17 @@ variant: markdown
   <tr>
     <td class="tg-n4qt">Joy</td>
     <td class="tg-a7kh"><a href="mailto:chua_ruo_bing_clair@moe.edu.sg">Ms Clair Chua</a></td>
-    <td class="tg-a7kh"><a href="mailto:rajikannu_arunmozhi@moe.edu.sg">Mr Arun</a></td>
+    <td class="tg-a7kh"><a href=""></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
     <td class="tg-a7kh"><a href="mailto:%20chua_lee_eng_julie@schools.gov.sg">Ms Julie Chua</a></td>
-    <td class="tg-a7kh"><a href="mailto:hng_sze_hooi@moe.edu.sg">Ms Jess Hng</a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
     <td class="tg-a7kh"><a href="mailto:melissa_lee_pei-ju@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Melissa Chan</span></a></td>
-    <td class="tg-a7kh"><a href="mailto:ye_zi@moe.edu.sg">Ms Ye Zi</a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a></td>
   </tr>
 </tbody>
 </table>
