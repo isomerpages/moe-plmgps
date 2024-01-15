@@ -36,7 +36,7 @@ variant: markdown
   <tr>
     <td class="tg-n4qt">Gentleness</td>
     <td class="tg-a7kh"><a href="mailto:low_kah_eng_aileen@moe.edu.sg">Mrs Aileen Kwek</a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a><br></td>
+    <td class="tg-a7kh"><a href="mailto:zhang_ping@schools.gov.sg">Mdm Zhang Ping <span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
@@ -46,7 +46,7 @@ variant: markdown
   <tr>
     <td class="tg-n4qt">Joy</td>
     <td class="tg-a7kh"><a href="mailto:chua_ruo_bing_clair@moe.edu.sg">Ms Clair Chua</a></td>
-    <td class="tg-a7kh"><a href=""></a></td>
+    <td class="tg-a7kh"><a href="mailto:siti_suhana_alias@schools.gov.sg">Ms Siti Suhana Binte Alias</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
