@@ -51,12 +51,12 @@ variant: markdown
   <tr>
     <td class="tg-n4qt">Kindness</td>
     <td class="tg-a7kh"><a href="mailto:%20chua_lee_eng_julie@schools.gov.sg">Ms Julie Chua</a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:Chua_Wei_Jie_B@schools.gov.sg>">Mr Chua Wei Jie</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
     <td class="tg-a7kh"><a href="mailto:melissa_lee_pei-ju@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Melissa Chan</span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:lim_chor_koon@schools.gov.sg">Mdm Lim Chor  Koon                     </a></td>
   </tr>
 </tbody>
 </table>
