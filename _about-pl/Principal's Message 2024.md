@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="isomer-image-wrapper"><img style="width:50%;height:50%" height="auto" width="100%" src="/images/About%20PL/Principal's%20Message%202023/P1.jpg"></div>
 
-Dear Parents 
+Dear Parents&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 We start 2024 with thankfulness for a wonderful journey in 2023, where our PL-Lites had lived out joyfulness, learnt to shine by blessing people around them and embraced the passion for learning.
 
@@ -14,7 +14,7 @@ We start 2024 with thankfulness for a wonderful journey in 2023, where our PL-Li
 
 The school theme for 2024 is “Be True, Pure, Strong and Brave”, which is adapted from Stanza 1 of the School Creed:
 
-I would be true for there are those who trust me
+I would be true for there are those who trust me&nbsp;
 I would be pure for there are those who care
 I would be strong for there is much to suffer
 I would be brave for there is much to dare
