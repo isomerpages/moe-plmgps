@@ -14,7 +14,7 @@ We start 2024 with thankfulness for a wonderful journey in 2023, where our PL-Li
 
 The school theme for 2024 is “Be True, Pure, Strong and Brave”, which is adapted from Stanza 1 of the School Creed:
 
-I would be true for there are those who trust me&nbsp;
+I would be true for there are those who trust me
 I would be pure for there are those who care
 I would be strong for there is much to suffer
 I would be brave for there is much to dare
