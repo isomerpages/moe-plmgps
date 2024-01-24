@@ -1,0 +1,46 @@
+collections:
+  pl-experience:
+    output: true
+    order:
+      - Events/P1 Fiesta 2021.md
+      - Events/Active Family Programme (by HPB).md
+      - Events/Guidelines for Home School Partnership.md
+      - Events/.keep
+      - Curriculum/.keep
+      - Curriculum/English.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Information Technology.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Physical Education.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education.md
+      - CCE/Cyber Wellness (CW) Education @PL.md
+      - CCE/Education and Career Guidance@PL.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - CCE/PAL@PL.md
+      - CCE/Pastoral Care and Counselling @PL.md
+      - CCE/Values in Action@PL.md
+      - Co Curriculum.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Rhythmic Gymnastics.md
+      - Physical Sports/Rope Skipping.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Track and Field.md
+      - Physical Sports/Sports Club.md
+      - CCA Performing Arts/.keep
+      - CCA Performing Arts/Angklung Ensemble.md
+      - CCA Performing Arts/Choir.md
+      - CCA Performing Arts/Handbell Ensemble.md
+      - CCA Performing Arts/International Dance.md
+      - CCA Performing Arts/String Ensemble.md
+      - CCA Clubs and Uniform Group/.keep
+      - CCA Clubs and Uniform Group/Arts.md
+      - CCA Clubs and Uniform Group/Christian Fellowship.md
+      - CCA Clubs and Uniform Group/Girls' Brigade (4th Primary Company).md
+      - CCA Clubs and Uniform Group/Media Club.md
+      - CCA Clubs and Uniform Group/Science Environment Club.md
+      - CCA ICT.md
+      - Learning for Life Programme (LLP).md

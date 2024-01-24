@@ -1,0 +1,18 @@
+collections:
+  about-pl:
+    output: true
+    order:
+      - Principal's Message 2024.md
+      - Our Heritage.md
+      - School Information/.keep
+      - School Information/School Information.md
+      - School Information/Vision, Mission & Values.md
+      - School Information/Motto & Philosophy.md
+      - School Information/Creed & Anthem.md
+      - Non Financial Information.md
+      - School Rules.md
+      - Contact Us.md
+      - Our Achievements/.keep
+      - Our Achievements/CCA Awards.md
+      - Our Achievements/School Awards.md
+      - Consent for Photography and Videos.md

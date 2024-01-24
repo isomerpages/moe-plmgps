@@ -1,0 +1,7 @@
+collections:
+  pl-parents-portal:
+    output: true
+    order:
+      - Useful information for parents.md
+      - Forms.md
+      - Resource for Parents.md
