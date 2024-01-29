@@ -14,10 +14,13 @@ We start 2024 with thankfulness for a wonderful journey in 2023, where our PL-Li
 
 The school theme for 2024 is “**Be True, Pure, Strong and Brave**”, which is adapted from Stanza 1 of the School Creed:
 
-###### _I would be true for there are those who trust me_
-###### _I would be pure for there are those who care_
-###### _I would be strong for there is much to suffer_
-###### _I would be brave for there is much to dare_
+_I would be true for there are those who trust me_
+<br>
+ _I would be pure for there are those who care_
+ <br>
+ _I would be strong for there is much to suffer_
+ <br>
+ _I would be brave for there is much to dare_
 
 The theme reiterates the school’s mission “To nurture every PL-Lite into a whole person who lives in favour with God and man”. Character development takes centre-stage in PL and our programmes are customised and designed to help our girls experience Joyful Discovery (P1&amp;2), Joyful Growth (P3&amp;4) and Joyful Service (P5&amp;6) in their 6 years with us.
 
@@ -28,7 +31,7 @@ We are grateful for the support of the PSSG and parents who work alongside us. A
 Our team of dedicated staff will be always there for the girls, and we aspire to help each PL-Lite discover her gifts and attain her personal best. With the HEART work and smiling eyes of the teachers as well as the support from parents, the girls cannot but flourish in PL.
 
 In Partnership
-
+<br>
 Mrs Joyce Ang
-
+<br>
 Principal
