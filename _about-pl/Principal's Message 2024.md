@@ -29,5 +29,6 @@ Our team of dedicated staff will be always there for the girls, and we aspire to
 
 In Partnership
 
-###### Mrs Joyce Ang
-###### Principal
+Mrs Joyce Ang
+
+Principal
