@@ -26,38 +26,38 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:liao_sze_yuen@schools.gov.sg"></a>Mrs Jacqueline Low<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Waheeda Bte Mohammad </td>
+    <td class="tg-a7kh"><a href="mailto:liao_sze_yuen@schools.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Jacqueline Low</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mdm Waheeda Bte Mohammad </span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:"> </a>Mdm Thamarai Selvi d/o Chelliah</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Min Hongmei</td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Thamarai Selvi d/o Chelliah</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Ms Min Hongmei</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Tayyiba Bte Muhammad Yusaf </td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Lee Tiew Eng</td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Tayyiba Bte Muhammad Yusaf </span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Lee Tiew Eng</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-ii8k"> <a href="mailto:">Mdm Ng Pei Sei Florence<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Faith Mavis Lim Mei Ting </td>
+    <td class="tg-ii8k"> <a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Ng Pei Sei Florence<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Ms Faith Mavis Lim Mei Ting </span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Yee Shu En </span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Chiew Pui Mei</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mdm Meenachi Balasundaram</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Oh Shu Fen</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Goh Siew Hoon</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Loke Wei Xian</span></a></td>
   </tr>
 </tbody>
 </table>
