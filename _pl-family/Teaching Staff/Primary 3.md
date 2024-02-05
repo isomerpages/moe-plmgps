@@ -26,23 +26,23 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:liao_sze_yuen@schools.gov.sg"></a>Mrs Jacqueline Low<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Waheeda Bte Mohammad </td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:"> </a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"> </a>Mdm Thamarai Selvi d/o Chelliah</td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Min Hongmei</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Tayyiba Bte Muhammad Yusaf </td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Lee Tiew Eng</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-ii8k"> <a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-ii8k"> <a href="mailto:">Mdm Ng Pei Sei Florence<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Faith Mavis Lim Mei Ting </td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
