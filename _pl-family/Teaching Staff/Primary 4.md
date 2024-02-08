@@ -25,38 +25,38 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Siti Khairunnisa Binte Ghani</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Tan Xue Qun</td>
+		<td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mdm Siti Khairunnisa Binte Ghani</a></td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Tan Xue Qun</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Lim Su Fen Sheila </td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mr Yap Cher Yung</td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Lim Su Fen Sheila </a></td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mr Yap Cher Yung</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms S Santhini</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Khow Mui Hoon</td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms S Santhini</a></td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mdm Khow Mui Hoon</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Quek Yee Khoon</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Kang Chu Bin Lillian</td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Quek Yee Khoon</a></td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mdm Kang Chu Bin Lillian</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Lau Jin Lin</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Ang Li Yan</td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mdm Lau Jin Lin</a></td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Ang Li Yan</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Teo Ai Ling Irene</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Yong Sok Cheng</td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Teo Ai Ling Irene</a></td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Yong Sok Cheng</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Ms Yong Sok Cheng</td>
-    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Ang Chiu Hoon</td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Yong Sok Cheng</a></td>
+    <td class="tg-a7kh"><a href="mailto:"> <span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mdm Ang Chiu Hoon</a></td>
   </tr>
 </tbody>
 </table>
