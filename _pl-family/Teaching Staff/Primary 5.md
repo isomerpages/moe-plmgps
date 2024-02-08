@@ -25,38 +25,38 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Nur Khairunnisa Binte Abdul Kepli</a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Ms Hng Sze Hooi</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:">Ms Fatinnur’Izzah Binte Azahari</a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mdm Tan Soh Cheng</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a><br></td>
+    <td class="tg-a7kh"><a href="mailto:">Mr Chong Hsi Pin Benjamin </a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Chua Yi Qian Jasmine</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:dilys_jiang_sihui@moe.edu.sg"></a></td>
+    <td class="tg-a7kh"><a href="mailto:">Ms Tea Sin Ee Darell</a></td>
+    <td class="tg-a7kh"><a href="mailto:">Ms Pauline Lee Siew Ying</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:">Mdm Sim Ai Kheng Veronica</a></td>
+    <td class="tg-a7kh"><a href="mailto:">Ms Koh Xin Mei Daffodil</a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:">Ms Chan Shi Mei </a></td>
+    <td class="tg-a7kh"><a href="mailto:">Mr Rajikannu Arunmozhi </a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span>Mrs Chan-Tan Lea Ting</a></td>
+    <td class="tg-a7kh"><a href="mailto:">Mdm Kong Luan</a></td>
   </tr>
 </tbody>
 </table>
