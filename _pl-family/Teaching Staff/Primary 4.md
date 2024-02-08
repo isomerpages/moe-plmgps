@@ -25,38 +25,38 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Siti Khairunnisa Binte Ghani</td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Tan Xue Qun</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Lim Su Fen Sheila </td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mr Yap Cher Yung</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms S Santhini</td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Khow Mui Hoon</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Quek Yee Khoon</td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Kang Chu Bin Lillian</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Lau Jin Lin</td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Ang Li Yan</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Teo Ai Ling Irene</td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Yong Sok Cheng</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
-    <td class="tg-a7kh"><a href="mailto:"></a></td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Ms Yong Sok Cheng</td>
+    <td class="tg-a7kh"><a href="mailto:"></a>Mdm Ang Chiu Hoon</td>
   </tr>
 </tbody>
 </table>
