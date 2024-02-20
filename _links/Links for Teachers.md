@@ -28,8 +28,8 @@ variant: markdown
 4.  [Parents Gateway](https://pg.moe.edu.sg/)
 5.  [SC Mobile](https://scmobile.moe.edu.sg/login)
 6.  [Online School Library Catalogue](https://schoolibrary.moe.edu.sg/payalebarmethodistgirlspri)
-7.  **[Online School eResource Repository](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)**
+7.  [Online School eResource Repository](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 8.  [Padlet](https://plmgsp.padlet.org/)
 9.  [Pear Deck](http://pear%20deck/)
-10.  **[STP](https://go.gov.sg/stp)**
+10.  [STP](https://go.gov.sg/stp)
 11.  [Zoom Web](https://zoom.us/signin)
