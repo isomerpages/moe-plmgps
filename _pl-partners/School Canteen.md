@@ -8,9 +8,9 @@ variant: markdown
 
 | Type of Stall | Closing Date 
 | -------- | -------- | 
-|   Mixed Rice | 05 December 2023     | 
-|  Western Stall Halal  |05 December 2023  | 
-|Chinese Fusion or Western Food (Halal)|28 March 2024
+|   Mixed Rice | 28 June 2024     | 
+|  Western Stall Halal  |28 June 2024  | 
+|Chinese Fusion or Western Food (Halal)|28 March 2024 |
 
 
 **Application Procedure**
