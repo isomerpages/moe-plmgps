@@ -18,6 +18,13 @@ sections:
   - resources:
       title: Announcements
   - infobar:
+      title: School Canteen Advertisement
+      subtitle: ADVERTISEMENT
+      id: infobar
+      description: For more information
+      button: CLICK HERE
+      url: /pl-partners/permalink/schoolcanteenadvertisement/
+  - infobar:
       title: School Bus Advertisement
       subtitle: ADVERTISEMENT
       description: For more information
