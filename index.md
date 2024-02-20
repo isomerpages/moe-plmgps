@@ -23,7 +23,7 @@ sections:
       id: infobar
       description: For more information
       button: CLICK HERE
-      url: /pl-partners/permalink/schoolcanteenadvertisement/
+      url: /about-pl/school-canteen/
   - infobar:
       title: School Bus Advertisement
       subtitle: ADVERTISEMENT
