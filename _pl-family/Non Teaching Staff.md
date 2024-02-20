@@ -70,10 +70,7 @@ variant: markdown
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-6cvf"></th>
-    <th class="tg-0lax"></th>
-  </tr>
+  
 </thead>
 <tbody>
   <tr>
