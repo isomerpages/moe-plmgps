@@ -23,4 +23,11 @@ sections:
       description: For more information
       button: Click here
       url: /pl-partners/permalink/schoolbusadvertisement/
+  - infobar:
+      title: School Canteen Advertisement
+      subtitle: ADVERTISEMENT
+      id: infobar
+      description: For more information
+      button: CLICK HERE
+      url: https://www.payalebarmethodistgirlspri.moe.edu.sg/about-pl/school-canteen/
 ---
