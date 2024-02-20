@@ -29,5 +29,5 @@ sections:
       id: infobar
       description: For more information
       button: CLICK HERE
-      url: https://www.payalebarmethodistgirlspri.moe.edu.sg/about-pl/school-canteen/
+      url: /pl-partners/permalink/schoolcanteenadvertisement/
 ---
