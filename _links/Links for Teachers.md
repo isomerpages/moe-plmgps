@@ -2,6 +2,7 @@
 title: Links for Teachers
 permalink: /links/Links-for-Teachers/
 description: ""
+variant: markdown
 ---
 [PL Self-Help Guides](https://sites.google.com/plmgps.edu.sg/ict-support-cente/home) \- Require PL Google Account  
   
