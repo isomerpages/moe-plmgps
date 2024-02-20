@@ -10,6 +10,7 @@ variant: markdown
 | -------- | -------- | 
 |   Mixed Rice | 05 December 2023     | 
 |  Western Stall Halal  |05 December 2023  | 
+|Chinese Fusion or Western Food (Halal)|28 March 2024
 
 
 **Application Procedure**
