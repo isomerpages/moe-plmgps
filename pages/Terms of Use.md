@@ -31,11 +31,6 @@ programs (the Contents), are protected by copyright, trademark and other
 forms of proprietary rights. All rights, title and interest in the Contents
 are owned by, licensed to or controlled by Paya Lebar Methodist Girls'
 School (Primary).</p>
-<p><strong>Privacy Policy</strong>
-</p>
-</li>
-<li>
-<p>Click here to review this Web Site Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
 </li>
@@ -51,7 +46,7 @@ reason(s); and/or if information submitted by user is deemed insufficient.</p>
 </li>
 <li>
 <p>Modification of any of the Contents or use of the Contents for any other
-purpose will be a violation of Paya Lebar Methodist Girls' School (Primary).’s
+purpose will be a violation of Paya Lebar Methodist Girls' School (Primary)’s
 copyright and other intellectual property rights. Graphics and images on
 this Web Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of Paya Lebar Methodist Girls'
