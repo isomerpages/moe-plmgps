@@ -163,7 +163,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ii8k">Assistant Year Head (Lower Pri)</td>
-    <td class="tg-ii8k"><a href="mailto:tan_su_zhen_jasmine@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Jasmine Tan</span></a> </td>
+    <td class="tg-ii8k"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a> </td>
   </tr>
   <tr>
     <td class="tg-ii8k">Assistant Year Head (Middle Pri)</td>
