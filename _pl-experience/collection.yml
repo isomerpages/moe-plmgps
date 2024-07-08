@@ -2,10 +2,6 @@ collections:
   pl-experience:
     output: true
     order:
-      - Events/P1 Fiesta 2021.md
-      - Events/Active Family Programme (by HPB).md
-      - Events/Guidelines for Home School Partnership.md
-      - Events/.keep
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
