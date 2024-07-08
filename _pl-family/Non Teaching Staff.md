@@ -25,7 +25,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-rj1p">Operations Manager</td>
-    <td class="tg-ii8k">Mr Kelvin Lee Hong Li</td>
+    <td class="tg-ii8k">Mr Dexter Siow Yoon Chat</td>
   </tr>
   <tr>
     <td class="tg-rj1p">ICT Associate</td>
