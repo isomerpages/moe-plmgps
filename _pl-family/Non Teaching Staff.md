@@ -95,11 +95,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Library Assistant</td>
-    <td class="tg-ii8k">Mdm Zaiton</td>
+    <td class="tg-ii8k">Ms Goh Lay Wee </td>
   </tr>
   <tr>
     <td class="tg-n4qt">Desktop Engineer</td>
-    <td class="tg-ii8k">Mr Tan Hee Siang</td>
+    <td class="tg-ii8k">Mr Sayson Justin Dela Cruz</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Desktop Engineer</td>
