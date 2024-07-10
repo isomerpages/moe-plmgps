@@ -36,18 +36,18 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Tayyiba Bte Muhammad Yusaf </span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Lee Tiew Eng</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:tayyiba_muhammad_yusaf@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Tayyiba Bte Muhammad Yusaf </span></a></td>
+    <td class="tg-a7kh"><a href="mailto:lee_tiew_eng@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Lee Tiew Eng</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-ii8k"> <a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Ng Pei Sei Florence<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Ms Faith Mavis Lim Mei Ting </span></a></td>
+    <td class="tg-ii8k"> <a href="mailto:ng_pei_sei_florence@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Mdm Ng Pei Sei Florence<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:faith_lim_mei_ting@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE"> Ms Faith Mavis Lim Mei Ting </span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
     <td class="tg-a7kh"><a href="mailto:yee_shu_en@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Yee Shu En </span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Chiew Pui Mei</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:chiew_pui_mei@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Chiew Pui Mei</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Kindness</td>
