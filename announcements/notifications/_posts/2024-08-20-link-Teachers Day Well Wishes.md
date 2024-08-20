@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://docs.google.com/forms/d/e/1FAIpQLScgyC1JYnBdOMgE95JQtJRSuwe9QJt1SUZapsLL-u7SFYRWCw/viewform
+external: https://docs.google.com/forms/d/e/1FAIpQLScgyC1JYnBdOMgE95JQtJRSuwe9QJt1SUZapsLL-u7SFYRWCw/viewform
 ---
