@@ -19,7 +19,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-rj1p">Administration Manager</th>
-    <th class="tg-ii8k">Ms Megan Lee</th>
+    <th class="tg-ii8k">Ms Patricia Quek</th>
   </tr>
 </thead>
 <tbody>
@@ -27,7 +27,11 @@ variant: markdown
     <td class="tg-rj1p">Operations Manager</td>
     <td class="tg-ii8k">Mr Dexter Siow Yoon Chat</td>
   </tr>
-  <tr>
+	<tr>
+    <td class="tg-rj1p">Operations Manager</td>
+    <td class="tg-ii8k">Mr Tan How Sheng</td>
+  </tr>
+	<tr>
     <td class="tg-rj1p">ICT Associate</td>
     <td class="tg-ii8k">Ms Aneesha Parvin</td>
   </tr>
@@ -39,6 +43,7 @@ variant: markdown
     <td class="tg-rj1p">Administrative Executive</td>
     <td class="tg-ii8k">Ms Tay Suan Zee</td>
   </tr>
+
   <tr>
     <td class="tg-rj1p">Corporate Support Officer</td>
     <td class="tg-ii8k">Mdm Tay Mei Wah </td>
@@ -103,11 +108,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Desktop Engineer</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-ku5w">Mr         Mohd Hazman Syafiq<span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">IT Media Support Specialist</td>
-    <td class="tg-ii8k">Mr Alfie</td>
+    <td class="tg-ii8k"></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Science Lab TA</td>
