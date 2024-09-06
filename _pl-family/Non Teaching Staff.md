@@ -92,9 +92,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Christian Ministry Support</td>
-    <td class="tg-ii8k">Mrs Irene Phua<br>Mrs Rosalind Chua<br>Ms Shanti Merry</td>
+    <td class="tg-ii8k">Mrs Rosalind Chua<br>
+		</td>
   </tr>
-  <tr>
+	<tr><td class="tg-n4qt">Christian Ministry Support</td>
+    <td class="tg-ii8k">Ms Shanti Merry<br>
+		</td>
+  </tr><tr>
     <td class="tg-n4qt">Receptionist</td>
     <td class="tg-ii8k">Mdm Sundari</td>
   </tr>
