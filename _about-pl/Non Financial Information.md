@@ -2,6 +2,7 @@
 title: Non Financial Information
 permalink: /about-pl/Non-Financial-Information/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -105,7 +106,7 @@ description: ""
     <td class="tg-0lax">Trustees/Board Members :</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Chairman - Prof Hum Sin Hoon</td>
+    <td class="tg-0lax">Chairman - Mr Jonathan Tan</td>
   </tr>
   <tr>
     <td class="tg-0lax">Vice Chairman - Dr Tan Chor Hiang</td>
@@ -117,22 +118,22 @@ description: ""
     <td class="tg-0lax">Asst Secretary – Mrs Joyce Ang</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Member - Mr Guan Yeow Kwang</td>
+    <td class="tg-0lax">Member - Ms Irene Lim</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Member - Mrs Lee Boon Siew</td>
+    <td class="tg-0lax">Member - Dr Amy Quek</td>
   </tr>
   <tr>
     <td class="tg-0lax">Member - Rev Dr Kow Shih Ming</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Member - Dr Daniel Fung</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Member - Mrs Annie Teo</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Member - Rev David Koh</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Mr Guan Yeow Kwang</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Member - Mr Daryl Ong</td>
   </tr>
   <tr>
     <td class="tg-0lax">Key Employees :</td>
