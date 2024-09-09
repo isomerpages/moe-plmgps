@@ -124,7 +124,7 @@ variant: markdown
 <table class="tg">
 <thead>
 	<tr>
-    <td class="tg-ii8k">Level Head - EL</td>
+    <td class="tg-ii8k">Level Head - EL<br>(Internal Appointment)</td>
     <td class="tg-ii8k"><a href="mailto:teo_ai_ling_irene@schools.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Teo Ai Ling Irene</span></a> </td>
   </tr>
   <tr>
@@ -155,22 +155,22 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Subject Head - CD</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:tan_xue_qun@schools.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Tan Xue Qun</span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
 	<tr>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Subject Head - SLD</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Subject Head - SLD   <br>(Internal Appointment)</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:koh_xin_mei_daffodil@schools.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Koh Xin Mei Daffodil</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">Assistant Year Head (Lower Pri)</td>
+    <td class="tg-ii8k">Assistant Year Head<br>(Lower Pri)</td>
     <td class="tg-ii8k"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ii8k">Assistant Year Head (Middle Pri)</td>
+    <td class="tg-ii8k">Assistant Year Head<br>(Middle Pri)</td>
     <td class="tg-ii8k"><a href="mailto:tok_sock_hoon@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Tok Sock Hoon</span></a> <br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">Assistant Year Head (Upper Pri)</td>
+    <td class="tg-ii8k">Assistant Year Head <br>(Upper Pri)</td>
     <td class="tg-a7kh"><a href="mailto:dilys_jiang_sihui@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Dilys Wong</span></a>  </td>
   </tr>
 </tbody>
