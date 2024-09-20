@@ -51,7 +51,7 @@ variant: markdown
   <tr>
     <td class="tg-n4qt">Kindness</td>
     <td class="tg-a7kh"><a href="mailto:chan_shi_mei@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Chan Shi Mei </span></a></td>
-    <td class="tg-a7kh"><a href="mailto:tan_seow_puay@moe.edu,sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mdm Tan Seow Puay</span></a></td>
+    <td class="tg-a7kh"><a href="mailto:priya_v_jothi_a@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mdm Priya</span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Love</td>
