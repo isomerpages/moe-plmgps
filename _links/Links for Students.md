@@ -4,7 +4,7 @@ permalink: /links/Links-for-Students/
 description: ""
 variant: markdown
 ---
-1.  [SLS - School Learning Space](https://vle.learning.moe.edu.sg/login) 
+1.  [SLS - Student Learning Space](https://vle.learning.moe.edu.sg/login) 
 2.  [Online School Library Catalogue](https://schoolibrary.moe.edu.sg/payalebarmethodistgirlspri)
 3.  **[Online School eResource Repository](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)**  
     
