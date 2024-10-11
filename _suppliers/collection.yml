@@ -2,6 +2,6 @@ collections:
   suppliers:
     output: true
     order:
-      - School Bus.md
-      - School Canteen.md
       - Service Operators.md
+      - School Canteen.md
+      - School Bus.md
