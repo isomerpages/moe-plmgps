@@ -2,6 +2,7 @@ collections:
   pl-experience:
     output: true
     order:
+      - "ALP/Joyful Change Makers: PL’s Applied Learning Programme.md"
       - ALP/.keep
       - Curriculum/.keep
       - Curriculum/English.md
