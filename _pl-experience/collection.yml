@@ -2,6 +2,8 @@ collections:
   pl-experience:
     output: true
     order:
+      - "ALP/Joyful Change Makers: PL’s Applied Learning Programme.md"
+      - ALP/.keep
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
@@ -39,4 +41,7 @@ collections:
       - CCA Clubs and Uniform Group/Media Club.md
       - CCA Clubs and Uniform Group/Science Environment Club.md
       - CCA ICT.md
-      - Learning for Life Programme (LLP).md
+      - LLP/.keep
+      - LLP/Learning for Life Programme (LLP).md
+      - LLP/Students’ Learning in LLP ‘Art Creates @PL.md
+      - LLP/Aesthetics Expressions @ PL.md
