@@ -1,5 +1,5 @@
 collections:
-  pl-parents-portal:
+  for-parents:
     output: true
     order:
       - Useful information for parents.md
