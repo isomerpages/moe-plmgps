@@ -23,7 +23,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-ktyi">Paya Lebar Methodist Girls' School (Primary)</td>
-    <td class="tg-ktyi">Name of Contact Person : Ms Megan Lee<br>Telephone no : 62862795<br>Fax no : 62803915<br>Email Address : <a href="mailto:plmgps@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">plmgps@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Name of Contact Person : Ms Patricia Quek/ Mr Steven Liew <br>Telephone no : 62862795<br>Fax no : 62803915<br>Email Address : <a href="mailto:plmgps@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">plmgps@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-dgl5">Address :</td>
