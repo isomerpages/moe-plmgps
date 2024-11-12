@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /pl-experience/Curriculum/Mother-Tongue/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 #### Direction
 
@@ -26,7 +27,9 @@ P4: Comics &amp; Language Camp (T3)
 3\. Conversational Malay and Chinese Courses&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp; P3 and P4: Beginners and Basic Courses (T1 &amp; T2)&nbsp;&nbsp;&nbsp;  
 &nbsp; &nbsp;&nbsp;  
-
+ 
+Web link for Chinese eBook: [https://www.ezhishi.com/PLMGSebook2024/](https://www.ezhishi.com/PLMGSebook2024/)
+![Cover Page](/images/cover_page.jpg)![QR code for eBook](/images/QR_code_for_eBook.jpg)
 ##### ML Department
 
 1\. Enrichment Programmes  
@@ -57,6 +60,7 @@ P4: Comics &amp; Language Camp (T3)
 
 3\. Conversational Malay and Chinese Courses&nbsp;&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp; P3 and P4: Beginners and Basic Courses (T3 &amp; T4)
-		
+
+
 		
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjz2dpx-Xk_BrbUDzeCfO2upU_NVhWs79WkTxXEdbabWhDllKOD0QfhKRKvoNVJmubDIWk85vx0JO7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
