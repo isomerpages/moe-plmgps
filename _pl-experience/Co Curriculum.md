@@ -58,6 +58,9 @@ Primary 3 PL-Lites will select their CCAs in Term 2 and commence CCA officially 
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:96.8pt" valign="top" width="200"><p class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:#484848;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
+	EN-GB" lang="EN-SG">Girls' Brigade</span></p><p class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#484848;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
   EN-GB" lang="EN-SG">Christian Fellowship</span></p><p class="MsoNormal"><span style="font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:#484848;mso-font-kerning:0pt;mso-ligatures:none;mso-fareast-language:
