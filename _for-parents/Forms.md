@@ -12,3 +12,4 @@ variant: markdown
 * [MOE FAS Application Form](/files/PL%20Parents'%20Portal/2024%20moe%20fas%20application%20form.pdf)
 *   [Address Updating](/files/address%20updating%20form.pdf)
 *   [Giro Application](https://www.moe.gov.sg/financial-matters/fees/egiro)
+*   [Application for Change of Student's Address](/files/Application_for_Change_of_Student_s_Address.pdf)
