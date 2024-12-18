@@ -1,5 +1,5 @@
 ---
-title: Principal's Message 2024
+title: Principal's Message 2025
 permalink: /about-pl/principals-message-2024/
 description: ""
 variant: markdown

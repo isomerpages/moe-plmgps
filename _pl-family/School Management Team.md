@@ -25,7 +25,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-ii8k">Vice-Principal</td>
-    <td class="tg-n4qt"><a href="mailto:plmgps@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Grace Tay</span></a></td>
+    <td class="tg-n4qt"><a href="mailto:plmgps@moe.edu.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Esther See</span></a></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Vice-Principal</td>
