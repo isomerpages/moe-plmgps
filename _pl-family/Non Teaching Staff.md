@@ -21,11 +21,15 @@ variant: markdown
     <th class="tg-rj1p">Administration Manager</th>
     <th class="tg-ii8k">Ms Patricia Quek</th>
   </tr>
+	<tr>
+    <th class="tg-rj1p">Administration Manager</th>
+    <th class="tg-ii8k">Mr Steven Liew</th>
+  </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rj1p">Operations Manager</td>
-    <td class="tg-ii8k">Mr Dexter Siow Yoon Chat</td>
+    
+
   </tr>
 	<tr>
     <td class="tg-rj1p">Operations Manager</td>
