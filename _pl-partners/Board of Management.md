@@ -40,5 +40,5 @@ variant: tiptap
 <img style="width:40%;height:50%" height="auto" width="100%" src="/images/Dr_Amy_Quek.png">
 </div>
 <h3>Auditor</h3>
-<p>SH Tang &amp; Associates LLP</p><pre><code>                                         </code></pre>
+<p>SH Tang &amp; Associates LLP</p>
 <p></p>
