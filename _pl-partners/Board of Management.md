@@ -4,25 +4,36 @@ permalink: /pl-partners/Board-of-Management/
 description: ""
 variant: markdown
 ---
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B1.png">
+### Chairman
 
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B2.png">
+<img style="width:40%;height:50%" src="/images/Mr_Jonathan_Lim.png">
+
+### Vice-Chairman
+
+<img style="width:40%;height:50%" src="/images/Dr_Tan_Chor_Hiang.png">
+
+### Secretary
+<img style="width:40%;height:50%" src="/images/Ms_Amy_Ng.png">
+
+### Secretary
+<img style="width:40%;height:50%" src="/images/Screenshot_2024_12_18_162644.png">
+
 
 ### Members
-
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B3.png">
-
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B4.png">
-
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B5.png">
-
 <img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B6.png">
+
+<img style="width:40%;height:50%" src="/images/Rev_Kow_Shih_Ming.png">
 
 <img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B7.png">
 
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/dr amy quek b8.PNG">
+<img style="width:40%;height:50%" src="/images/Ms_Irene_Lim.png">
 
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B9.png">
+<img style="width:40%;height:50%" src="/images/Mr_Daryl_ong.png">
+
+<img style="width:40%;height:50%" src="/images/Dr_Amy_Quek.png">
+
+### Auditor
+
+                                                    SH Tang &amp; Associates LLP
 
 
-<img style="width:40%;height:50%" src="/images/PL%20Partners/Board%20of%20Management/B10.png">
