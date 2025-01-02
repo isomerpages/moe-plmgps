@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Canteen Food Pricelist.md
       - Useful information for parents.md
       - Forms.md
       - Resource for Parents.md
