@@ -3,6 +3,7 @@ title: Co Curriculum
 permalink: /pl-experience/Co-Curriculum/
 description: ""
 variant: markdown
+third_nav_title: Co Curriculum
 ---
 ### **Co-Curricular Activities (CCA)**
 
