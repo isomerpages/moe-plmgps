@@ -1,13 +1,14 @@
 ---
-title: CCA ICT
-permalink: /pl-experience/CCA-ICT/
+title: Information and Communications Technology (ICT)
+permalink: /pl-experience/ict/
 description: ""
+variant: tiptap
 ---
 #### **Direction**
 
   
 
-**Vision**: Inquisitive and Creative 21st Century Learners  
+**Vision**:&nbsp;Inquisitive and Creative 21st Century Learners  
   
 
 #### **ICT Goals:**
