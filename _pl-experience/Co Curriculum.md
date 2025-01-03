@@ -95,4 +95,4 @@ Primary 3 PL-Lites will select their CCAs in Term 2 and commence CCA officially 
 
 \*Primary 1 and 2 PL-Lites with aptitude and interest in Rhythmic Gymnastics may be invited to the CCA’s junior programme.&nbsp; During the P3 CCA Selection, the students can choose to remain in the CCA or select a new CCA.
 
-#### [Click here for more information on CCA](https://sites.google.com/moe.edu.sg/plmgpscca/home?authuser=0)
+#### [Click here for more information on CCA.](https://sites.google.com/moe.edu.sg/plmgpscca/home?authuser=0)
