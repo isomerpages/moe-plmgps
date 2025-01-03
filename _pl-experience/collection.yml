@@ -2,10 +2,6 @@ collections:
   pl-experience:
     output: true
     order:
-      - Co Curriculum/Co Curriculum.md
-      - Co Curriculum/.keep
-      - ICT/Information and Communications Technology (ICT).md
-      - ICT/.keep
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
@@ -22,6 +18,10 @@ collections:
       - CCE/PAL@PL.md
       - CCE/Pastoral Care and Counselling @PL.md
       - CCE/Values in Action@PL.md
+      - Co Curriculum/.keep
+      - Co Curriculum/Co Curriculum.md
+      - ICT/.keep
+      - ICT/Information and Communications Technology (ICT).md
       - LLP/.keep
       - LLP/Learning for Life Programme (LLP).md
       - LLP/Students’ Learning in LLP ‘Art Creates @PL.md
