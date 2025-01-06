@@ -60,13 +60,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Patience</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:lee_bee_har_amilyn@moe.edu.sg">Mdm Lee Bee Har Amilyn<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:">Mdm Suriawati Binte Sulaimi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Purity</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> </span></a></td>
+    <td class="tg-a7kh"><a href="mailto:seaw_cheng_cheng@moe.edu.sg">Mdm Seaw Cheng Cheng<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:tan_xue_qun@moe.edu.sg">Ms Tan Xue Qun<span style="font-weight:600;text-decoration:none;color:#0857AE"> </span></a></td>
   </tr>
 </tbody>
 </table>
