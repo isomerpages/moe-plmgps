@@ -25,23 +25,23 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:">Ms Ashley Shimshona Teo Qian Ni<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:tay_bee_lian_esther@moe.edu.sg">Mdm Tay Bee Lian Esther<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"> </span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:">Mrs Lee Weng Hun<span style="font-weight:600;text-decoration:none;color:#0857AE"> </span></a></td>
+    <td class="tg-a7kh"><a href="mailto:ng_gui_mei@moe.edu.sg">Ms Ng Gui Mei<span style="font-weight:600;text-decoration:none;color:#0857AE"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:tay_sen_leng@moe.edu.sg">Mdm Tay Sen Leng<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:ye_zi@moe.edu.sg">Ms Ye Zi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
-    <td class="tg-a7kh"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href=""><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:pereira_michele_madeline@moe.edu.sg">Ms Pereira Michele Madeline<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:tay_chee_teck@moe.edu.sg">Mr Tay Chee Teck<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
