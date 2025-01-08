@@ -163,7 +163,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ii8k">Assistant Year Head<br>(Lower Pri)</td>
-    <td class="tg-ii8k"><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a> </td>
+    <td class="tg-ii8k"><a href="mailto:zeng_cuiyue_stephanie@moe.edu.sg">Ms Zeng Cuiyue Stephanie <span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a> </td>
   </tr>
   <tr>
     <td class="tg-ii8k">Assistant Year Head<br>(Middle Pri)</td>
