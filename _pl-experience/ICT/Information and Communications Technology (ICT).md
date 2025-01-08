@@ -16,8 +16,11 @@ InC3 provides learning experiences for development of Skills, Knowledge,
 Attitudes and Values (SKAV) baseline ICT standards with New Media Literacies.</p>
 <p><strong>Phases:</strong>
 </p>
-<p><strong>Basic:&nbsp;</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Basic:</strong>&nbsp;</p>
+</li>
+</ul>
 <p><strong>Curate </strong>a variety of resources using digital tools to
 construct knowledge, produce creative artefacts and make meaningful learning
 experiences for themselves and others.</p>
