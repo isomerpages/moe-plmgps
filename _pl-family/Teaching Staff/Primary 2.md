@@ -25,7 +25,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:">Ms Ashley Shimshona Teo Qian Ni<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:teo_qian_ni_ashley@moe.edu.sg">Ms Ashley Shimshona Teo Qian Ni<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
     <td class="tg-a7kh"><a href="mailto:tay_bee_lian_esther@moe.edu.sg">Mdm Tay Bee Lian Esther<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Patience</td>
-    <td class="tg-a7kh"><a href="mailto:">Mdm Ang Chiu Hoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:ang_chiu_hoon@moe.edu.sg">Mdm Ang Chiu Hoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
     <td class="tg-a7kh"><a href="mailto:wu_jiao@moe.edu.sg">Mdm Wu Jiao<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>

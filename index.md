@@ -24,10 +24,4 @@ sections:
       description: For more information
       button: CLICK HERE
       url: /about-pl/school-canteen/
-  - infobar:
-      title: School Bus Advertisement
-      subtitle: ADVERTISEMENT
-      description: For more information
-      button: Click here
-      url: /pl-partners/permalink/schoolbusadvertisement/
 ---

@@ -2,7 +2,6 @@ collections:
   suppliers:
     output: true
     order:
-      - School Bus Advertisement.md
       - Service Operators.md
       - School Canteen.md
       - School Bus.md
