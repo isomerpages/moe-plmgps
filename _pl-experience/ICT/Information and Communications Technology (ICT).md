@@ -9,7 +9,7 @@ third_nav_title: ICT
 <p><strong>&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ICT.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ICT.png">
 </div>
 <p>Our school's ICT-integrated Curriculum, incorporates Computational Thinking.
 InC3 provides learning experiences for development of Skills, Knowledge,
@@ -53,7 +53,6 @@ to solve a problem.</p>
 <tr>
 <td rowspan="4" colspan="1">
 <p>Joyful Discovery</p>
-<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Tinkering P1</p>
