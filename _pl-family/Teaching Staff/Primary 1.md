@@ -61,7 +61,7 @@ variant: markdown
   <tr>
     <td class="tg-n4qt">Patience</td>
     <td class="tg-a7kh"><a href="mailto:lee_bee_har_amilyn@moe.edu.sg">Mdm Lee Bee Har Amilyn<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:">Mdm Suriawati Binte Sulaimi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:suriawati_binte_sulaimi@moe.edu.sg">Mdm Suriawati Binte Sulaimi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Purity</td>
