@@ -23,7 +23,7 @@ variant: markdown
 
 </style>
 
-&nbsp; <table class="tg">
+<table class="tg">
 
 <thead><tr><th class="tg-n4qt">Class</th><th class="tg-n4qt">Form Teacher</th><th class="tg-n4qt">Form Teacher</th></tr>
 
