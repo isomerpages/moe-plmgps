@@ -81,7 +81,7 @@ variant: markdown
   <tr>
     <td class="tg-7yig">Wednesday &amp; Friday<br>(CCA Days only)</td>
  <td class="tg-ktyi">3.15pm – 6.00pm</td>
-<td class="tg-f4yw">4.15pm - 4.40pm</td>
+<td class="tg-ktyi">4.15pm – 4.40pm</td>
 <td class="tg-f4yw">---</td>
   </tr>
   <tr>
