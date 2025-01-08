@@ -5,95 +5,165 @@ description: ""
 variant: tiptap
 third_nav_title: ICT
 ---
-#### **Direction**
-
-  
-
-**Vision**:&nbsp;Inquisitive and Creative 21st Century Learners  
-  
-
-#### **ICT Goals:**
-
-*   Learners who are collaborative, self-directed and take responsibility for their own well-being in cyberspace.
-*   Teachers who engage learners in 21st Century learning.
-
-  
-
-#### **ICT Integration**
-
-**ICT Integrated Curriculum**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-umoe{background-color:#EBF2F1;text-align:center;vertical-align:middle}
-.tg .tg-nifb{background-color:#153A57;color:#FEF07D;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-igha{background-color:#EBF2F1;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-nifb"><span style="color:#FEF07D;background-color:#153A57">Level</span></th>
-    <th class="tg-nifb"><span style="color:#FEF07D;background-color:#153A57">ICT Skill Acquisition and Application</span></th>
-  </tr>
-</thead>
+<h3><strong>Joyful Change-Makers: PL’s Applied Learning Programme</strong></h3>
+<p><strong>&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ICT.png">
+</div>
+<p>Our school's ICT-integrated Curriculum, incorporates Computational Thinking.
+InC3 provides learning experiences for development of Skills, Knowledge,
+Attitudes and Values (SKAV) baseline ICT standards with New Media Literacies.</p>
+<p><strong>Phases:</strong>
+</p>
+<p><strong>Basic:&nbsp;</strong>
+</p>
+<p><strong>Curate </strong>a variety of resources using digital tools to
+construct knowledge, produce creative artefacts and make meaningful learning
+experiences for themselves and others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Intermediate:</strong>
+</p>
+</li>
+</ul>
+<p><strong>Connect </strong>through clear communication and expression for
+a variety of purposes using the platforms, tolls, styles, formats and digital
+media appropriate to their goals.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Advanced:</strong>&nbsp;</p>
+</li>
+</ul>
+<p><strong>Create </strong>new, useful or imaginative solutions in order
+to solve a problem.</p>
+<p><strong>Programme Structure:</strong>
+</p>
+<p>Our InC3 programme is built on 3 pillars of Joyfulness at PL:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-umoe"><span style="color:#000;background-color:transparent">P1</span></td>
-    <td class="tg-igha">Basic Operations, Touch Typing<br>MS Word (Basic), Cyber Wellness (CyberRite)</td>
-  </tr>
-  <tr>
-    <td class="tg-igha">P2</td>
-    <td class="tg-igha">MS Word (Advanced), MS PowerPoint (Basic), Internet Search,<br>Cyber Wellness (CyberRite)</td>
-  </tr>
-  <tr>
-    <td class="tg-igha">P3 </td>
-    <td class="tg-igha">Email, MS PowerPoint (Advanced), Cyber Wellness (CyberRite),<br>HansVision (for CL pupils), Kanian (for TL pupils)</td>
-  </tr>
-  <tr>
-    <td class="tg-igha">P4</td>
-    <td class="tg-igha">MS PowerPoint (Advanced), Anjal Murasu (for TL pupils),<br>Cyber Wellness (CyberRite) </td>
-  </tr>
-  <tr>
-    <td class="tg-igha">P5 </td>
-    <td class="tg-igha"> Blogging<span style="color:#000">, Smore, Cyber Wellness(CyberRite)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-igha">P6</td>
-    <td class="tg-igha">- Application of skills acquired -<br>MS Excel (Basic), Cyber Wellness (CyberRite) </td>
-  </tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Joyful Discovery</p>
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAL Tinkering P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Foster curiosity by asking questions to analyse a problem.
+<br>• Develop STICK mindsets by embracing challenges through brainstorming
+and creating solutions.
+<br>• Establish computational thinking skill of pattern recognition through
+tinkering (changing things to see what happens).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inc3 P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Touch typing:
+<br>Proper hand positioning
+<br>Accuracy and speed benchmarks for different year levels
+<br>Integration of touch typing practice across subjects</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PAL Tinkering P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Foster curiosity by asking questions to analyse a problem.
+<br>• Develop STICK mindsets by embracing challenges through brainstorming
+and creating solutions.
+<br>• Establish computational thinking skill of pattern recognition through
+tinkering (changing things to see what happens).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>InC3 P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Produce presentation content and collaborate with others digitally (Internet
+use, Google Slides)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Joyful Growth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MoveIT 1</p>
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Develop creative thinking and problem solving skills by applying the
+DT-ABC approach in the context of sustainable transport in Singapore.
+<br>• Develop SMILE mindsets by collaborating in groups to learn about the
+future of mobility in the context of Singapore’s unique land transport
+situation.
+<br>• Establish computational thinking skills of single thread programming
+and sensor inputs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MoveIT 2</p>
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Develop creative thinking and problem solving skills by applying the
+DT-ABC approach in the context of sustainable transport in Singapore.
+<br>• Develop SPARK mindsets by supporting peers to present at PL ALP-fest
+- the future of mobility in the context of Singapore’s unique land transport
+situation.
+<br>• Establish computational thinking skills of Multi-thread programming
+and Loop-thread programming.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joyful Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Code for Fun</p>
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Develop logical and problem solving skills by applying these skills
+in the context of solving problems in daily life.
+<br>• Develop STICK mindsets by exploring new technologies in Artificial Intelligence
+(AI) and Cyber-security concepts.
+<br>• Establish computational thinking skills of debugging, events, loops,
+variables, functions and conditionals.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**Cyber Wellness Programme**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xwen{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xwen"><span style="color:#222">Area</span></th>
-    <th class="tg-xwen"><span style="color:#222">Skills and Values</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ethical and Legal Use</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Handle inappropriate content</span><br><span style="color:#222">Prevent cyber abuse</span><br><span style="color:#222">Display internet etiquette</span><br><span style="color:#222">Respect intellectual property</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Safe and Responsible Use</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Protect private information</span><br><span style="color:#222">Avoid computer addiction</span><br><span style="color:#222">Manage security risks</span><br><span style="color:#222">Verify information sources</span></td>
-  </tr>
-</tbody>
-</table>
+<p><strong>Learning Outcomes:</strong>
+</p>
+<p>Students will develop:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Critical, adaptive and inventive thinking</p>
+</li>
+<li>
+<p>Communication and collaboration skills</p>
+</li>
+<li>
+<p>Civic literacy and global awareness</p>
+</li>
+<li>
+<p>A passion for lifelong learning and service</p>
+</li>
+</ul>
+<p>Through engaging projects and partnerships, our Joyful Change-Makers programme
+prepares students to shape a better future as Creators, Connectors and
+Contributors.</p>
