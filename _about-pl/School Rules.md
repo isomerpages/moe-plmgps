@@ -161,20 +161,32 @@ attire on days they have PE lessons.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Hair</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>• The back of the hair must not touch the collar. If it does, hair must
-be tied in a single or two pony tails. Hair must not be covered.
-<br>• Fringe must be above the eyebrows
-<br>• Hair must not be highlighted or permed
-<br>• Only black or navy blue hair accessories are allowed.</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Hair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>The back of the hair must not touch the collar. If it does, hair must
+be tied in a single or two pony tails. Hair must not be covered.</p>
+</li>
+<li>
+<p>Fringe must be above the eyebrows.</p>
+</li>
+<li>
+<p>Hair must not be highlighted or permed.</p>
+</li>
+<li>
+<p>Only black or navy blue hair accessories are allowed.</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Blouse</p>
+<p><strong>School Blouse</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Only wear the school white blouse with short sleeves and pointed collars.
@@ -183,7 +195,8 @@ be tied in a single or two pony tails. Hair must not be covered.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Shoes</p>
+<p><strong>School Shoes</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Only white school shoes with lace or Velcro strips are allowed. Students
@@ -198,7 +211,8 @@ of the shoes are allowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nails</p>
+<p><strong>Nails</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Nails must be clean and short with no nail polish / gloss.</p>
@@ -206,7 +220,8 @@ of the shoes are allowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Make-up</p>
+<p><strong>Make-up</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Make-up is prohibited in school unless required when participating in
@@ -215,7 +230,8 @@ a performance or a competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Watches</p>
+<p><strong>Watches</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Student can wear a watch of a plain design.
@@ -224,7 +240,8 @@ a performance or a competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Earings &amp; Accessories</p>
+<p><strong>Earings &amp; Accessories</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
