@@ -47,9 +47,9 @@ variant: markdown
  
  **BE COURTEOUS AT ALL TIMES**
  
- •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always greet the teacher and staff of the school when you see them
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are expect to greet the teacher and staff of the school.
  
- •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Say 'please', 'thank you', 'excuse me' or 'sorry'.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should say 'please', 'thank you', 'excuse me' or 'sorry'.
  
  **IN SCHOOL COMPOUND**
  
