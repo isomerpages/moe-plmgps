@@ -71,14 +71,14 @@ not be brought to school. Teachers will not be liable for the loss and
 will confiscate these items if students are found in possession of them.</p>
 <p><strong>LEAVING THE SCHOOL COMPOUND</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not to leave the school
-compound unless permission has
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not allowed to leave
+the school compound unless permission has
 <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;been granted by teacher.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are not feeling well
-are to inform teacher. Arrangement
-<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;will be made to bring the students
-to the sick bay to wait for their
-<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;parent/guardian to fetch them home.</p>
+are to inform teacher.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are unwell will be
+taken to the sick bay to wait for their parent / guardian to take them
+home.</p>
 <h5>Attire and Appearance</h5>
 <p>Students are to wear the prescribed uniform and be neat at all times.
 Modification to the uniform is not allowed.</p>
