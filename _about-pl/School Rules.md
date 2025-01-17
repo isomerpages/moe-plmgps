@@ -2,39 +2,40 @@
 title: School Rules
 permalink: /about-pl/School-Rules/
 description: ""
+variant: markdown
 ---
-##### 1.  LOVE YOUR COUNTRY  
+##### 1.&nbsp;&nbsp;LOVE YOUR COUNTRY  
 
- All students are to attend and participate in the flag-raising/lowering ceremony. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart. They are to assemble in an orderly manner and there should be no talking during assembly.
+ All&nbsp;students&nbsp;are to attend and participate in the flag-raising/lowering ceremony. Students who are Singapore citizens must sing the National Anthem and take the Pledge.&nbsp;Students&nbsp;will take the Pledge with the right fist placed over the heart. They are to assemble in an orderly manner and there should be no talking during assembly.
 
-##### 2.  LOVE YOUR SCHOOL
+##### 2.&nbsp; LOVE YOUR SCHOOL
 
    
- ·       Students are to wear the prescribed uniform and be neat at all times and  
-         modification to the uniform is not allowed. 
+ ·&nbsp; &nbsp; &nbsp; &nbsp;Students are to wear the prescribed uniform and be neat at all times and  
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;modification to the uniform is not allowed.&nbsp;
 
- ·       Keep the school compound litter-free. Make use of litter bins.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to keep the school compound litter-free. Make use of litter bins.
 
- ·       Keep all classrooms and special rooms clean and tidy.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are to keep all classrooms and special rooms clean and tidy.
 
- ·       Always treat school property with care.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must treat school property with care.
 
- ·       Switch off all lights and fans when not in use.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must switch off all lights and fans when not in use.
 
   
 
-##### 3.  LOVE YOUR FRIENDS
+##### 3.&nbsp;&nbsp;LOVE YOUR FRIENDS
 
    
- ·       Take care of your friends at all times.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must always take care of their friends.
 
- ·       Always help those who are in need.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should help those who are in need.
 
- ·       Always go to the wash room in twos.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should always go to the wash room in twos.
 
- ·       Be considerate. Always move about in a quiet and orderly manner.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must always be considerate and move about in a quiet and orderly manner.
 
-##### 4.  LOVE YOURSELF
+##### 4.&nbsp;&nbsp;LOVE YOURSELF
 
  **SAFETY**
  
@@ -46,32 +47,32 @@ description: ""
  
  **BE COURTEOUS AT ALL TIMES**
  
- •       Always greet the teacher and staff of the school when you see them
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are expect to greet the teacher and staff of the school.
  
- •       Say 'please', 'thank you', 'excuse me' or 'sorry'.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should say 'please', 'thank you', 'excuse me' or 'sorry'.
  
  **IN SCHOOL COMPOUND**
  
- •      Consent from parents and teachers is needed if students intend to be in  
-         school beyond school hours.  
+ •&nbsp; &nbsp; &nbsp; Students must seek parents' and teacher' consent if they intend to be in  
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;school beyond school hours.  
  
  **PROPER BEHAVIOUR DURING RECESS**
  
- •       Always queue for food/ drinks.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should always queue for food/ drinks.
  
- •       Consume your food only in the canteen or classroom as scheduled.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must only consume your food only in the canteen or classroom as scheduled.
  
- •       Return all empty crockery and used cutlery into the proper  
-         receptacles.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Return all empty crockery and used cutlery into the proper  
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;receptacles.
  
  **LEAVING THE SCHOOL COMPOUND**
  
- •       Students are not to leave the school compound unless permission has  
-         been granted by teacher.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not to leave the school compound unless permission has  
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;been granted by teacher.
  
- •       Students who are not feeling well are to inform teacher. Arrangement  
-         will be made to bring the students to the sick bay to wait for their  
-         parent/guardian to fetch them home.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are not feeling well are to inform teacher. Arrangement  
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;will be made to bring the students to the sick bay to wait for their  
+ &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;parent/guardian to fetch them home.
 
 
 
@@ -163,17 +164,17 @@ Students who take the school buses are to abide by the following rules:
 
 • Seat belt must be fastened throughout the journey on the bus.
 
-• Students must be seated at their designated seats. Changing of seats is not allowed.  
+• Students must be seated at their designated seats. Changing of seats is not allowed.&nbsp;&nbsp;
 
 • No consumption of food is allowed on the bus. Plain water is the only drink allowed.
 
 • Keep the bus clean at all times. Throwing objects inside or outside of the bus is not permitted.
 
-• Dangerous or sharp objects such as pen knives are not allowed in the bus. Stationery and toys should be kept inside students’ bags. 
+• Dangerous or sharp objects such as pen knives are not allowed in the bus. Stationery and toys should be kept inside students’ bags.&nbsp;
 
 • Keep the aisle of the bus clear at all times.
 
-• Students are not allowed to use electronic devices while in the bus.  
+• Students are not allowed to use electronic devices while in the bus.&nbsp;&nbsp;
 
 • Students are expected to keep their hands and feet to themselves. Always keep head, hands and arms inside the bus.
 
@@ -203,7 +204,7 @@ Students are to:
 
 3. leave bags, book and files outside the examination room.
 
-4. bring only stationery e.g. pens, pencils, erasers and rulers into the examination rooms. No unauthorised devices (e.g. mobile phone, smart watch)  or unauthorised materials (e.g. notes, formulae sheet) are allowed. Primary 4 – 6 students are allowed to have their mathematical instruments with them. Primary 5 & 6 students are allowed to have with them approved dictionaries and calculators. (Refer to www.seab.gov.sg for the list of approved calculators and dictionaries.) Pieces of papers are not to be brought in.
+4. bring only stationery e.g. pens, pencils, erasers and rulers into the examination rooms. No unauthorised devices (e.g. mobile phone, smart watch)&nbsp; or unauthorised materials (e.g. notes, formulae sheet) are allowed. Primary 4 – 6 students are allowed to have their mathematical instruments with them. Primary 5 &amp; 6 students are allowed to have with them approved dictionaries and calculators. (Refer to www.seab.gov.sg for the list of approved calculators and dictionaries.) Pieces of papers are not to be brought in.
 
 5. listen carefully to the instructions given by the invigilators.
 
