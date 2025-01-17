@@ -201,12 +201,8 @@ be tied in a single or two pony tails. Hair must not be covered.</p>
 <td rowspan="1" colspan="1">
 <p>• Only white school shoes with lace or Velcro strips are allowed. Students
 with podiatry problems are allowed to wear custom-made white shoes.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>No high-cut shoes or fanciful/reflective/coloured stripes on any part
+<p>• No high-cut shoes or fanciful/reflective/coloured stripes on any part
 of the shoes are allowed.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
