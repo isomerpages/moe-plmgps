@@ -115,14 +115,44 @@ calls out to parents / guardians.</p>
 digital device but leave text messages instead. In cases of emergency,
 it is best to call the General Office.</p>
 <p>*The POSB Smart Buddy watch is permitted for students to make cashless
-purchases in school.&nbsp;</p>
+purchases in school.</p>
 </li>
 </ul>
+<h5>Safe Bus Riding</h5>
+<p>Students who take the school buses are to abide by the following rules:</p>
+<p>• Only registered bus riders are permitted to ride on the school buses.</p>
+<p>• Seat belt must be fastened throughout the journey on the bus.</p>
+<p>• Students must be seated at their designated seats. Changing of seats
+is not allowed.&nbsp;&nbsp;</p>
+<p>• No consumption of food is allowed on the bus. Plain water is the only
+drink allowed.</p>
+<p>• Keep the bus clean at all times. Throwing objects inside or outside
+of the bus is not permitted.</p>
+<p>• Dangerous or sharp objects such as pen knives are not allowed in the
+bus. Stationery and toys should be kept inside students’ bags.&nbsp;</p>
+<p>• Keep the aisle of the bus clear at all times.</p>
+<p>• Students are not allowed to use electronic devices while in the bus.&nbsp;&nbsp;</p>
+<p>• Always keep head, hands and arms inside the bus.</p>
+<p>• Students should be respectful to all in the bus and maintain proper
+behaviour to upkeep the good image of themselves and the school at all
+times. Misbehaviour will be reported to the school for appropriate action.</p>
 <h5>School Uniform</h5>
 <p>Students are to wear the prescribed uniform and be neat at all times.</p>
 <p>The full uniform should be worn when pupil comes to the school, represents
 the school for activities and during examination period. Modification to
 the uniform is not allowed.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_uniform.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_uniform_2.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -142,9 +172,7 @@ a flat
 <br>hairclip or hair band.
 <br>
 <br>• No perming or highlighting of hair.
-<br>• Hair accessories should be black or navy blue.
-<br>
-</p>
+<br>• Hair accessories should be black or navy blue.</p>
 </th>
 </tr>
 <tr>
@@ -179,9 +207,7 @@ a flat
 </td>
 <td rowspan="1" colspan="1">
 <p>• Yellow school T-shirt with embroidered name tag sewn above school badge.
-<br>• PE T-shirts must be tucked in at all times.
-<br>
-</p>
+<br>• PE T-shirts must be tucked in at all times.</p>
 </td>
 </tr>
 <tr>
@@ -280,27 +306,6 @@ items.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<h5>Safe Bus Riding</h5>
-<p>Students who take the school buses are to abide by the following rules:</p>
-<p>• Only registered bus riders are permitted to ride on the school buses.</p>
-<p>• Seat belt must be fastened throughout the journey on the bus.</p>
-<p>• Students must be seated at their designated seats. Changing of seats
-is not allowed.&nbsp;&nbsp;</p>
-<p>• No consumption of food is allowed on the bus. Plain water is the only
-drink allowed.</p>
-<p>• Keep the bus clean at all times. Throwing objects inside or outside
-of the bus is not permitted.</p>
-<p>• Dangerous or sharp objects such as pen knives are not allowed in the
-bus. Stationery and toys should be kept inside students’ bags.&nbsp;</p>
-<p>• Keep the aisle of the bus clear at all times.</p>
-<p>• Students are not allowed to use electronic devices while in the bus.&nbsp;&nbsp;</p>
-<p>• Always keep head, hands and arms inside the bus.</p>
-<p>• Students should be respectful to all in the bus and maintain proper
-behaviour to upkeep the good image of themselves and the school at all
-times. Misbehaviour will be reported to the school for appropriate action.</p>
 <h5>Dress Code</h5>
 <p><a href="/files/About%20PL/School%20Rules/Dress_Code.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to see the dress code for the school</a>.</p>
 <h5>Examination Rules</h5>
