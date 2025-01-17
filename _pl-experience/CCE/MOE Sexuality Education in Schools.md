@@ -80,7 +80,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE_LOGO.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_LOGO.jpg">
 </div>
 <h3><strong>2025 Sexuality Education Lessons in CCE</strong></h3>
 <h3><strong>Primary 5</strong></h3>
