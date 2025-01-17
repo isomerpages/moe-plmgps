@@ -149,9 +149,10 @@ the uniform is not allowed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_uniform_2.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
+<p>Primary 1 to Primary 3 students may wear their PE attire to school on
+days they have PE lessons.</p>
+<p>Primary 4 to Primary 6 students will wear their pinafore over their PE
+attire on days they have PE lessons.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -164,15 +165,11 @@ the uniform is not allowed.</p>
 <p>Hair</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>• Preferably short, neat and tidy. Hair must be tied in a single or two
-pony tails
-<br>if it goes beyond the shoulder.
-<br>• Fringe should be above the eye-brows. Always secure long fringe with
-a flat
-<br>hairclip or hair band.
-<br>
-<br>• No perming or highlighting of hair.
-<br>• Hair accessories should be black or navy blue.</p>
+<p>• The back of the hair must not touch the collar. If it does, hair must
+be tied in a single or two pony tails. Hair must not be covered.
+<br>• Fringe must be above the eyebrows
+<br>• Hair must not be highlighted or permed
+<br>• Only black or navy blue hair accessories are allowed.</p>
 </th>
 </tr>
 <tr>
