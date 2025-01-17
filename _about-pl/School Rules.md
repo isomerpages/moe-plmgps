@@ -27,13 +27,13 @@ variant: markdown
 ##### 3.&nbsp;&nbsp;LOVE YOUR FRIENDS
 
    
- ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take care of your friends at all times.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must always take care of their friends.
 
- ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always help those who are in need.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should help those who are in need.
 
- ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always go to the wash room in twos.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should always go to the wash room in twos.
 
- ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be considerate. Always move about in a quiet and orderly manner.
+ ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must always be considerate and move about in a quiet and orderly manner.
 
 ##### 4.&nbsp;&nbsp;LOVE YOURSELF
 
