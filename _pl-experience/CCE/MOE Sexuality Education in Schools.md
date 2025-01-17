@@ -5,6 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
+<h4><strong>PAYA LEBAR METHODIST GIRLS’ SCHOOL (PRIMARY)</strong></h4>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
@@ -77,13 +78,16 @@ opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Paya Lebar Methodist Girls’ School (Primary), the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<h4><strong>Primary 5</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE_LOGO.jpg">
+</div>
+<h3><strong>2025 Sexuality Education Lessons in CCE</strong></h3>
+<h3><strong>        Primary 5</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Website.png">
 </div>
-<h4><strong>Primary 6</strong></h4>
+<h3><strong>       Primary 6</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_website.png">
 </div>
