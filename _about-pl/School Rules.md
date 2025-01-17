@@ -79,6 +79,45 @@ are to inform teacher.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are unwell will be
 taken to the sick bay to wait for their parent / guardian to take them
 home.</p>
+<p><strong>MOBILE PHONE &amp; SMART WRIST WATCH</strong>
+</p>
+<p>Students are not encouraged to bring handphones and smart wrist watches
+to school*. However, should students need to bring them to school, they
+must abide by the following rules:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are not to use personal digital devices, including smartphones
+and smartwatches (capable of communication and accessing to internet connection),
+during school hours including recess, CCA and after-school programmes (e.g.
+supplementary/ enrichment/remedial lessons).</p>
+</li>
+<li>
+<p>Students who bring such devices are to put them in lockers or their school
+bags (in the absence of lockers) before school start time. They can retrieve
+the devices after school ends. Students should bear responsibility for
+safekeeping of devices.</p>
+</li>
+<li>
+<p>Students must be responsible for their own personal digital devices. The
+school will not be liable for the loss of any personal digital device.
+Staff will also not assist students in the search for any lost personal
+digital device.</p>
+</li>
+<li>
+<p>Students are only allowed to use personal digital devices at the canteen
+and the guardhouse after school hours.</p>
+</li>
+<li>
+<p>Personal digital devices will be confiscated if students are found to
+be using them within the school premises for purposes other than making
+calls out to parents / guardians.</p>
+<p>Parents/Guardians should not call their children/wards on any personal
+digital device but leave text messages instead. In cases of emergency,
+it is best to call the General Office.</p>
+<p>*The POSB Smart Buddy watch is permitted for students to make cashless
+purchases in school.&nbsp;</p>
+</li>
+</ul>
 <h5>Attire and Appearance</h5>
 <p>Students are to wear the prescribed uniform and be neat at all times.
 Modification to the uniform is not allowed.</p>
@@ -327,4 +366,5 @@ class or community work involvement to suspension from school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20PL/School%20Rules/S1.png">
 </div>
+<p></p>
 <p></p>
