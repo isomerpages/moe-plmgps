@@ -183,15 +183,6 @@ be tied in a single or two pony tails. Hair must not be covered.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Make-up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Make-up is prohibited in school unless required when participating in
-a performance or a competition.&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Shoes</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,130 +206,42 @@ of the shoes are allowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Make-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Make-up is prohibited in school unless required when participating in
+a performance or a competition.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Watches</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Watches should be of a plain design</p>
+<p>• Student can wear a watch of a plain design.
+<br>• No big, chunky and colourful watches are allowed.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jewellery</p>
+<p>Earings &amp; Accessories</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• One stud on each ear.
-<br>• Studs of the same simple design to be worn on each ear.
-<br>• No other jewellery (necklace, ring, and bracelet) is to be worn.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Handphone &amp; Smart Wrist Watch</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Students are not encouraged to bring handphones and smart wrist watches
-to school*. However, should students need to bring them to school, they
-will need to abide by the following rules:
-<br>• Handphones and smart wrist watches must be switched off when
-<br>students are in school.
-<br>• Phone calls can be made using their handphones or smart wrist watches
-<br>in the school canteen and the guard house after school.
-<br>• No playing of games, photo taking and recording are allowed at all times
-<br>while in school.
-<br>• Handphones and smart wrist watches will be confiscated if students are
-<br>found to be using them within the school premises for purposes other
-<br>than making calls out to parents / guardians.
-<br>• Students must be responsible for their own handphones and smart wrist
-<br>watches. The school will not be liable for the loss of any handphone or
-<br>smart wrist watch. Staff will also not assist students in the search for
-any
-<br>lost handphone or smart wrist watch.
-<br>
-<br>Parents / Guardians should not call their children / wards on the handphone
-but leave text messages instead. In cases of emergency, it is best to call
-the General Office.
-<br>
-<br>*The POSB Smart Buddy watch is permitted for students to make cashless
-purchases in school.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Others</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Items not needed for lessons and could be a form of distraction should
-not be brought to school. Teachers will not be liable for the loss and
-will confiscate these items if students are found in possession of these
-items.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One stud of the same simple design on each ear lobe can be worn.</p>
+</li>
+<li>
+<p>No other jewellery (necklace, ring and bracelet) is allowed.</p>
+</li>
+<li>
+<p>No ornamental accessories such as friendship bands, bracelets and anklets
+can be worn.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h5>Dress Code</h5>
-<p><a href="/files/About%20PL/School%20Rules/Dress_Code.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to see the dress code for the school</a>.</p>
-<h5>Examination Rules</h5>
-<p>Students are to:</p>
-<ol>
-<li>
-<p>be present for all examinations. Any absence from examinations must be
-covered by a medical certificate.</p>
-</li>
-<li>
-<p>visit the toilet before the examination begins and during recess.</p>
-</li>
-<li>
-<p>leave bags, book and files outside the examination room.</p>
-</li>
-<li>
-<p>bring only stationery e.g. pens, pencils, erasers and rulers into the
-examination rooms. No unauthorised devices (e.g. mobile phone, smart watch)&nbsp;
-or unauthorised materials (e.g. notes, formulae sheet) are allowed. Primary
-4 – 6 students are allowed to have their mathematical instruments with
-them. Primary 5 &amp; 6 students are allowed to have with them approved
-dictionaries and calculators. (Refer to www.seab.gov.sg for the list of
-approved calculators and dictionaries.) Pieces of papers are not to be
-brought in.</p>
-</li>
-<li>
-<p>listen carefully to the instructions given by the invigilators.</p>
-</li>
-<li>
-<p>check the examination scripts for missing questions and pages with the
-invigilator at the start of the examination.</p>
-</li>
-<li>
-<p>concentrate and look at own examination scripts only. No communication
-(verbal or non-verbal) is allowed during the examination.</p>
-</li>
-<li>
-<p>raise their hands when in doubt or when help is needed from the invigilator.</p>
-</li>
-<li>
-<p>read all the instructions carefully at the start of the examination.</p>
-</li>
-<li>
-<p>go through all answers and check thoroughly.</p>
-</li>
-<li>
-<p>make sure all questions have been attempted.</p>
-</li>
-<li>
-<p>be quiet throughout the examination and not distract others.</p>
-</li>
-<li>
-<p>remain seated while waiting for all examination scripts to be collected
-by the invigilator at the end of the examination.</p>
-</li>
-</ol>
-<h5>Student Offences</h5>
-<p>All students are to adhere to the school rules. Students who do not adhere
-to school rules and commit any offence listed in the table below will face
-consequences imposed by the school. These consequences range from detention
-class or community work involvement to suspension from school.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20PL/School%20Rules/S1.png">
-</div>
-<p></p>
+<h5></h5>
 <p></p>
