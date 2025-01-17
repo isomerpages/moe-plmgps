@@ -53,14 +53,14 @@ variant: markdown
  
  **IN SCHOOL COMPOUND**
  
- •&nbsp; &nbsp; &nbsp; Consent from parents and teachers is needed if students intend to be in  
+ •&nbsp; &nbsp; &nbsp; Students must seek parents' and teacher' consent if they intend to be in  
  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;school beyond school hours.  
  
  **PROPER BEHAVIOUR DURING RECESS**
  
- •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Always queue for food/ drinks.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students should always queue for food/ drinks.
  
- •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consume your food only in the canteen or classroom as scheduled.
+ •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students must only consume your food only in the canteen or classroom as scheduled.
  
  •&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Return all empty crockery and used cutlery into the proper  
  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;receptacles.
