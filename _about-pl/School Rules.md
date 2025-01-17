@@ -118,11 +118,11 @@ it is best to call the General Office.</p>
 purchases in school.&nbsp;</p>
 </li>
 </ul>
-<h5>Attire and Appearance</h5>
-<p>Students are to wear the prescribed uniform and be neat at all times.
-Modification to the uniform is not allowed.</p>
+<h5>School Uniform</h5>
+<p>Students are to wear the prescribed uniform and be neat at all times.</p>
 <p>The full uniform should be worn when pupil comes to the school, represents
-the school for activities and during examination period.</p>
+the school for activities and during examination period. Modification to
+the uniform is not allowed.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -283,7 +283,7 @@ items.</p>
 <p>
 <br>
 </p>
-<h5>Rules for Safe School Bus Riding</h5>
+<h5>Safe Bus Riding</h5>
 <p>Students who take the school buses are to abide by the following rules:</p>
 <p>• Only registered bus riders are permitted to ride on the school buses.</p>
 <p>• Seat belt must be fastened throughout the journey on the bus.</p>
@@ -297,8 +297,7 @@ of the bus is not permitted.</p>
 bus. Stationery and toys should be kept inside students’ bags.&nbsp;</p>
 <p>• Keep the aisle of the bus clear at all times.</p>
 <p>• Students are not allowed to use electronic devices while in the bus.&nbsp;&nbsp;</p>
-<p>• Students are expected to keep their hands and feet to themselves. Always
-keep head, hands and arms inside the bus.</p>
+<p>• Always keep head, hands and arms inside the bus.</p>
 <p>• Students should be respectful to all in the bus and maintain proper
 behaviour to upkeep the good image of themselves and the school at all
 times. Misbehaviour will be reported to the school for appropriate action.</p>
