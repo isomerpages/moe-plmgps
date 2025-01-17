@@ -174,19 +174,10 @@ be tied in a single or two pony tails. Hair must not be covered.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pinafore</p>
+<p>School Blouse</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Navy blue with school badge neatly sewn on the left.
-<br>• Embroidered name tag to be sewn above school badge.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Blouse</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• With short sleeves and pointed collars.
+<p>• Only wear the school white blouse with short sleeves and pointed collars.
 <br>• Sleeves should not be rolled up.</p>
 </td>
 </tr>
