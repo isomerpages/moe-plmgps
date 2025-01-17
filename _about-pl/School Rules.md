@@ -183,44 +183,26 @@ be tied in a single or two pony tails. Hair must not be covered.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Belt</p>
+<p>Make-up</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Plain white cloth belt 2.5cm wide with sewn-on buckle.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE T-shirt</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Yellow school T-shirt with embroidered name tag sewn above school badge.
-<br>• PE T-shirts must be tucked in at all times.</p>
+<p>• Make-up is prohibited in school unless required when participating in
+a performance or a competition.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shorts/Skorts</p>
+<p>School Shoes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Navy blue school shorts/skorts</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Socks</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• School socks or plain white ankle-length socks.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Shoes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• White school shoes with lace or velcro strips. (Students with podiatry
-problems should also wear custom-made white shoes)</p>
+<p>• Only white school shoes with lace or Velcro strips are allowed. Students
+with podiatry problems are allowed to wear custom-made white shoes.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>No high-cut shoes or fanciful/reflective/coloured stripes on any part
+of the shoes are allowed.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -228,7 +210,7 @@ problems should also wear custom-made white shoes)</p>
 <p>Nails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Clean and short; no nail polish/gloss</p>
+<p>• Nails must be clean and short with no nail polish / gloss.</p>
 </td>
 </tr>
 <tr>
