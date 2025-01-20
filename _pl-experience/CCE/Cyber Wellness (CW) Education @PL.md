@@ -10,7 +10,8 @@ This is done through our curriculum which aims to equip students with the
 knowledge and skills to harness the power of Information and Communication
 Technology (ICT) for positive purposes; maintain a positive presence in
 cyberspace; and be safe and responsible users of ICT.</p>
-<p>The three principles of Cyber Wellness taught during FTGP lessons:</p>
+<p>The three principles of Cyber Wellness taught during CCE(FTGP) lessons
+are:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Respect for Self and Others – Remind PL-Lites to uphold their own dignity
@@ -47,3 +48,20 @@ models.</p>
 <p>Parenting Tips in the Digital Age can be found in the School Diary and
 it is important for parents to make a commitment to exercise parental control
 on the use of social media to ensure the safety of their child</p>
+<p>The CW Tiered Approach is as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tier 1: CW Education (Taught in CCE(FTGP) Curriculum and Schoolwide CW
+Activities)</p>
+</li>
+<li>
+<p>Tier 2: Level Up (Primary): Understanding My Gaming Habits [6 lessons]
+– 3 sessions; As part of the monitoring process, the 7th lesson was scheduled
+to be conducted two months later.&nbsp;</p>
+</li>
+<li>
+<p>Tier 3: 1-1 Counselling (If the need is surfaced again by the parent the
+following year)</p>
+</li>
+</ul>
+<p>child</p>
