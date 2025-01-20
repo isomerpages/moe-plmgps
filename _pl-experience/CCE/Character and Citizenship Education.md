@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PL%20Experience/Curriculum/CCE/CCE/C1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PL%20Experience/Curriculum/CCE/CCE/C1.jpg">
 </div>
 <h4><strong>OUR INTEGRATED CHARACTER AND CITIZENSHIP EDUCATION</strong></h4>
 <p>The Student Holistic Development Framework is illustrated by a pictorial
@@ -70,7 +70,7 @@ Besides school wide-commemoration, CCE(FTGP) lessons related to the NE
 Commemorative Days are conducted.&nbsp; In addition, the contemporary content
 are provided for students through Kindsville Times / A-OK!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/National_Education.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/National_Education.jpg">
 </div>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Defence Day</p>
 <p>Theme: Together We Keep Singapore Strong</p>
