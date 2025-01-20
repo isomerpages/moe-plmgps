@@ -62,6 +62,7 @@ to be conducted two months later.&nbsp;</p>
 <li>
 <p>Tier 3: 1-1 Counselling (If the need is surfaced again by the parent the
 following year)</p>
+<p></p>
 </li>
 </ul>
-<p>child</p>
+<p></p>
