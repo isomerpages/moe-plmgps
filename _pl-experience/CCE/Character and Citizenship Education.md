@@ -69,9 +69,41 @@ a sense of reality and a strong will in our PL-Lites to act as citizens.&nbsp;
 Besides school wide-commemoration, CCE(FTGP) lessons related to the NE
 Commemorative Days are conducted.&nbsp; In addition, the contemporary content
 are provided for students through Kindsville Times / A-OK!</p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/National_Education.jpg">
+</div>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Defence Day</p>
+<p>Theme: Together We Keep Singapore Strong</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stimulate energy, water
+or food disruption as part of Exercise SG Ready</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Level-wide
+NE Learning Experiences</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Friendship Day</p>
+<p>Theme: Singapore: Forging Friendships in a Complex World &nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn more about ASEAN
+Chair for the year e.g. 2025 Malaysia;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Level-wide
+NE Learning Experiences</p>
+<p>&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Racial Harmony Day</p>
+<p>Theme: Our People, Our Tapestry</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Level-wide
+NE Learning Experiences</p>
+<p>&nbsp;</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Day</p>
+<p>Theme: NDP theme will be announced in end-May</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commemorate SG60;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Focus on Recollections
+II through School-wide Programme</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Level-wide
+NE Learning Experiences</p>
+<h4><strong>Cyber Wellness (CW)</strong></h4>
+<p>CW is about our PL-Lites being able to navigate the cyber space safely.&nbsp;
+This is done through our curriculum which aims to equip students with the
+knowledge and skills to harness the power of Information and Communication
+Technology (ICT) for positive purposes; maintain a positive presence in
+cyberspace; and be safe and responsible users of ICT.</p>
 <p></p>
 <p></p>
 <p>In alignment to the school’s vision of being an outstanding school of
