@@ -72,6 +72,8 @@ are provided for students through Kindsville Times / A-OK!</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <p>In alignment to the school’s vision of being an outstanding school of
 choice producing women of fine character with a passion for life and learning,
 character education is the heart of student development.&nbsp; With the
