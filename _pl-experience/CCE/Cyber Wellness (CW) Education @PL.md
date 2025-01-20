@@ -44,10 +44,9 @@ the Sense-Think-Act process.</p>
 children to use technology responsibly, respectfully, critically and creatively,
 whether it is by ensuring an open conversation with their children, educating
 them to use technology safely and positively, or by acting as digital role
-models.</p>
-<p>Parenting Tips in the Digital Age can be found in the School Diary and
-it is important for parents to make a commitment to exercise parental control
-on the use of social media to ensure the safety of their child</p>
+models. Parenting Tips in the Digital Age can be found in the School Diary
+and it is important for parents to make a commitment to exercise parental
+control on the use of social media to ensure the safety of their child</p>
 <p>The CW Tiered Approach is as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
