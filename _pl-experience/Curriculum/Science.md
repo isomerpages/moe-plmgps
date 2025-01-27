@@ -57,7 +57,7 @@ to solve real-world problems and contribute meaningfully to society.</p>
 <td rowspan="1" colspan="1">
 <p>Shrooms Garden</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>P3</p>
 </td>
 </tr>
@@ -65,23 +65,32 @@ to solve real-world problems and contribute meaningfully to society.</p>
 <td rowspan="1" colspan="1">
 <p>Every Child A Seed</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Fun With Choices</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Hydroponics</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>P4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>PL Amazing Trail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4</p>
 </td>
 </tr>
 <tr>
@@ -118,10 +127,7 @@ to solve real-world problems and contribute meaningfully to society.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.ashx?la=en&amp;hash=ACABF4256B5F341428F59A346834E73CCD27CC39" rel="noopener noreferrer nofollow" target="_blank">2023 Primary Science Syllabus (For P3 to P5 in 2025)</a>
-</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/primary/science-primary-2014" rel="noopener noreferrer nofollow" target="_blank">2014 Primary Science Syllabus (P6 in 2025)</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
