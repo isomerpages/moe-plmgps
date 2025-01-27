@@ -128,6 +128,9 @@ to solve real-world problems and contribute meaningfully to society.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_science_web.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
