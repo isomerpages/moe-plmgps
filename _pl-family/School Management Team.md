@@ -125,7 +125,7 @@ variant: markdown
 <thead>
 	<tr>
     <td class="tg-ii8k">Level Head - EL<br>(Internal Appointment)</td>
-    <td class="tg-ii8k"><a href="mailto:teo_ai_ling_irene@schools.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Teo Ai Ling Irene</span></a> </td>
+    <td class="tg-ii8k"><a href="mailto:kong_jeng_huey@schools.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Kong Jeng Huey</span></a> </td>
   </tr>
   <tr>
     <th class="tg-ii8k">Level Head- Mother Tongue  </th>
@@ -155,7 +155,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Subject Head - CD</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:kang_natalie@schools.gov.sg">Mdm Kang Natalie<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
 	<tr>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Subject Head - SLD   <br>(Internal Appointment)</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
