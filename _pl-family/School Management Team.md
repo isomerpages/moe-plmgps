@@ -159,7 +159,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Subject Head - SLD   <br>(Internal Appointment)</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:koh_xin_mei_daffodil@schools.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Mrs Koh Xin Mei Daffodil</span></a></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:ho_suk_san@school.gov.sg"><span style="font-weight:600;text-decoration:none;color:#0857AE">Ms Ho Suk San</span></a></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Assistant Year Head<br>(Lower Pri)</td>
