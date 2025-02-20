@@ -16,8 +16,7 @@ variant: tiptap
 <p>Principal</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="mailto:plmgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs</a></strong>
-<a href="mailto:plmgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a><strong><a href="mailto:plmgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joyce Ang</a></strong>
+<p><strong><a href="mailto:plmgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MrsJoyce Ang</a></strong>
 </p>
 </th>
 </tr>
@@ -202,16 +201,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head - EL
-<br>(Internal Appointment)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:kong_jeng_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kong Jeng Huey</a></strong>
-</p>
-</td>
-</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Level Head- Mother Tongue</p>
