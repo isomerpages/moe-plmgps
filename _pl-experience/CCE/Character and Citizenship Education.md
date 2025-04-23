@@ -14,35 +14,34 @@ variant: tiptap
 representation of a globe to symbolise our endeavour of enabling our PL-Lites
 to flourish in a complex and evolving future landscape.</p>
 <p>At PLMGS (Primary), the heart of our education is to develop PL-Lites
-to be <strong>women of fine character with the passion for life and learning</strong>.&nbsp;
+to be&nbsp;<strong>women of fine character with the passion for life and learning</strong>.
 We believe that all PL-Lites must be women after God’s heart where they
-learn the <strong>H.E.A.R.T. Values </strong>of Honour God, Excellence,
-Adaptability, Respect and Thankfulness, and <strong>discover, grow and serve joyfully, </strong>living
-out <strong>Joyfulness@PL </strong>as our DNA.</p>
+learn the&nbsp;<strong>H.E.A.R.T. Values&nbsp;</strong>of Honour God, Excellence,
+Adaptability, Respect and Thankfulness, and&nbsp;<strong>discover, grow and serve joyfully,&nbsp;</strong>living
+out&nbsp;<strong>Joyfulness@PL&nbsp;</strong>as our DNA.</p>
 <p>Citizenship Education at PLMGS (Primary) develops in PL-Lites a deeper
 sense of belonging, reality, hope and culminated in the will to act as
 they learn to become active citizens who have a collective resolve and
 a shared mission towards building Singapore.</p>
-<p>Our PL-Lites are also guided by a common <strong>Growth Mindset </strong>language
-found in <strong>S.T.I.C.K, S.P.A.R.K </strong>and<strong> S.M.I.L.E.. S.T.I.C.K.</strong> guides
-every PL-Lite to be resilient<strong> </strong>individuals who will overcome
-challenges and failures,<strong> S.P.A.R.K. </strong>reminds every PL-Lite
-to be caring individuals who<strong> </strong>seek to be peer supporters,
-and <strong>S.M.I.L.E. </strong>encourages every PL-Lite to work collaboratively
-with their peers.</p>
-<p>Our Student Holistic Development is anchored on the <strong>3E Approach</strong>:
-Equip, Engage and Excel. PL-Lites are <strong>equipped </strong>with the
-H.E.A.R.T values, knowledge and skills, <strong>engaged </strong>as they
-put into practice the values and skills and<strong> </strong>provided with
-opportunities to <strong>excel </strong>through:<strong> Character and Citizenship Education; Effective Pedagogy; Engaging Student Development Experiences; Holistic Assessment; Positive Learning Environment</strong> and <strong>Signature Learning Programmes.</strong> The
+<p>Our PL-Lites are also guided by a common&nbsp;<strong>Growth Mindset&nbsp;</strong>language
+found in&nbsp;<strong>S.T.I.C.K, S.P.A.R.K&nbsp;</strong>and&nbsp;<strong>S.M.I.L.E.. S.T.I.C.K.&nbsp;</strong>guides
+every PL-Lite to be resilient individuals who will overcome challenges
+and failures,&nbsp;<strong>S.P.A.R.K.&nbsp;</strong>reminds every PL-Lite
+to be caring individuals who seek to be peer supporters, and&nbsp;<strong>S.M.I.L.E.&nbsp;</strong>encourages
+every PL-Lite to work collaboratively with their peers.</p>
+<p>Our Student Holistic Development is anchored on the&nbsp;<strong>3E Approach</strong>:
+Equip, Engage and Excel. PL-Lites are&nbsp;<strong>equipped&nbsp;</strong>with
+the H.E.A.R.T values, knowledge and skills,&nbsp;<strong>engaged&nbsp;</strong>as
+they put into practice the values and skills and provided with opportunities
+to&nbsp;<strong>excel&nbsp;</strong>through:&nbsp;<strong>Character and Citizenship Education; Effective Pedagogy; Engaging Student Development Experiences1; Holistic Assessment; Positive Learning Environment&nbsp;</strong>and&nbsp;<strong>Signature Learning Programmes2.&nbsp;</strong>The
 foundation of the framework espouses the importance of building professional
-capital in our <strong>Engaged</strong>, <strong>Professional</strong> and <strong>Innovative </strong>staff
+capital in our&nbsp;<strong>Engaged</strong>,&nbsp;<strong>Professional&nbsp;</strong>and&nbsp;<strong>Innovative&nbsp;</strong>staff
 who are key enablers to quality teaching and joyful learning.</p>
-<p>With a strong <strong>Culture of Care and Excellence</strong>, it is our
-belief that the six-year education develops PL-Lites to become <strong>confident leaders, creative problem solvers and global citizens, with the agency to meet future challenges.&nbsp; </strong>With
-these <strong>future-ready competencies</strong>, PL-Lites will be able
-to <strong>create, connect</strong> and <strong>contribute</strong> to their
-home, school and community.</p>
+<p>With a strong&nbsp;<strong>Culture of Care and Excellence</strong>, it
+is our belief that the six-year education develops PL-Lites to become&nbsp;<strong>confident leaders, creative problem solvers and global citizens, with the agency to meet future challenges.&nbsp;</strong>With
+these&nbsp;<strong>future-ready competencies</strong>, PL-Lites will be
+able to&nbsp;<strong>create, connect&nbsp;</strong>and&nbsp;<strong>contribute&nbsp;</strong>to
+their home, school and community.</p>
 <p>The <strong>CCE Curriculum Content Areas</strong> is anchored on the teaching
 of core values and social-emotional competencies to help students find
 a sense of purpose and is premised on the three big ideas embedded in <strong>CCE Lessons</strong> (CCE(FTGP),
