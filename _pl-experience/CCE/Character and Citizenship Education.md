@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PL%20Experience/Curriculum/CCE/CCE/C1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001__1_.png">
 </div>
 <h4><strong>OUR INTEGRATED CHARACTER AND CITIZENSHIP EDUCATION</strong></h4>
 <p>The Student Holistic Development Framework is illustrated by a pictorial
