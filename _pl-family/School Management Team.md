@@ -224,7 +224,7 @@ variant: tiptap
 <p>Level Head - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_ruo_bing_clair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clair Chua</a></strong>
+<p><a href="mailto:chua_ruo_bing_clair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Clair Chua</a>
 </p>
 </td>
 </tr>
@@ -233,7 +233,7 @@ variant: tiptap
 <p>Level Head - ICT &amp; Data Mgmt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ng_jun_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Jun Qi</a></strong>
+<p><a href="mailto:ng_jun_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Jun Qi</a>
 </p>
 </td>
 </tr>
@@ -242,7 +242,7 @@ variant: tiptap
 <p>Level Head - PAL &amp; VIA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_yu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Yu Han</a></strong>
+<p><a href="mailto:chua_yu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Yu Han</a>
 </p>
 </td>
 </tr>
@@ -251,7 +251,7 @@ variant: tiptap
 <p>Subject Head - Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yong_sok_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sok Cheng</a></strong>
+<p><a href="mailto:yong_sok_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yong Sok Cheng</a>
 </p>
 </td>
 </tr>
@@ -269,7 +269,7 @@ variant: tiptap
 <p>Subject Head - PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yeo_wei_san_karine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karine Yeo</a></strong>
+<p><a href="mailto:yeo_wei_san_karine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karine Yeo</a>
 </p>
 </td>
 </tr>
@@ -291,7 +291,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ho_suk_san@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ho Suk San</a></strong>
+<p><a href="mailto:ho_suk_san@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ho Suk San</a>
 </p>
 </td>
 </tr>
@@ -329,7 +329,7 @@ variant: tiptap
 <br>(Middle Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tok_sock_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tok Sock Hoon</a></strong> 
+<p><a href="mailto:tok_sock_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tok Sock Hoon</a> 
 <br>
 </p>
 </td>
@@ -340,7 +340,7 @@ variant: tiptap
 <br>(Upper Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:dilys_jiang_sihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dilys Wong</a></strong>
+<p><a href="mailto:dilys_jiang_sihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dilys Wong</a>
 </p>
 </td>
 </tr>
