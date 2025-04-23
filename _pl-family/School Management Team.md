@@ -206,7 +206,8 @@ variant: tiptap
 <p>Level Head - EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="kong_jeng_huey@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kong Jeng Huey</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +291,8 @@ variant: tiptap
 <p>Subject Head - SLD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="koh_xin_mei_daffodil@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Koh Xin Mei Daffodil</a>
+</p>
 </td>
 </tr>
 <tr>
