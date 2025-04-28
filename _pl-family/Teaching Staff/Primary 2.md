@@ -30,7 +30,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:">Mrs Lee Weng Hun<span style="font-weight:600;text-decoration:none;color:#0857AE"> </span></a></td>
+    <td class="tg-a7kh"><a href="mailto:goh_foong_meng@moe.edu.sg">Mrs Lee Weng Hun<span style="font-weight:600;text-decoration:none;color:#0857AE"> </span></a></td>
     <td class="tg-a7kh"><a href="mailto:ng_gui_mei@moe.edu.sg">Ms Ng Gui Mei<span style="font-weight:600;text-decoration:none;color:#0857AE"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
   </tr>
   <tr>
