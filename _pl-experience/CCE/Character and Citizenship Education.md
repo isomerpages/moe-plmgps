@@ -77,19 +77,16 @@ are provided for students through Kindsville Times / A-OK!</p>
 or food disruption as part of Exercise SG Ready</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Level-wide
 NE Learning Experiences</p>
-<p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Friendship Day</p>
 <p>Theme: Singapore: Forging Friendships in a Complex World &nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn more about ASEAN
 Chair for the year e.g. 2025 Malaysia;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Level-wide
 NE Learning Experiences</p>
-<p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Racial Harmony Day</p>
 <p>Theme: Our People, Our Tapestry</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Level-wide
 NE Learning Experiences</p>
-<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Day</p>
 <p>Theme: NDP theme will be announced in end-May</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commemorate SG60;</p>
