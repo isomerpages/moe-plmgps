@@ -142,7 +142,7 @@ variant: markdown
     <td class="tg-0lax">Mrs Joyce Ang (Principal)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Auditor</td>
+    <td class="tg-0lax">Auditor:</td>
   </tr>
   <tr>
     <td class="tg-0lax">Audit Alliance LLP</td>
