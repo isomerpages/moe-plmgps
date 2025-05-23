@@ -106,7 +106,7 @@ variant: markdown
     <td class="tg-0lax">Trustees/Board Members :</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Chairman - Mr Jonathan Tan</td>
+    <td class="tg-0lax">Chairman - Mr Jonathan Lim</td>
   </tr>
   <tr>
     <td class="tg-0lax">Vice Chairman - Dr Tan Chor Hiang</td>
@@ -145,7 +145,7 @@ variant: markdown
     <td class="tg-0lax">Auditor</td>
   </tr>
   <tr>
-    <td class="tg-0lax">SH Tang &amp; Associates LLP</td>
+    <td class="tg-0lax">Audit Alliance LLP</td>
   </tr>
 </tbody>
 </table>
