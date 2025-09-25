@@ -8,8 +8,8 @@ variant: markdown
 
 | Type of Stall | Closing Date 
 | -------- | -------- | 
-|   Western Stall Halal |     | 
-|Muslim Food| |
+|   Western Stall Halal |   31 October 2025  | 
+|Muslim Food| 31 October 2025 |
 
 
 **Application Procedure**
