@@ -8,9 +8,8 @@ variant: markdown
 
 | Type of Stall | Closing Date 
 | -------- | -------- | 
-|   Mixed Rice |     | 
-|  Western Stall Halal  |  | 
-|Chinese Fusion or Western Food (Halal)| |
+|   Western Stall Halal |     | 
+|Muslim Food| |
 
 
 **Application Procedure**
