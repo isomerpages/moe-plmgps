@@ -12,3 +12,4 @@ variant: markdown
 5.  [Education and Career Guidance](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 6. [P3 HBL](https://docs.google.com/document/d/1NkcqM1svSKl5talPRxvGVUq78KsbP_3h/edit?usp=sharing&ouid=105981432340825326810&rtpof=true&sd=true)
 7. [P4 HBL](https://docs.google.com/document/d/1tOnUQLvbemWbR0-Q44VPzBUOUSvNoUcF/edit?usp=sharing&ouid=105981432340825326810&rtpof=true&sd=true)
+8. [P5 HBL](https://docs.google.com/document/d/1ET3VeaYumd3-lwXu5j5Cwlv53ADFRRMY/edit?usp=sharing&ouid=111859299791376795299&rtpof=true&sd=true)
