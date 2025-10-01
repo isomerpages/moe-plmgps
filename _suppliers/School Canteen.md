@@ -10,6 +10,7 @@ variant: markdown
 | -------- | -------- | 
 |   Western Stall Halal |   31 October 2025  | 
 |Muslim Food| 31 October 2025 |
+|Japanese/Korean food| 31 October 2025 |
 
 
 **Application Procedure**
