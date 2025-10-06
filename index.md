@@ -15,6 +15,12 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links/
+  - infopic:
+      title: PLMGS 109th Founder’s Day
+      id: infopic
+      button: Button Text
+      url: CAPS Alumni Visit 2025
+      image: /images/FDD_109_2025_MOE__800_x_580_px___PLMGS_.png
   - resources:
       title: Announcements
   - infobar:
