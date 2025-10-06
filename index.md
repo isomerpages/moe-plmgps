@@ -15,6 +15,13 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links/
+  - infopic:
+      title: PLMGS 109th Founder’s Day
+      id: infopic
+      button: Click Here to view
+      url: /plmgs-109th-founder-s-day/
+      image: /images/FDD_109_2025_MOE__800_x_580_px___PLMGS_.png
+      alt: PLMGS 109th Founder’s Day
   - resources:
       title: Announcements
   - infobar:
