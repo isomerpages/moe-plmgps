@@ -19,7 +19,7 @@ sections:
       title: PLMGS 109th Founder’s Day
       id: infopic
       button: Click Here to view
-      url: CAPS Alumni Visit 2025
+      url: /plmgs-109th-founder-s-day/
       image: /images/FDD_109_2025_MOE__800_x_580_px___PLMGS_.png
   - resources:
       title: Announcements
