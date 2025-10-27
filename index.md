@@ -16,6 +16,14 @@ sections:
           description: ""
           url: /Quick-Links/
   - infopic:
+      title: Caring Teacher Awards (CTA) 2026
+      id: infopic
+      description: Honouring teachers who go beyond duty to nurture, inspire, and care
+        for their students’ holistic growth and resilience.
+      button: Nominate now
+      url: www.cta.nie.edu.sg
+      alt: Image alt text
+  - infopic:
       title: PLMGS 109th Founder’s Day
       id: infopic
       button: Click Here to view
