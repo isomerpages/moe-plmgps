@@ -16,6 +16,15 @@ sections:
           description: ""
           url: /Quick-Links/
   - infopic:
+      title: Caring Teacher Awards (CTA)
+      id: infopic
+      description: Celebrating teachers who go the extra mile to nurture, inspire and
+        care for students. Nominations close 31 Dec 2025.
+      button: Nominate now
+      url: www.cta.nie.edu.sg
+      alt: Image alt text
+      image: /images/CTA_2026_A3_Poster.jpg
+  - infopic:
       title: PLMGS 109th Founder’s Day
       id: infopic
       button: Click Here to view
