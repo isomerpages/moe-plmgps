@@ -23,6 +23,7 @@ sections:
       button: Nominate now
       url: www.cta.nie.edu.sg
       alt: Image alt text
+      image: /images/CTA_2026_A3_Poster.jpg
   - infopic:
       title: PLMGS 109th Founder’s Day
       id: infopic
