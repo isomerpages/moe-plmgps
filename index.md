@@ -21,7 +21,7 @@ sections:
       description: Celebrating teachers who go the extra mile to nurture, inspire and
         care for students. Nominations close 31 Dec 2025.
       button: Nominate now
-      url: www.cta.nie.edu.sg
+      url: https://www.cta.nie.edu.sg/
       alt: Image alt text
       image: /images/CTA_2026_A3_Poster.jpg
   - infopic:
