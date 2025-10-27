@@ -16,10 +16,10 @@ sections:
           description: ""
           url: /Quick-Links/
   - infopic:
-      title: Caring Teacher Awards (CTA) 2026
+      title: Caring Teacher Awards (CTA)
       id: infopic
-      description: Honouring teachers who go beyond duty to nurture, inspire, and care
-        for their students’ holistic growth and resilience.
+      description: Celebrating teachers who go the extra mile to nurture, inspire and
+        care for students. Nominations close 31 Dec 2025.
       button: Nominate now
       url: www.cta.nie.edu.sg
       alt: Image alt text
