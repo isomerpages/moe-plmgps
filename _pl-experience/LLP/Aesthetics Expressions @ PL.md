@@ -26,3 +26,8 @@ and community involvement partnerships.</p>
 <p>3) To enable our students to Excel through art and music talent programme,
 aesthetics leadership roles, intra and inter school exchange programmes,
 SYF presentations/ competitions and international art and music competitions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics_Expressions_PL_Framework.jpg">
+</div>
+<p></p>
