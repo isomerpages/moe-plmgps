@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: LLP
 ---
-<h3><strong>Aesthetics Expressions @ PL</strong></h3>
+<h3><strong>Music Harmonises @ PL</strong></h3>
 <p>Our LLP programme aims to provide a holistic aesthetics learning experiences&nbsp;for
 our PL-lites through&nbsp;<strong><em>‘Music Harmonises@PL’</em></strong>&nbsp;and&nbsp;<strong><em>‘Arts Creates@PL’</em></strong><em>.</em>&nbsp;We
 envision our PL-Lites to be well-exposed and equipped with various forms
