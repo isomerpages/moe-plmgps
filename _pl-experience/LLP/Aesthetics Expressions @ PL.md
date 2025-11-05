@@ -6,8 +6,8 @@ description: ""
 third_nav_title: LLP
 ---
 <p>Our LLP programme aims to provide a holistic aesthetics learning experiences&nbsp;for
-our PL-lites through&nbsp;<strong>_‘Music Harmonises@PL’_</strong>&nbsp;and&nbsp;<strong>_‘Arts Creates@PL’_</strong>_._&nbsp;We
-envision our PL-Lites to be well-exposed and equipped with various forms
+our PL-lites through&nbsp;<strong>_‘Music Harmonises@PL’_</strong>&nbsp;and&nbsp;<strong>_‘Arts Creates@PL’_</strong>.
+We envision our PL-Lites to be well-exposed and equipped with various forms
 of music and art making skills learnt throughout P1-6.&nbsp;Through&nbsp;our
 Music &amp; Art programmes and curriculum, our LLP plan also aims to develop
 our PL-Lites in terms of aesthetics appreciation skills and readiness for
