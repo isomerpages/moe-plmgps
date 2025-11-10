@@ -7,7 +7,7 @@ variant: markdown
 *   [PLMGPS MIMS Account Unlock](https://go.gov.sg/plmimsreset)
 *   [Application for Leave of Absence](https://go.gov.sg/plmgps-applicationforloa)
 *  [Wait List for Transfer](/files/wait%20list%20for%20transfer.pdf)
-*  [Application for Student Care](https://go.gov.sg/plmgps-application-for-student-care)
+*  [Application for Student Care](https://form.gov.sg/68d1085151cdf37f8721a0c5)
 *   [Insurance claim](https://studentgpa.incomegroupins.com.sg/#/)
 * [MOE FAS Application Form](/files/PL%20Parents'%20Portal/2024%20moe%20fas%20application%20form.pdf)
 *   [Address Updating](/files/address%20updating%20form.pdf)
