@@ -38,6 +38,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal Admin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="vincent_tjong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Vincent Hianardi Tjong</a></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Heads of Department &amp; Year Heads</strong></h3>
@@ -47,16 +56,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>English</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><a href="mailto:huang_xueyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Gerlynn Huang</a></strong>
-<br>
-</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
@@ -111,7 +110,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:yeo_hsu-er_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Charmaine Tan</a></strong>
+<p><strong><a href="tan_pei_kee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Pei Kee</a></strong>
 </p>
 </td>
 </tr>
@@ -139,18 +138,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 and P2)
+<p>Year Head Lower Primary
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tan_pei_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Pei Kee</a></strong>
+<p><strong><a href="dilys_jiang_sihui@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dilys Jiang Sihui</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 and P4)
+<p>Year Head Middle Primary
 <br>
 </p>
 </td>
@@ -161,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 and P6)
+<p>Year Head Upper Primary
 <br>
 </p>
 </td>
@@ -206,7 +205,7 @@ variant: tiptap
 <p>Level Head - EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="kong_jeng_huey@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kong Jeng Huey</a>
+<p><a href="tea_sin_ee_darell@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tea Sin Ee Darell</a>
 </p>
 </td>
 </tr>
@@ -331,16 +330,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tok_sock_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tok Sock Hoon</a> 
 <br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Upper Pri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dilys_jiang_sihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dilys Wong</a>
 </p>
 </td>
 </tr>
