@@ -25,7 +25,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<p><strong>Charity</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs P Kunasekaran</p>
@@ -36,7 +37,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Faith</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Dawn Lee Mei Fong</p>
@@ -47,21 +49,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Gentleness</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Yu Han (Mrs Yeo)</p>
+<p>Mdm Chua Yu Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Qinning Lydia (Mrs Wong)</p>
+<p>Mdm Li Qinning Lydia</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Humility</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeong Swee Gee Karen (Mrs Tay)</p>
+<p>Mdm Yeong Swee Gee Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Suhanthi Thirignasambhantham</p>
@@ -69,13 +73,62 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Joy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koh Wei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Goh So Fang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kindness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Boon Kwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Leong Wei Ling Jessica Rebekah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Love</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Winnie Kho-Dang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Soek Hua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Patience</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Bee Har Amilyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jun Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Purity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Seaw Cheng Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Suhana Binte Alias</p>
 </td>
 </tr>
 </tbody>
