@@ -35,17 +35,17 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:li_qinning_lydia@moe.edu.sg">Mdm Li Qinning Lydia<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
     <td class="tg-a7kh"><a href="mailto:chua_yu_han@moe.edu.sg">Mdm Chua Yu Han<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:li_qinning_lydia@moe.edu.sg">Mdm Li Qinning Lydia<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Humility</td>
     <td class="tg-a7kh"><a href="mailto:karen_yeong_swee_gee@moe.edu.sg">Mdm Yeong Swee Gee Karen<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:ho_suk_san@moe.edu.sg">Ms Ho Suk San<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:Suhanthi_ Thirignasambhantham@moe.edu.sg">Ms Suhanthi Thirignasambhantham<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:lee_jia_ying_vanessa@moe.edu.sg">Ms Lee Jia Ying, Vanessa<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
+    <td class="tg-a7kh"><a href="mailto:koh_wei_ying@moe.edu.sg">Ms Koh Wei Ying <span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
     <td class="tg-a7kh"><a href="mailto:koh_wei_ying@moe.edu.sg">Ms Koh Wei Ying<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
   </tr>
   <tr>
