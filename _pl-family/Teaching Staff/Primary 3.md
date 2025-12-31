@@ -3,70 +3,114 @@ title: Primary 3
 permalink: /pl-family/teaching-staff/primary-3/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a7kh{background-color:#EAEAEA;color:#0857AE;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Class</th>
-    <th class="tg-n4qt">Form Teacher</th>
-    <th class="tg-n4qt">Form Teacher</th>
-  </tr>
-</thead>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-n4qt">Charity</td>
-    <td class="tg-a7kh"><a href="mailto:teo_qian_ni_ashley@moe.edu.sg">Ms Ashley Shimshona Teo Qian Ni<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:tay_bee_lian_esther@moe.edu.sg">Mdm Tay Bee Lian Esther<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Faith</td>
-    <td class="tg-a7kh"><a href="mailto:goh_foong_meng@moe.edu.sg">Mrs Lee Weng Hun<span style="font-weight:600;text-decoration:none;color:#0857AE"> </span></a></td>
-    <td class="tg-a7kh"><a href="mailto:ng_gui_mei@moe.edu.sg">Ms Ng Gui Mei<span style="font-weight:600;text-decoration:none;color:#0857AE"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Gentleness</td>
-    <td class="tg-a7kh"><a href="mailto:tay_sen_leng@moe.edu.sg">Mdm Tay Sen Leng<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:ye_zi@moe.edu.sg">Ms Ye Zi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Humility</td>
-    <td class="tg-a7kh"><a href="mailto:pereira_michele_madeline@moe.edu.sg">Ms Pereira Michele Madeline<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:tay_chee_teck@moe.edu.sg">Mr Tay Chee Teck<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Joy</td>
-    <td class="tg-a7kh"><a href="mailto:">Mdm Chan Yin Fun/Mdm Nadhirah Binte Abdul Rahman<span style="font-weight:600;text-decoration:none;color:#0857AE"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:tan_chin_lam@moe.edu.sg">Ms Tan Chin Lam<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Kindness</td>
-    <td class="tg-a7kh"><a href="mailto:bahjah_mohamed_nawawi@moe.edu.sg">Mdm Bahjah Binte Mohamed Nawawi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:yeo_wei_san_karine@moe.edu.sg">Ms Yeo Wei San Karine<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Love</td>
-    <td class="tg-a7kh"><a href="mailto:lee_soue_sien_jimlim@moe.edu.sg">Mdm Lee Soue Sien Jimlim<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:hazel_chay_see_wan@moe.edu.sg">Mdm Hazel Chay See Wan<span style="font-weight:600;text-decoration:none;color:#0857AE"><span style="font-weight:600;text-decoration:none;color:#0857AE"></span></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Patience</td>
-    <td class="tg-a7kh"><a href="mailto:ang_chiu_hoon@moe.edu.sg">Mdm Ang Chiu Hoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:wu_jiao@moe.edu.sg">Mdm Wu Jiao<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">Purity</td>
-    <td class="tg-a7kh"><a href="mailto:teo_wan_lee@moe.edu.sg">Mdm Teo Wan Lee<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-    <td class="tg-a7kh"><a href="mailto:chen_shimin@moe.edu.sg">Ms Tan Shimin<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Charity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mi Qinghua Angela</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khow Mui Hoon @ Xu Meng Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Faith</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Li Hui Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kang Chu Bin Lillian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gentleness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Suk San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seow Angelia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humility</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Siew Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nirmaladevi (Mrs Premanand)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Joy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yee Shu En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Thamarai Selvi d/o Chelliah (Mrs Peters)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kindness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Meenachi Balasundaram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Chin Lam / Ms Kong Jeng Huey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Love</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Pei Sei Florence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jacqueline Low</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
