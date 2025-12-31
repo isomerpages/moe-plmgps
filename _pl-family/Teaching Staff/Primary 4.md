@@ -3,40 +3,114 @@ title: Primary 4
 permalink: /pl-family/teaching-staff/primary-4/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-
-.tg  {border-collapse:collapse;border-spacing:0;}
-
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-
-.tg .tg-a7kh{background-color:#EAEAEA;color:#0857AE;font-weight:bold;text-align:center;vertical-align:top}
-
-</style>
-<table class="tg">
-
-<thead>
-	<tr><th class="tg-n4qt">Class</th>
-		<th class="tg-n4qt">Form Teacher</th>
-		<th class="tg-n4qt">Form Teacher</th>
-	</tr>
-
-</thead>
-
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-	<tr>
-		<td class="tg-n4qt">Charity</td>
-		<td class="tg-a7kh"><a href="mailto:sim_ai_kheng_veronica@moe.edu.sg">Mdm Sim Ai Kheng Veronica<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:ang_li_yan@moe.edu.sg">Ms Ang Li Yan<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Faith</td><td class="tg-a7kh"><a href="mailto:quek_yee_khoon@moe.edu.sg">Ms Quek Yee Khoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:angela_mi@moe.edu.sg">Mdm Mi Qinghua Angela<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Gentleness</td><td class="tg-a7kh"><a href="mailto:sheila_lim_su_fen@moe.edu.sg">Ms Lim Su Fen Sheila<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:lau_jin_lin@moe.edu.sg">Mdm Lau Jin Lin<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Humility</td><td class="tg-a7kh"><a href="mailto:tok_sock_hoon@moe.edu.sg">Ms Tok Sock Hoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:phan_siu_ling@moe.edu.sg">Ms Phan Siu Ling/Mdm Tan Giam Hwee<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Joy</td><td class="tg-a7kh"><a href="mailto:tan_baofen_eunice@moe.edu.sg">Mrs Chan Baofen Eunice<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:lee_soek_hua@moe.edu.sg">Ms Lee Soek Hua/Mdm Nirmaladevi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Kindness</td><td class="tg-a7kh"><a href="mailto:fatinnurizzah_azahari@moe.edu.sg">Ms Fatinnur’Izzah Binte Azahari<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:kua_choon_tat@moe.edu.sg">Mr Kua Choon Tat<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Love</td><td class="tg-a7kh"><a href="mailto:siti_khairunnisa_ghani@moe.edu.sg">Mdm Siti Khairunnisa Binte Ghani<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:cheong_wan_yi_catherine@moe.edu.sg">Ms Cheong Wan Yi, Catherine Anne<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr></tr>
-
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Charity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sim Ai Kheng Veronica (Mrs Khoo)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Li Yan (Mrs Pua)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Faith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Min Hongmei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Siu Yee (Mrs Watt)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gentleness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Su Fen Sheila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Jin Lin (Mrs Chen)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tok Sock Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Teck Guan Vincent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chan Baofen Eunice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Phan Siu Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kua Choon Tat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tayyiba Bte Muhammad Yusaf (Mrs Hertzman)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Love</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Khairunnisa Binte Ghani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Wan Yi, Catherine Anne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
-
 </table>
+<p></p>
