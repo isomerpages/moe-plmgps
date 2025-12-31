@@ -13,15 +13,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>   Form Teacher   </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>   Form Teacher   </strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
