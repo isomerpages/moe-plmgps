@@ -1,6 +1,6 @@
 ---
 title: Primary 4
-permalink: /pl-family/Teaching-Staff/Primary-4/
+permalink: /pl-family/teaching-staff/primary-4/
 description: ""
 third_nav_title: Teaching Staff
 variant: markdown
@@ -22,14 +22,20 @@ variant: markdown
 .tg .tg-a7kh{background-color:#EAEAEA;color:#0857AE;font-weight:bold;text-align:center;vertical-align:top}
 
 </style>
-
 <table class="tg">
 
-<thead><tr><th class="tg-n4qt">Class</th><th class="tg-n4qt">Form Teacher</th><th class="tg-n4qt">Form Teacher</th></tr>
+<thead>
+	<tr><th class="tg-n4qt">Class</th>
+		<th class="tg-n4qt">Form Teacher</th>
+		<th class="tg-n4qt">Form Teacher</th>
+	</tr>
 
 </thead>
 
-<tbody><tr><td class="tg-n4qt">Charity</td><td class="tg-a7kh"><a href="mailto:liao_sze_yuen@moe.edu.sg">Mrs Jacqueline Low <span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:ng_jun_qi@moe.edu.sg">Mr Ng Jun Qi <span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Faith</td><td class="tg-a7kh"><a href="mailto:thamarai_selvi_chelliah@moe.edu.sg">Mdm Thamarai Selvi d/o Chelliah<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:min_hongmei@moe.edu.sg">Ms Min Hongmei<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Gentleness</td><td class="tg-a7kh"><a href="mailto:tayyiba_muhammad_yusaf@moe.edu.sg">Mdm Tayyiba Bte Muhammad Yusaf<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:">Mdm Lee Tiew Eng<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Humility</td><td class="tg-a7kh"><a href="mailto:ng_pei_sei_florence@moe.edu.sg">Mdm Ng Pei Sei Florence<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:faith_lim_mei_ting@moe.edu.sg">Ms Faith Mavis Lim Mei Ting<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Joy</td><td class="tg-a7kh"><a href="mailto:yee_shu_en@moe.edu.sg">Ms Yee Shu En <span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:chiew_pui_mei@moe.edu.sg">Ms Chiew Pui Mei<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Kindness</td><td class="tg-a7kh"><a href="mailto:meenachi_balasundaram@moe.edu.sg">Mdm Meenachi Balasundaram<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:kang_chu_bin_lillian@moe.edu.sg">Mdm Kang Chu Bin Lillian<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Love</td><td class="tg-a7kh"><a href="mailto:goh_siew_hoon@moe.edu.sg">Ms Goh Siew Hoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:toh_li_hui_serene@moe.edu.sg">Ms Toh Li Hui Serene<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr>
+<tbody>
+	<tr>
+		<td class="tg-n4qt">Charity</td>
+		<td class="tg-a7kh"><a href="mailto:sim_ai_kheng_veronica@moe.edu.sg">Mdm Sim Ai Kheng Veronica<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:ang_li_yan@moe.edu.sg">Ms Ang Li Yan<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Faith</td><td class="tg-a7kh"><a href="mailto:quek_yee_khoon@moe.edu.sg">Ms Quek Yee Khoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:angela_mi@moe.edu.sg">Mdm Mi Qinghua Angela<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Gentleness</td><td class="tg-a7kh"><a href="mailto:sheila_lim_su_fen@moe.edu.sg">Ms Lim Su Fen Sheila<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:lau_jin_lin@moe.edu.sg">Mdm Lau Jin Lin<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Humility</td><td class="tg-a7kh"><a href="mailto:tok_sock_hoon@moe.edu.sg">Ms Tok Sock Hoon<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:phan_siu_ling@moe.edu.sg">Ms Phan Siu Ling/Mdm Tan Giam Hwee<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Joy</td><td class="tg-a7kh"><a href="mailto:tan_baofen_eunice@moe.edu.sg">Mrs Chan Baofen Eunice<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:lee_soek_hua@moe.edu.sg">Ms Lee Soek Hua/Mdm Nirmaladevi<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Kindness</td><td class="tg-a7kh"><a href="mailto:fatinnurizzah_azahari@moe.edu.sg">Ms Fatinnur’Izzah Binte Azahari<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:kua_choon_tat@moe.edu.sg">Mr Kua Choon Tat<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr><td class="tg-n4qt">Love</td><td class="tg-a7kh"><a href="mailto:siti_khairunnisa_ghani@moe.edu.sg">Mdm Siti Khairunnisa Binte Ghani<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td><td class="tg-a7kh"><a href="mailto:cheong_wan_yi_catherine@moe.edu.sg">Ms Cheong Wan Yi, Catherine Anne<span style="font-weight:600;text-decoration:none;color:#0857AE"></span></a></td></tr><tr></tr>
 
 </tbody>
 
