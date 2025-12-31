@@ -84,7 +84,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-n4qt">School Counsellor</td>
-    <td class="tg-ii8k">Mrs Koh Eng Keng</td>
+    <td class="tg-ii8k">Mrs Goh Eng Keng</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Allied Educator</td>
@@ -94,10 +94,12 @@ variant: markdown
     <td class="tg-n4qt">Allied Educator</td>
     <td class="tg-ii8k">Mrs Chua May Ling</td>
   </tr>
+	 <tr>
+    <td class="tg-n4qt">Allied Educator</td>
+    <td class="tg-ii8k">Ms Jayashree</td>
+  </tr>
   <tr>
-    <td class="tg-n4qt">Christian Ministry Support</td>
-    <td class="tg-ii8k">Mrs Rosalind Chua<br>
-		</td>
+		
   </tr>
 	<tr><td class="tg-n4qt">Christian Ministry Support</td>
     <td class="tg-ii8k">Ms Shanti Merry<br>
@@ -112,11 +114,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Desktop Engineer</td>
-    <td class="tg-ii8k">Mr Sayson Justin Dela Cruz</td>
+    <td class="tg-ii8k">Ms Nicole Lai</td>
   </tr>
   <tr>
     <td class="tg-n4qt">Desktop Engineer</td>
-    <td class="tg-ku5w">Mr         Mohd Hazman Syafiq<span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-ku5w">Mr Jasni Alif Aminuddin <span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">IT Media Support Specialist</td>
@@ -124,7 +126,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-n4qt">Science Lab TA</td>
-    <td class="tg-ii8k">Ms Valliiammai Subramanian</td>
+    <td class="tg-ii8k">Ms Lee Lan Yang</td>
   </tr>
 </tbody>
 </table>
