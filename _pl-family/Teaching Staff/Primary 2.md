@@ -18,11 +18,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>   Form Teacher   </strong>
+<p><strong>Form Teacher</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>   Form Teacher   </strong>
+<p><strong>Form Teacher</strong>
 </p>
 </td>
 </tr>
