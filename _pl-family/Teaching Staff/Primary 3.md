@@ -122,7 +122,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jacqueline Low</p>
+<p><a href="mailto:liao_sze_yuen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jacqueline Low</a>
+</p>
 </td>
 </tr>
 <tr>
