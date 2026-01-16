@@ -46,10 +46,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dawn Lee Mei Fong</p>
+<p><a href="lee_mei_fong_dawn@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Dawn Lee Mei Fong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tok Yen Ling</p>
+<p><a href="tok_yen_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tok Yen Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,10 +60,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Yu Han</p>
+<p><a href="chua_yu_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chua Yu Han</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Qinning Lydia</p>
+<p><a href="li_qinning_lydia@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Li Qinning Lydia</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -70,10 +74,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeong Swee Gee Karen</p>
+<p><a href="karen_yeong_swee_gee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yeong Swee Gee Karen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suhanthi Thirignasambhantham</p>
+<p><a href="suhanthi_thirignasambhantham@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Suhanthi Thirignasambhantham</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,10 +88,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Wei Ying</p>
+<p><a href="koh_wei_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Koh Wei Ying</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh So Fang</p>
+<p><a href="goh_so_fang_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Goh So Fang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +102,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Boon Kwee</p>
+<p><a href="lee_boon_kwee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Lee Boon Kwee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Wei Ling Jessica Rebekah</p>
+<p><a href="leong_wei_ling_jessica@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Leong Wei Ling Jessica Rebekah</a>
+</p>
 </td>
 </tr>
 <tr>
