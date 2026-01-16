@@ -148,7 +148,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_suhana_alias@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Siti Suhana Binte Alias</a>
+<p><a href="mailto:siti_suhana_alias@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Siti Suhana Binte Alias</a> /
+<a href="mailto:tan_xue_qun@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Xue Qun (Mrs Anna Chan)</a>
 </p>
 </td>
 </tr>
