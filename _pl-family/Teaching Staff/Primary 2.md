@@ -116,10 +116,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Winnie Kho-Dang</p>
+<p><a href="dang_winnie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Winnie Kho-Dang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Soek Hua</p>
+<p><a href="lee_soek_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lee Soek Hua</a>
+</p>
 </td>
 </tr>
 <tr>
