@@ -11,4 +11,4 @@ variant: markdown
 
 *  [Link for Parents to access social emotional learning resources from MOE’s website. ](https://go.gov.sg/selresforparents)
 
-Please refer to Parents Gateway for Parents' Briefing 2025, Calendar and Termly Notification.
+Please refer to Parents Gateway for Parents' Briefing 2026, Calendar and Termly Notification.
