@@ -118,7 +118,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Pei Sei Florence</p>
+<p><a href="ng_pei_sei_florence@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Pei Sei Florence</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jacqueline Low</p>
