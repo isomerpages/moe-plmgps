@@ -32,10 +32,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs P Kunasekaran</p>
+<p><a href="panumathei_rengasamy_mrs_panumathei_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs P Kunasekaran</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Ping</p>
+<p><a href="zhang_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Zhang Ping</a>
+</p>
 </td>
 </tr>
 <tr>
