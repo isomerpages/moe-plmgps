@@ -80,11 +80,11 @@ variant: tiptap
 <p>Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_baofen_eunice@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Chan Baofen Eunice</a>
+<p><a href="mailto:tan_baofen_eunice@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Chan Baofen Eunice</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="phan_siu_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Phan Siu Ling</a>
+<p><a href="mailto:phan_siu_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Phan Siu Ling</a>
 </p>
 </td>
 </tr>
@@ -93,11 +93,12 @@ variant: tiptap
 <p>Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="kua_choon_tat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kua Choon Tat</a>
+<p><a href="mailto:kua_choon_tat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kua Choon Tat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tayyiba Bte Muhammad Yusaf (Mrs Hertzman)</p>
+<p><a href="mailto:tayyiba_muhammad_yusaf@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Tayyiba Bte Muhammad Yusaf (Mrs Hertzman)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,10 +106,12 @@ variant: tiptap
 <p>Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Khairunnisa Binte Ghani</p>
+<p><a href="mailto:siti_khairunnisa_ghani@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Siti Khairunnisa Binte Ghani</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Wan Yi, Catherine Anne</p>
+<p><a href="mailto:cheong_wan_yi_catherine@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cheong Wan Yi, Catherine Anne</a>
+</p>
 </td>
 </tr>
 <tr>
