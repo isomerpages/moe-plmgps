@@ -33,11 +33,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="angela_mi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Mi Qinghua Angela</a>
+<p><a href="mailto:angela_mi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Mi Qinghua Angela</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="xu_meng_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Khow Mui Hoon @ Xu Meng Ting</a>
+<p><a href="mailto:xu_meng_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Khow Mui Hoon @ Xu Meng Ting</a>
 </p>
 </td>
 </tr>
@@ -47,11 +47,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="toh_li_hui_serene@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Toh Li Hui Serene</a>
+<p><a href="mailto:toh_li_hui_serene@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Toh Li Hui Serene</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="kang_chu_bin_lillian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Kang Chu Bin Lillian</a>
+<p><a href="mailto:kang_chu_bin_lillian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Kang Chu Bin Lillian</a>
 </p>
 </td>
 </tr>
@@ -61,11 +61,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ho_suk_san@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ho Suk San</a>
+<p><a href="mailto:ho_suk_san@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ho Suk San</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="seow_angelia_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Seow Angelia</a>
+<p><a href="mailto:seow_angelia_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Seow Angelia</a>
 </p>
 </td>
 </tr>
@@ -75,11 +75,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="goh_siew_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Siew Hoon</a>
+<p><a href="mailto:goh_siew_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Siew Hoon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="premanand_nirmaladevi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nirmaladevi (Mrs Premanand)</a>
+<p><a href="mailto:premanand_nirmaladevi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nirmaladevi (Mrs Premanand)</a>
 </p>
 </td>
 </tr>
@@ -89,11 +89,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yee_shu_en@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yee Shu En</a>
+<p><a href="mailto:yee_shu_en@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yee Shu En</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="thamarai_selvi_chelliah@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Thamarai Selvi d/o Chelliah (Mrs Peters)</a>
+<p><a href="mailto:thamarai_selvi_chelliah@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Thamarai Selvi d/o Chelliah (Mrs Peters)</a>
 </p>
 </td>
 </tr>
@@ -103,12 +103,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="meenachi_balasundaram@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Meenachi Balasundaram</a>
+<p><a href="mailto:meenachi_balasundaram@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Meenachi Balasundaram</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_chin_lam@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Chin Lam</a> /
-<a href="kong_jeng_huey@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kong Jeng Huey</a>
+<p><a href="mailto:tan_chin_lam@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Chin Lam</a> /
+<a href="mailto:kong_jeng_huey@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Kong Jeng Huey</a>
 </p>
 </td>
 </tr>
@@ -118,7 +118,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_pei_sei_florence@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Pei Sei Florence</a>
+<p><a href="mailto:ng_pei_sei_florence@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ng Pei Sei Florence</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
