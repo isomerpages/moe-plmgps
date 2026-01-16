@@ -28,11 +28,11 @@ variant: tiptap
 <p>Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sim_ai_kheng_veronica@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sim Ai Kheng Veronica (Mrs Khoo)</a>
+<p><a href="mailto:sim_ai_kheng_veronica@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sim Ai Kheng Veronica (Mrs Khoo)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ang_li_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Li Yan (Mrs Pua)</a>
+<p><a href="mailto:ang_li_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Li Yan (Mrs Pua)</a>
 </p>
 </td>
 </tr>
@@ -41,11 +41,11 @@ variant: tiptap
 <p>Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="min_hongmei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Min Hongmei</a>
+<p><a href="mailto:min_hongmei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Min Hongmei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ong_siu_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ong Siu Yee (Mrs Watt)</a>
+<p><a href="mailto:ong_siu_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ong Siu Yee (Mrs Watt)</a>
 </p>
 </td>
 </tr>
@@ -54,11 +54,11 @@ variant: tiptap
 <p>Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sheila_lim_su_fen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Su Fen Sheila</a>
+<p><a href="mailto:sheila_lim_su_fen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Su Fen Sheila</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lau_jin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lau Jin Lin (Mrs Chen)</a>
+<p><a href="mailto:lau_jin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lau Jin Lin (Mrs Chen)</a>
 </p>
 </td>
 </tr>
@@ -67,11 +67,11 @@ variant: tiptap
 <p>Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tok_sock_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tok Sock Hoon</a>
+<p><a href="mailto:tok_sock_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tok Sock Hoon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="goh_teck_guan_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Goh Teck Guan Vincent</a>
+<p><a href="mailto:goh_teck_guan_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Goh Teck Guan Vincent</a>
 </p>
 </td>
 </tr>
