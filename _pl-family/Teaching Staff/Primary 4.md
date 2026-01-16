@@ -28,10 +28,12 @@ variant: tiptap
 <p>Charity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Ai Kheng Veronica (Mrs Khoo)</p>
+<p><a href="sim_ai_kheng_veronica@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sim Ai Kheng Veronica (Mrs Khoo)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Li Yan (Mrs Pua)</p>
+<p><a href="ang_li_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ang Li Yan (Mrs Pua)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -39,10 +41,12 @@ variant: tiptap
 <p>Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Min Hongmei</p>
+<p><a href="min_hongmei@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Min Hongmei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Siu Yee (Mrs Watt)</p>
+<p><a href="ong_siu_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ong Siu Yee (Mrs Watt)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -50,10 +54,12 @@ variant: tiptap
 <p>Gentleness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Su Fen Sheila</p>
+<p><a href="sheila_lim_su_fen@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Su Fen Sheila</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Jin Lin (Mrs Chen)</p>
+<p><a href="lau_jin_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lau Jin Lin (Mrs Chen)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -61,10 +67,12 @@ variant: tiptap
 <p>Humility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tok Sock Hoon</p>
+<p><a href="tok_sock_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tok Sock Hoon</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Teck Guan Vincent</p>
+<p><a href="goh_teck_guan_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Goh Teck Guan Vincent</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,10 +80,12 @@ variant: tiptap
 <p>Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan Baofen Eunice</p>
+<p><a href="tan_baofen_eunice@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Chan Baofen Eunice</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phan Siu Ling</p>
+<p><a href="phan_siu_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Phan Siu Ling</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +93,8 @@ variant: tiptap
 <p>Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kua Choon Tat</p>
+<p><a href="kua_choon_tat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kua Choon Tat</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tayyiba Bte Muhammad Yusaf (Mrs Hertzman)</p>
