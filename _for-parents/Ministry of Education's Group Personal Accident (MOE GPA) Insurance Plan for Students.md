@@ -16,8 +16,9 @@ scheme. As private hospitals charge significantly higher medical costs,
 there may be more out-of-pocket expenses for parents/guardians as there
 are caps to the MOE GPA insurance. Please note that all claims are subject
 to the policy terms and conditions.</p>
-<p>Please refer to the detailed <u>factshee</u>t that outlines the specific
-coverage details, online claim procedures, and important terms and conditions.</p>
+<p>Please refer to the detailed <a href="/files/GPA_Insurance_for_Students_Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">factsheet</a> that
+outlines the specific coverage details, online claim procedures, and important
+terms and conditions.</p>
 <p>Online Submission Claiming Process:</p>
 <ol data-tight="true" class="tight">
 <li>
