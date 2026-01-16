@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Ministry of Education's Group Personal Accident (MOE GPA) Insurance Plan
-        for Students.md
       - Canteen Food Pricelist.md
       - Useful information for parents.md
       - Forms.md
       - Resource for Parents.md
+      - Ministry of Education's Group Personal Accident (MOE GPA) Insurance Plan
+        for Students.md
