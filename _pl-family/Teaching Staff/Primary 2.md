@@ -130,10 +130,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Bee Har Amilyn</p>
+<p><a href="lee_bee_har_amilyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lee Bee Har Amilyn</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jun Qi</p>
+<p><a href="ng_jun_qi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ng Jun Qi</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -142,10 +144,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seaw Cheng Cheng</p>
+<p><a href="seaw_cheng_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Seaw Cheng Cheng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Suhana Binte Alias</p>
+<p><a href="siti_suhana_alias@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Siti Suhana Binte Alias</a>
+</p>
 </td>
 </tr>
 <tr>
