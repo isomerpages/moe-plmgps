@@ -110,7 +110,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="tan_pei_kee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Pei Kee</a></strong>
+<p><strong><a href="mailto:tan_pei_kee@moe.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Pei Kee</a></strong>
 </p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:bong_fui_lian_shirley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Bong Fui Lian Shirley</a></strong>
+<p><strong><a href="mailto:bong_fui_lian_shirley@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Bong Fui Lian Shirley</a></strong>
 </p>
 </td>
 </tr>
@@ -132,7 +132,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:pay_gim_hean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jin Pay Gim Hean</a></strong>
+<p><strong><a href="mailto:pay_gim_hean@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jin Pay Gim Hean</a></strong>
 </p>
 </td>
 </tr>
@@ -143,7 +143,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="dilys_jiang_sihui@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Dilys Jiang Sihui</a></strong>
+<p><strong><a href="dilys_jiang_sihui@moe.gov.sg" rel="noopener nofollow" target="_blank">Ms Dilys Jiang Sihui</a></strong>
 </p>
 </td>
 </tr>
@@ -176,7 +176,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:li_jiazhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Li Jiazhen</a></strong>
+<p><strong><a href="mailto:li_jiazhen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Li Jiazhen</a></strong>
 </p>
 </td>
 </tr>
@@ -205,7 +205,7 @@ variant: tiptap
 <p>Level Head - EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tea_sin_ee_darell@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tea Sin Ee Darell</a>
+<p><a href="mailto:tea_sin_ee_darell@moe.gov.sg" rel="noopener nofollow" target="_blank">Ms Tea Sin Ee Darell</a>
 </p>
 </td>
 </tr>
@@ -214,7 +214,7 @@ variant: tiptap
 <p>Level Head - Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tay_chee_teck@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tay Chee Teck</a>
+<p><a href="mailto:tay_chee_teck@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tay Chee Teck</a>
 </p>
 </td>
 </tr>
@@ -232,7 +232,7 @@ variant: tiptap
 <p>Level Head - ICT &amp; Data Mgmt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jun_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Jun Qi</a>
+<p><a href="mailto:ng_jun_qi@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Jun Qi</a>
 </p>
 </td>
 </tr>
@@ -241,7 +241,7 @@ variant: tiptap
 <p>Level Head - PAL &amp; VIA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_yu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Yu Han</a>
+<p><a href="mailto:chua_yu_han@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Yu Han</a>
 </p>
 </td>
 </tr>
@@ -259,7 +259,7 @@ variant: tiptap
 <p>Subject Head - Student Well-being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="angela_mi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Mi Qinghua Angela</a>
+<p><a href="mailto:angela_mi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Mi Qinghua Angela</a>
 </p>
 </td>
 </tr>
@@ -279,7 +279,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kang_natalie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kang Natalie</a>
+<p><a href="mailto:kang_natalie@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kang Natalie</a>
 </p>
 </td>
 </tr>
@@ -290,7 +290,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_suk_san@school.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ho Suk San</a>
+<p><a href="mailto:ho_suk_san@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ho Suk San</a>
 </p>
 </td>
 </tr>
@@ -308,7 +308,7 @@ variant: tiptap
 <p>Subject Head - Citizenship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chua_yu_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chua Yu Han</a>
+<p><a href="mailto:chua_yu_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chua Yu Han</a>
 </p>
 </td>
 </tr>
