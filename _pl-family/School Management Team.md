@@ -76,7 +76,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE &amp; CCA</p>
+<p>Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:li_jiazhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Li Jiazhen</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education (PE) Co-Curricular Activities (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:lim_wei_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Wei Sheng</a></strong>
@@ -85,7 +94,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT</p>
+<p>Information and Communications Technology</p>
+<p>(ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:tan_ying_ying_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amanda Tan</a></strong>
@@ -166,17 +176,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="mailto:wong_lie_peng_josephine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Josephine Wang</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MTL
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:li_jiazhen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Li Jiazhen</a></strong>
 </p>
 </td>
 </tr>
