@@ -42,7 +42,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Sexuality Education Programme for 2026</strong></h4>
+<h4><strong>Overview of Paya Lebar Methodist Girls’ School (Primary)'s Sexuality Education Programme for 2026</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -73,7 +73,7 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<h4><strong>At Paya Lebar Methodist Girls’ School (Primary),the following Sexuality Education lessons will be taught in 2026:</strong></h4>
+<h4><strong>At Paya Lebar Methodist Girls’ School (Primary), the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Primary 5</strong></h4>
 <div class="isomer-image-wrapper">
