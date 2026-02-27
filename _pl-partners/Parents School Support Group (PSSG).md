@@ -40,6 +40,6 @@ school.</p>
 <p><a href="https://drive.google.com/file/d/1PgWJ2s4qbg7ytNMbGYdiwXlMW_S9gL76/view?usp=sharing" rel="noopener nofollow" target="_blank">Familiar Roles, Fresh Resolve - PL PSSG way!</a>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P2TzgpBWuIM?si=4YlsKFNmhPsqo91H"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P2TzgpBWuIM?si=4YlsKFNmhPsqo91H&amp;rel=0&amp;modestbranding=1"></iframe>
 </div>
 <p></p>
