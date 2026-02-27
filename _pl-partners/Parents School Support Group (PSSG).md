@@ -47,7 +47,8 @@ school.</p>
 <p>
 <br><strong><em>YiRen Chung</em></strong><em><br></em>Chairperson
 <br>Parent-School Support Group (PSSG)</p>
-<p></p>
+<p><a href="https://drive.google.com/file/d/1PgWJ2s4qbg7ytNMbGYdiwXlMW_S9gL76/view?usp=sharing" rel="noopener nofollow" target="_blank">PSSG Video</a>
+</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P2TzgpBWuIM?si=4YlsKFNmhPsqo91H"></iframe>
 </div>
