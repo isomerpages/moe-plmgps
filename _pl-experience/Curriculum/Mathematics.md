@@ -3,7 +3,8 @@ title: Mathematics
 permalink: /pl-experience/Curriculum/Mathematics/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-![](/images/PL%20Experience/Curriculum/Mathematics/M1.jpg)
+![](/images/Maths_pg_1.png)
 
-![](/images/PL%20Experience/Curriculum/Mathematics/M2.jpg)
+![](/images/Maths_pg_2.png)
