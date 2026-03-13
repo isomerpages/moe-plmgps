@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Gif_Website_Lates_one__1_.gif
+      background: /images/PLMGSHomepage.gif
       key_highlights:
         - title: Latest News
           description: ""
