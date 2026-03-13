@@ -9,8 +9,7 @@ variant: tiptap
 <p>The Mathematics Department strives to cultivate every PL-Lite into a confident,
 innovative problem solver who approaches mathematical learning with joy
 and resilience in a vibrant and engaging environment.</p>
-<p><strong>Our Aims</strong>
-</p>
+<h4><strong>Our Aims</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -52,6 +51,9 @@ of Mathematics.</p>
 <p>Students strengthen their metacognitive skills as they monitor their progress,
 engage in self-assessment and take ownership of their mathematical learning
 journey.</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
