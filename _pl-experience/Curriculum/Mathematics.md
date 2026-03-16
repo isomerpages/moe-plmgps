@@ -23,7 +23,6 @@ and resilience in a vibrant and engaging environment.</p>
 </p>
 <p><strong>&amp; Confidence Building</strong>
 </p>
-<p></p>
 <p>Students acquire essential mathematical concepts and problem-solving skills
 for everyday applications, growing in confidence and nurturing a sustained
 interest in Mathematics.</p>
@@ -32,8 +31,6 @@ interest in Mathematics.</p>
 <p><strong>Critical Thinking</strong>
 </p>
 <p><strong>&amp; 21st Century Competencies</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p>Through deeper understanding of fundamental mathematical ideas, students
 develop analytical reasoning and</p>
@@ -46,11 +43,9 @@ of Mathematics.</p>
 </p>
 <p><strong>&amp; Self-Reflection</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Students strengthen their metacognitive skills as they monitor their progress,
-engage in self-assessment and take ownership of their mathematical learning
-journey.</p>
+<p><strong>&nbsp;</strong>Students strengthen their metacognitive skills
+as they monitor their progress, engage in self-assessment and take ownership
+of their mathematical learning journey.</p>
 <p></p>
 <p></p>
 </td>
