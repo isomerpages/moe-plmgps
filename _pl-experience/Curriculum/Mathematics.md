@@ -33,9 +33,8 @@ interest in Mathematics.</p>
 <p><strong>&amp; 21st Century Competencies</strong>
 </p>
 <p>Through deeper understanding of fundamental mathematical ideas, students
-develop analytical reasoning and</p>
-<p>21st century competencies, enhancing both appreciation and application
-of Mathematics.</p>
+develop analytical reasoning and 21st century competencies, enhancing both
+appreciation and application of Mathematics.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,31 +81,24 @@ by concepts, skills, processes, metacognition and positive attitudes.</p>
 </p>
 <p><strong>(P1–P2)</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>P1: Games Day</p>
+<p><strong>&nbsp;</strong>P1: Games Day</p>
 <p>P1: Math Day &amp; Financial Literacy Programme</p>
-<p>&nbsp;</p>
 <p>P2: Games Day</p>
 <p>P2: Learning Journey &amp; Financial Literacy Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lower to Middle Primary (P1–P4)</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Learning Support in Mathematics (LSM)</p>
+<p><strong>&nbsp;</strong>Learning Support in Mathematics (LSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Middle Primary</strong>
 </p>
 <p><strong>(P3–P4)</strong>
 </p>
-<p>&nbsp;</p>
-<p>P3: Fun with Choices</p>
+<p>&nbsp;P3: Fun with Choices</p>
 <p>P3: Financial Literacy Programme</p>
-<p>&nbsp;</p>
-<p>P4: PL Amazing Trail</p>
+<p>&nbsp;P4: PL Amazing Trail</p>
 <p>P4: Calculator Workshop &amp; Financial Literacy Programme</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,16 +106,13 @@ by concepts, skills, processes, metacognition and positive attitudes.</p>
 </p>
 <p><strong>(P5–P6)</strong>
 </p>
-<p>&nbsp;</p>
-<p>P5–P6: Financial Literacy Programme</p>
+<p>&nbsp;P5–P6: Financial Literacy Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Middle to Upper Primary – Selected Students</strong>
 </p>
-<p>&nbsp;</p>
 <p>P4–P5: E2K Programme</p>
-<p>&nbsp;</p>
-<p>P4–P6: Mathematics Olympiad Training &amp; Competitions</p>
+<p>&nbsp;P4–P6: Mathematics Olympiad Training &amp; Competitions</p>
 </td>
 </tr>
 </tbody>
