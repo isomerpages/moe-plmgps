@@ -30,7 +30,7 @@ trends.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Frame work" src="/images/ict%20page.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Frame work" src="/images/ict%20page.png">
 </div>
 <p><strong>ICT-integrated Curriculum with Computational Thinking [InC2] Programme:</strong>
 </p>
