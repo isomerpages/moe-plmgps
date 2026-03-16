@@ -59,9 +59,7 @@ by concepts, skills, processes, metacognition and positive attitudes.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Maths_1.png">
 </div>
 <h4><strong>Mathematics Programmes &amp; Activities</strong></h4>
-<p><strong>For All Levels</strong>
-</p>
-<p><strong>(P1–P6)</strong>
+<p><strong>For All Levels (P1–P6)</strong>
 </p>
 <p>PL Problem Solving Packages</p>
 <p>Semestral Level Challenges</p>
