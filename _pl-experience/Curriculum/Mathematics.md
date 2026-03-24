@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Curriculum
 variant: markdown
 ---
-<h3><strong>Mathematics Department</strong></h3>
 <p>The Mathematics Department strives to cultivate every PL-Lite into a confident,
 innovative problem solver who approaches mathematical learning with joy
 and resilience in a vibrant and engaging environment.</p>
