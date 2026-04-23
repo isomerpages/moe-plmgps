@@ -1,9 +1,9 @@
 ---
 title: Science
-permalink: /pl-experience/Curriculum/Science/
+permalink: /pl-experience/curriculum/science/
 description: ""
 third_nav_title: Curriculum
-variant: tiptap
+variant: markdown
 ---
 <p>The goals of Science education are:</p>
 <ol data-tight="true" class="tight">

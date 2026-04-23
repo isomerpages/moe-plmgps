@@ -1,11 +1,10 @@
 ---
 title: Mathematics
-permalink: /pl-experience/Curriculum/Mathematics/
+permalink: /pl-experience/curriculum/mathematics/
 description: ""
 third_nav_title: Curriculum
-variant: tiptap
+variant: markdown
 ---
-<h3><strong>Mathematics Department</strong></h3>
 <p>The Mathematics Department strives to cultivate every PL-Lite into a confident,
 innovative problem solver who approaches mathematical learning with joy
 and resilience in a vibrant and engaging environment.</p>

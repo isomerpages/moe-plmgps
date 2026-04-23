@@ -8,9 +8,9 @@ variant: markdown
 
 | Type of Stall | Closing Date 
 | -------- | -------- | 
-|   Western Stall Halal |   31 October 2025  | 
-|Muslim Food| 31 October 2025 |
-|Japanese/Korean food| 31 October 2025 |
+|   Western Stall Halal |   31 October 2026  | 
+|Muslim Food| 31 October 2026 |
+
 
 
 **Application Procedure**
